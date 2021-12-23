@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-12-21T10:54:01.981579+00:00</Created>
+        <LastChange>2021-12-21T10:54:01.981607+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="Moreno_119_4.jpg" imageWidth="1765" imageHeight="2512">
+
+    
+    <TextRegion id="r_1_1"  custom="structure {type:NumberingZone:page;}">
+      <Coords points="288,145 349,152 347,210 281,208"/>
+      
+      
+      <TextLine id="tl_1" >
+        <Coords points="295,196 295,148 334,154 334,196 334,205 295,209"/>
+        <Baseline points="297,198 335,198"/>
+        <TextEquiv>
+          <Unicode>4</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="r_3_1"  custom="structure {type:MainZone;}">
+      <Coords points="850,1819 1026,1819 1030,1939 846,1947"/>
+      
+      
+      <TextLine id="tl_59" custom="structure {type:CustomLine:trailer;}">
+        <Coords points="870,1884 870,1831 1004,1831 1004,1884 1002,1907 868,1898"/>
+        <Baseline points="871,1885 1005,1885"/>
+        <TextEquiv>
+          <Unicode>FI1T.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="r_4_1"  custom="structure {type:MarginTextZone:colophon;}">
+      <Coords points="258,2261 1574,2265 1590,2372 262,2364"/>
+      
+      
+      <TextLine id="tl_60" >
+        <Coords points="282,2327 282,2323 1540,2329 1547,2323 1545,2348 280,2348"/>
+        <Baseline points="283,2328 611,2339 658,2338 742,2329 807,2330 866,2329 963,2329 1028,2329 1197,2334 1328,2328 1388,2329 1499,2332 1549,2325"/>
+        <TextEquiv>
+          <Unicode>CARMONA:—Imp y lib. de D. José M. Moreno, Madre de Dios, 1.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_a3cb1642"  custom="structure {type:MainZone;}">
+      <Coords points="807,1540 830,202 153,202 153,1545"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_b4496d00"  custom="structure {type:MainZone;}">
+      <Coords points="878,172 878,1532 1667,1532 1667,172"/>
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="tl_2" >
+        <Coords points="259,240 257,205 676,198 680,244 678,255 257,257"/>
+        <Baseline points="261,241 294,241 368,242 416,243 498,245 531,245 577,246 682,247"/>
+        <TextEquiv>
+          <Unicode>El Sol le dijo á la Luna</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_31" >
+        <Coords points="975,244 975,200 1371,205 1373,247 1369,259 971,253"/>
+        <Baseline points="977,245 1104,249 1192,243 1238,243 1374,248"/>
+        <TextEquiv>
+          <Unicode>Salero, viva el salero,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_3" >
+        <Coords points="215,286 213,238 655,244 655,293 651,305 211,299"/>
+        <Baseline points="216,287 283,286 339,287 447,288 485,289 656,295"/>
+        <TextEquiv>
+          <Unicode>que se fuera á recoger,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_32" >
+        <Coords points="931,286 931,242 1270,244 1272,290 1268,301 927,299"/>
+        <Baseline points="933,288 1057,293 1146,287 1196,288 1273,293"/>
+        <TextEquiv>
+          <Unicode>salero, viva la sal,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_4" >
+        <Coords points="215,328 213,288 720,280 726,330 724,339 213,345"/>
+        <Baseline points="216,330 283,330 317,330 413,331 474,332 532,333 582,334 727,331"/>
+        <TextEquiv>
+          <Unicode>que á deshora de la noche</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_33" >
+        <Coords points="933,341 925,299 961,284 961,284 963,284 963,284 965,284 1373,290 1375,330 1375,341 933,345"/>
+        <Baseline points="934,342 999,334 1106,333 1160,332 1251,332 1377,332"/>
+        <TextEquiv>
+          <Unicode>que tiene V. mas salero</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_5" >
+        <Coords points="213,372 213,332 718,334 718,378 713,391 209,387"/>
+        <Baseline points="215,374 259,375 389,374 553,378 610,379 719,379"/>
+        <TextEquiv>
+          <Unicode>no andan mujeres de bien.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_34" >
+        <Coords points="933,385 929,330 1371,332 1373,374 1371,387 933,395"/>
+        <Baseline points="934,387 999,377 1046,376 1173,375 1375,375"/>
+        <TextEquiv>
+          <Unicode>que el salero universal.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_6" >
+        <Coords points="251,414 251,370 649,380 801,372 803,427 799,437 247,424"/>
+        <Baseline points="252,416 342,419 423,420 461,420 579,423 640,423 805,428"/>
+        <TextEquiv>
+          <Unicode>Tres fincas tengo en Madrid,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_35" >
+        <Coords points="979,420 977,378 1411,378 1413,418 1411,429 979,431"/>
+        <Baseline points="980,421 1011,420 1143,420 1201,421 1252,420 1414,420"/>
+        <TextEquiv>
+          <Unicode>El marco de tu ventana</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_7" >
+        <Coords points="213,460 213,418 665,420 667,466 663,477 209,471"/>
+        <Baseline points="214,462 330,463 392,464 515,466 669,467"/>
+        <TextEquiv>
+          <Unicode>siendo un pobre militar:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_36" >
+        <Coords points="935,462 935,410 988,420 1430,420 1432,468 1427,483 931,473"/>
+        <Baseline points="936,464 1011,465 1095,465 1201,464 1256,464 1433,470"/>
+        <TextEquiv>
+          <Unicode>todo está lleno de estrellas,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_8" >
+        <Coords points="213,504 213,462 676,466 676,514 672,527 209,517"/>
+        <Baseline points="214,505 245,506 386,513 435,508 677,516"/>
+        <TextEquiv>
+          <Unicode>la cárcel, el cementerio,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_37" >
+        <Coords points="933,514 929,468 1352,466 1356,510 1354,521 933,527"/>
+        <Baseline points="934,515 951,518 1014,509 1094,509 1142,509 1289,507 1357,512"/>
+        <TextEquiv>
+          <Unicode>y así que te asomas tú,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_9" >
+        <Coords points="213,558 213,506 623,506 626,554 626,569 213,569"/>
+        <Baseline points="215,560 232,560 400,552 452,553 627,555"/>
+        <TextEquiv>
+          <Unicode>y también el hospital.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_38" >
+        <Coords points="931,552 927,514 1421,510 1427,548 1425,558 931,567"/>
+        <Baseline points="933,554 1000,554 1046,553 1124,551 1158,554 1214,552 1296,552 1430,550"/>
+        <TextEquiv>
+          <Unicode>sale el sol, y se van ellas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_10" >
+        <Coords points="257,594 257,550 711,556 713,600 709,613 253,602"/>
+        <Baseline points="259,595 306,595 418,597 546,599 714,601"/>
+        <TextEquiv>
+          <Unicode>Un ciego estaba mirando</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_39" >
+        <Coords points="977,596 977,548 1622,558 1622,600 1620,611 975,613"/>
+        <Baseline points="979,598 1112,598 1170,597 1243,597 1327,596 1386,597 1450,597 1623,601"/>
+        <TextEquiv>
+          <Unicode>Cuando en los ojos de un hombre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_11" >
+        <Coords points="211,638 211,596 693,602 693,648 688,661 207,646"/>
+        <Baseline points="212,640 310,640 362,640 499,642 585,644 695,650"/>
+        <TextEquiv>
+          <Unicode>cómo se quema una casa,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_40" >
+        <Coords points="931,640 931,598 1436,602 1438,646 1436,651 929,655"/>
+        <Baseline points="933,641 1132,642 1268,641 1439,647"/>
+        <TextEquiv>
+          <Unicode>sorprendas alguna lágrima,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_12" >
+        <Coords points="211,682 211,632 667,648 669,692 665,701 207,690"/>
+        <Baseline points="212,684 257,683 379,685 545,688 672,694"/>
+        <TextEquiv>
+          <Unicode>un mudo llamaba gente,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_41" >
+        <Coords points="929,684 927,646 1406,640 1411,684 1409,692 927,699"/>
+        <Baseline points="931,686 1134,687 1180,685 1413,685"/>
+        <TextEquiv>
+          <Unicode>compadece al desgraciado</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_13" >
+        <Coords points="209,736 207,680 695,682 697,730 693,745 247,738 211,749"/>
+        <Baseline points="211,737 228,737 291,727 383,729 530,730 581,732 699,732"/>
+        <TextEquiv>
+          <Unicode>y un cojo llevaba el agua.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_42" >
+        <Coords points="929,730 927,686 1383,688 1386,728 1383,738 929,743"/>
+        <Baseline points="931,731 981,731 1213,730 1257,729 1388,729"/>
+        <TextEquiv>
+          <Unicode>sin preguntarle la causa.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_14" >
+        <Coords points="257,770 257,728 703,730 705,776 701,791 253,778"/>
+        <Baseline points="258,772 335,772 451,774 596,777 706,778"/>
+        <TextEquiv>
+          <Unicode>Viva Cádiz porque tiene</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_43" >
+        <Coords points="973,772 973,732 1409,732 1409,772 1406,787 971,785"/>
+        <Baseline points="974,774 1006,774 1079,774 1197,774 1230,774 1315,773 1411,774"/>
+        <TextEquiv>
+          <Unicode>Si ves llorar á una niña</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_15" >
+        <Coords points="207,814 207,764 701,776 701,826 697,837 203,824"/>
+        <Baseline points="209,815 260,815 436,818 550,819 598,821 703,827"/>
+        <TextEquiv>
+          <Unicode>las murallas hácia el mar,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_44" >
+        <Coords points="929,818 927,774 1427,778 1430,822 1425,835 925,826"/>
+        <Baseline points="931,819 1121,818 1183,818 1245,818 1432,823"/>
+        <TextEquiv>
+          <Unicode>consuélala en su aflicción,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_16" >
+        <Coords points="207,868 205,814 594,820 596,864 594,870 207,879"/>
+        <Baseline points="208,870 226,870 389,862 598,865"/>
+        <TextEquiv>
+          <Unicode>y cañones apuntando</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_45" >
+        <Coords points="931,872 925,828 1069,814 1071,814 1434,820 1436,862 1436,872 931,877"/>
+        <Baseline points="932,873 998,864 1063,863 1236,862 1315,863 1438,863"/>
+        <TextEquiv>
+          <Unicode>que las lágrimas que vierte</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_17" >
+        <Coords points="205,902 205,862 619,866 619,908 615,918 200,916"/>
+        <Baseline points="206,904 238,904 367,905 424,906 620,910"/>
+        <TextEquiv>
+          <Unicode>al Peñón de Gibraltar.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_46" >
+        <Coords points="929,906 927,864 1352,866 1354,904 1352,916 929,923"/>
+        <Baseline points="931,908 966,908 1182,906 1229,906 1356,906"/>
+        <TextEquiv>
+          <Unicode>se las&#39;arranca el amor.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_18" >
+        <Coords points="251,946 251,910 680,912 682,952 678,965 247,954"/>
+        <Baseline points="253,948 322,948 434,951 509,952 683,954"/>
+        <TextEquiv>
+          <Unicode>Una mora me enamora</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_47" >
+        <Coords points="975,950 975,906 1455,906 1455,950 1450,965 971,958"/>
+        <Baseline points="976,952 1113,952 1172,952 1290,950 1456,952"/>
+        <TextEquiv>
+          <Unicode>Cuando las viejas sollozan</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_19" >
+        <Coords points="205,1000 203,933 320,954 366,944 368,944 368,944 370,944 370,944 464,954 475,946 479,942 479,942 481,942 481,942 481,942 483,942 483,942 483,942 485,942 485,942 487,942 487,942 487,942 489,942 489,942 489,944 494,946 500,954 667,956 667,1002 663,1013 200,1006"/>
+        <Baseline points="206,1001 288,993 341,993 452,995 514,996 669,1003"/>
+        <TextEquiv>
+          <Unicode>y&#39;no es mora de nación;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_48" >
+        <Coords points="931,994 931,952 1421,956 1423,998 1419,1011 927,1004"/>
+        <Baseline points="932,996 976,996 1032,996 1098,996 1200,996 1316,995 1425,1000"/>
+        <TextEquiv>
+          <Unicode>no se las debe hacer caso,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_20" >
+        <Coords points="205,1036 203,994 693,992 695,1042 690,1055 200,1044"/>
+        <Baseline points="207,1037 243,1037 356,1037 504,1040 584,1041 696,1043"/>
+        <TextEquiv>
+          <Unicode>es mora porque ella mora</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_49" >
+        <Coords points="929,1050 923,998 1402,992 1406,1038 1406,1050 929,1057"/>
+        <Baseline points="931,1051 1014,1040 1100,1041 1221,1039 1286,1040 1407,1040"/>
+        <TextEquiv>
+          <Unicode>pues solo lloran las viejas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_21" >
+        <Coords points="207,1080 207,1034 613,1046 623,1084 619,1096 203,1090"/>
+        <Baseline points="209,1081 328,1082 389,1083 452,1084 626,1086"/>
+        <TextEquiv>
+          <Unicode>dentro de mi corazón.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_50" >
+        <Coords points="929,1084 929,1042 1337,1044 1339,1086 1337,1094 927,1096"/>
+        <Baseline points="931,1086 962,1085 1120,1085 1172,1085 1341,1087"/>
+        <TextEquiv>
+          <Unicode>al recodar su pasado.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_22" >
+        <Coords points="251,1124 251,1080 690,1082 693,1130 688,1142 247,1134"/>
+        <Baseline points="252,1126 333,1127 387,1127 434,1128 518,1128 565,1129 694,1131"/>
+        <TextEquiv>
+          <Unicode>Eres tú la que le quitas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_51" >
+        <Coords points="973,1128 973,1082 1499,1082 1499,1134 1494,1145 969,1140"/>
+        <Baseline points="975,1129 1025,1129 1219,1129 1308,1128 1358,1129 1501,1136"/>
+        <TextEquiv>
+          <Unicode>Me aconsejan que te olvide;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_23" >
+        <Coords points="207,1168 207,1124 609,1134 609,1178 605,1186 203,1180"/>
+        <Baseline points="208,1169 304,1170 370,1171 482,1171 528,1172 611,1179"/>
+        <TextEquiv>
+          <Unicode>todos los rayos al sol,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_52" >
+        <Coords points="931,1174 927,1134 1333,1126 1339,1170 1337,1182 931,1191"/>
+        <Baseline points="933,1175 1030,1173 1113,1173 1341,1172"/>
+        <TextEquiv>
+          <Unicode>¡mira qué barbaridad!</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_24" >
+        <Coords points="205,1212 203,1172 617,1170 619,1218 615,1230 200,1224"/>
+        <Baseline points="206,1214 224,1214 273,1215 391,1216 434,1216 621,1219"/>
+        <TextEquiv>
+          <Unicode>á la nieve la blancura</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_53" >
+        <Coords points="933,1222 931,1176 1381,1176 1383,1222 1379,1232 929,1230"/>
+        <Baseline points="934,1224 1050,1217 1110,1217 1229,1216 1386,1223"/>
+        <TextEquiv>
+          <Unicode>¡Como no saben querer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_25" >
+        <Coords points="207,1266 203,1222 244,1209 247,1209 247,1209 249,1209 406,1216 492,1220 661,1212 665,1262 663,1276 205,1276"/>
+        <Baseline points="209,1268 227,1268 260,1259 310,1259 494,1260 547,1261 667,1263"/>
+        <TextEquiv>
+          <Unicode>y á la manzana el color.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_54" >
+        <Coords points="931,1260 927,1220 1293,1212 1300,1258 1298,1274 931,1274"/>
+        <Baseline points="933,1262 976,1262 1099,1262 1301,1260"/>
+        <TextEquiv>
+          <Unicode>no saben aconsejar!</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_26" >
+        <Coords points="251,1302 251,1258 701,1258 701,1312 697,1322 247,1310"/>
+        <Baseline points="253,1303 368,1303 412,1307 560,1306 703,1313"/>
+        <TextEquiv>
+          <Unicode>Cásale y tendrás mujer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_55" >
+        <Coords points="975,1304 975,1260 1540,1260 1540,1312 1536,1325 971,1318"/>
+        <Baseline points="977,1306 1068,1306 1115,1306 1263,1304 1315,1304 1448,1307 1542,1313"/>
+        <TextEquiv>
+          <Unicode>Todo el mundo en contra mia,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_27" >
+        <Coords points="207,1346 205,1293 697,1308 697,1356 693,1364 203,1356"/>
+        <Baseline points="209,1347 236,1346 287,1347 428,1352 518,1350 698,1357"/>
+        <TextEquiv>
+          <Unicode>si es bonita, que guardar,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_56" >
+        <Coords points="933,1348 933,1289 971,1289 971,1289 971,1289 973,1289 973,1289 973,1289 975,1289 975,1289 975,1289 975,1291 994,1310 1185,1310 1231,1302 1260,1297 1260,1297 1260,1297 1262,1297 1262,1297 1264,1297 1264,1297 1264,1297 1266,1297 1266,1297 1275,1304 1281,1308 1300,1306 1344,1299 1344,1299 1346,1299 1346,1299 1425,1312 1427,1354 1423,1364 929,1362"/>
+        <Baseline points="934,1350 1087,1355 1232,1350 1281,1349 1429,1355"/>
+        <TextEquiv>
+          <Unicode>Serrana, porque te quiero,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_28" >
+        <Coords points="209,1389 209,1343 663,1356 665,1400 661,1415 205,1402"/>
+        <Baseline points="210,1391 238,1391 291,1392 374,1396 459,1393 666,1401"/>
+        <TextEquiv>
+          <Unicode>si es fea, que aborrecer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_57" >
+        <Coords points="935,1392 935,1348 1484,1358 1486,1398 1482,1408 931,1404"/>
+        <Baseline points="936,1393 1014,1395 1059,1395 1202,1395 1257,1393 1388,1395 1487,1400"/>
+        <TextEquiv>
+          <Unicode>todo el mundo en contra mia,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_29" >
+        <Coords points="211,1433 211,1389 688,1396 688,1444 684,1454 207,1446"/>
+        <Baseline points="212,1435 240,1434 291,1435 394,1441 483,1438 689,1445"/>
+        <TextEquiv>
+          <Unicode>si es rica, que contentar,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_58" >
+        <Coords points="935,1446 935,1394 1476,1398 1478,1438 1476,1459 1406,1450 935,1461"/>
+        <Baseline points="937,1448 953,1448 1008,1440 1142,1439 1189,1439 1333,1438 1480,1440"/>
+        <TextEquiv>
+          <Unicode>y yo contra el mundo entero.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="tl_30" >
+        <Coords points="209,1479 207,1440 722,1436 724,1484 720,1505 477,1496 437,1507 429,1509 427,1509 427,1509 425,1509 425,1509 425,1509 422,1509 416,1507 383,1496 207,1507"/>
+        <Baseline points="211,1482 238,1480 290,1480 427,1486 513,1483 725,1485"/>
+        <TextEquiv>
+          <Unicode>si es pobre, que mantener.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

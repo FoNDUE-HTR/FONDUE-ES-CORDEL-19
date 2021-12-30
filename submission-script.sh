@@ -8,12 +8,12 @@
 module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 
-work_directory="/home/users/j/jacsont/Varios-OCR-files/Varios-GT-Test/model_htr_test_bin"
+work_directory="/home/users/j/jacsont/Varios-OCR-files/Models-htr-Varios/Alto/Model-htr-v6/"
 mkdir -p ${work_directory}
 cd ${work_directory}
 
 OUTPUT_NAME="output_name"
-XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Varios-GT-Test/GroundTruth-binary-Otsu/"
+XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Varios-GrounTruth-Alto/"
 
 echo "KETOS training"
-srun ketos train -o $OUTPUT_NAME -f page -d cuda "${XML_FOLDER}/*.xml"
+srun ketos train -t /home/users/j/jacsont/Varios-OCR-files/Split/train.txt -e /home/users/j/jacsont/Varios-OCR-files/Split/eval.txt -f alto -d cuda "${XML_FOLDER}/*.xml"

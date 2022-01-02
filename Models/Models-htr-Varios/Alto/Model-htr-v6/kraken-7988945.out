@@ -1,0 +1,32 @@
+KETOS training
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[44.6167] Text line " " is empty after transformations 
+Building validation set
+[44.9748] alphabet mismatch: chars in training set only: {'/', 'Í', '^', '"', 'Á', '°', 'â', 'k', '#', '|', '•', 'û', '¬', 'K', '[', ']', '_', '0', '&', '%', '¥', 'É', 'ô', '’', '„', '*'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.9020 28767 2819
+stage 2/∞
+Accuracy report (2) 0.9259 28761 2131
+stage 3/∞
+Accuracy report (3) 0.9382 28764 1777
+stage 4/∞
+Accuracy report (4) 0.9427 28765 1648
+stage 5/∞
+Accuracy report (5) 0.9427 28750 1646
+stage 6/∞
+Accuracy report (6) 0.9417 28766 1678
+stage 7/∞
+Accuracy report (7) 0.9484 28766 1484
+stage 8/∞
+Accuracy report (8) 0.9472 28763 1518
+stage 9/∞
+Accuracy report (9) 0.9414 28761 1684
+stage 10/∞
+Accuracy report (10) 0.9463 28759 1543
+stage 11/∞
+Accuracy report (11) 0.9507 28761 1417
+stage 12/∞
+Accuracy report (12) 0.9477 28770 1506
+Moving best model model_7.mlmodel (0.9484113454818726) to model_best.mlmodel

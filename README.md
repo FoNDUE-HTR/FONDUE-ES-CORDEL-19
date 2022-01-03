@@ -2,9 +2,10 @@
 
 This folder contains the documents we used to create our training models, as well as the training models themselves. The directory is divided into two sub-directories with Groundtruths on one side and the models developed on the other.
 
----
+******
+------
 
-## Groundtruths ###
+## [Groundtruths](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths)##
 
 The ground truth of the _Varios_ corpus was created from [the ground truth of the _Moreno_ corpus](https://github.com/DesenrollandoElCordel/Moreno-OCR-files/tree/main/Moreno-GroundTruth) to which we added 5 pliegos from the varios corpus (32 pages), in order to train our model on data in Catalan and with long s. Therefore, the entire GroundTruth data was OCRed once with ABBYY FineReader and then manually corrected. Finally, all the data was exported in PAGE-XML from [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) for migration to [eScriptorium](https://gitlab.inria.fr/scripta/escriptorium). 
 
@@ -38,11 +39,11 @@ To correspond to the specificities of our corpus, we have used `CustomZone` with
 - `CustomZone:numer_pliego`, when there is mention of the number of _pliegos_ assembled 
 A `CustomLine` with the subtype `:trailer` has also been used to indicate _explicit_. 
 <p class="float" align="center">
-    <img src="Readme-picture/Moreno_172.png" width="450"/>
-  <img src="Readme-picture/Varios_435.png" width="450"/>
+    <img src="Readme-picture/Moreno_172.png" width="300"/>
+  <img src="Readme-picture/Varios_435.png" width="350"/>
   </p>
   <p class="float" align="center">
-    <img src="Readme-picture/Moreno_279.png" width="450"/>
+    <img src="Readme-picture/Moreno_279.png" width="350"/>
   </p>
 
 #### Split ####
@@ -55,7 +56,7 @@ A series of tests was made to evaluate the interest of image processing (binaris
 
 ---
 
-## Models ###
+## [Models](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Models/Models-htr-Varios) ###
 
 
 ### Fine tuning ####
@@ -63,5 +64,7 @@ A series of tests was made to evaluate the interest of image processing (binaris
 In order to improve our results, we undertook a fine-tuning of our model. The corpus used was constituted from the data of the [HTRCatalogs](https://github.com/Juliettejns/cataloguesSegmentationOCR/) established by Juliette Janes, Simon Gabay and Béatrice Joyeux-Prunel, whose segmentation was corrected to correspond to the latest standards of _SegmOnto_. 
 
 ### Results ####
+
+:arrows_clockwise: In progress !
 
 

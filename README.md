@@ -1,9 +1,7 @@
 # OCR for the _Varios_ corpus #
-
-This folder contains the documents we used to create our training models, as well as the training models themselves. The directory is divided into two sub-directories with Groundtruths on one side and the models developed on the other.
-
-******
 ------
+This folder contains the documents we used to create our training models, as well as the training models themselves. The directory is divided into two sub-directories with Groundtruths on one side and the models developed on the other.
+********
 
 ## [Groundtruths](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths) ##
 

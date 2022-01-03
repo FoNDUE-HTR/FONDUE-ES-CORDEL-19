@@ -40,7 +40,7 @@ A `CustomLine` with the subtype `:trailer` has also been used to indicate _expli
   <img src="DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Varios_435.png" width="450"/>
   </p>
   <p class="float" align="center">
-    <img src="Varios-OCR-files/Readme-picture/Varios_279.png" width="450"/>
+    <img src="Readme-picture/Varios_279.png" width="450"/>
   </p>
 
 #### Split ####

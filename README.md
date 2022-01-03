@@ -36,8 +36,8 @@ To correspond to the specificities of our corpus, we have used `CustomZone` with
 - `CustomZone:numer_pliego`, when there is mention of the number of _pliegos_ assembled 
 A `CustomLine` with the subtype `:trailer` has also been used to indicate _explicit_. 
 <p class="float" align="center">
-    <img src="DesenrollandoElCordel/Varios-OCR-files/Readme-picture/Moreno_172.png" width="450"/>
-  <img src="DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Varios_435.png" width="450"/>
+    <img src="Readme-picture/Moreno_172.png" width="450"/>
+  <img src="DesenrollandoElCordel/Varios-OCR-files/blob/Readme-picture/Varios_435.png" width="450"/>
   </p>
   <p class="float" align="center">
     <img src="Readme-picture/Varios_279.png" width="450"/>

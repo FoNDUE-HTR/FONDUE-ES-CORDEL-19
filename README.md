@@ -50,6 +50,7 @@ We chose to manually divide our Groundtruth into three sets (80% train, 20% eval
 ### [Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths/Varios-GroundTruth-Test-Alto) ####
 
 A series of tests was made to evaluate the interest of image processing (binarisation, deblurring, luminosity) for character recognition. 
+You can find more information here : [__Readme__ Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/README.md). 
 
 _____________
 _____________

@@ -8,7 +8,7 @@ The ground truth of the _Varios_ corpus was created from [the ground truth of th
 
 From eScriptorium, the entire Grountruth has been segmented according to the [_SegmOnto_](https://github.com/SegmOnto/Guidelines) vocabulary, and some baselines have been manually corrected. 
 
-### PAGE ot Alto###
+### PAGE ot Alto ###
 
 In view of making our data interoperable, we decided to follow the pipeline developed by the [_SegmOnto_ project](https://hal.archives-ouvertes.fr/hal-03336528) (segmentation controlled vocabulary, TEI schema, quality control schema). As this project is currently  principally focusing on ALTO XML documents, we decided to convert our data into this format from the e-scriptorium platform. 
 We have kept both formats in our repository.

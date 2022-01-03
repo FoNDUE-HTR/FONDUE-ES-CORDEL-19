@@ -38,10 +38,10 @@ To correspond to the specificities of our corpus, we have used `CustomZone` with
 A `CustomLine` with the subtype `:trailer` has also been used to indicate _explicit_. 
 <p class="float" align="center">
     <img src="Readme-picture/Moreno_172.png" width="325"/>
-  <img src="Readme-picture/Varios_435.png" width="350"/>
+  <img src="Readme-picture/Varios_435.png" width="355"/>
   </p>
   <p class="float" align="center">
-    <img src="Readme-picture/Moreno_279.png" width="350"/>
+    <img src="Readme-picture/Moreno_279.png" width="355"/>
   </p>
 
 #### Split ####

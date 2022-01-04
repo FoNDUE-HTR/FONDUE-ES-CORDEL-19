@@ -17,24 +17,24 @@ We have kept both formats in our repository.
 
 The _SegmOnto_ zones used are : 
 
-- `MainZone`, in pink 
-- `RunningTitleZone`
-- `GraphicZone:illustration`, in dark green
-- `GraphicZone:ornamentation`, in dark blue 
-- `MusicZone` (some of our chapbooks contain sheet music) 
-- `QuireMarksZone:signature`
-- `QuireMarksZone:catchwords`
-- `NumberingZone:page`
-- `MarginTextZone:colophon`. in light green, this zone isolates the name of the printer, the place and date of printing
-- `MarginTextZone:note`
+- [`MainZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MainZone/MainZone.md), in pink.
+- [`RunningTitleZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/RunningTitleZone/RunningTitleZone.md).
+- [`GraphicZone:illustration`](https://github.com/SegmOnto/Guidelines/blob/main/zones/GraphicZone/DecorationZone.md), in dark green.
+- [`GraphicZone:ornamentation`](https://github.com/SegmOnto/Guidelines/blob/main/zones/GraphicZone/DecorationZone.md), in dark blue. 
+- [`MusicZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MusicZone/MusicZone.md) (some of our chapbooks contain sheet music). 
+- [`QuireMarksZone:signature`](https://github.com/SegmOnto/Guidelines/blob/main/zones/QuireMarksZone/QuireMarksZone.md).
+- [`QuireMarksZone:catchwords`](https://github.com/SegmOnto/Guidelines/blob/main/zones/QuireMarksZone/QuireMarksZone.md).
+- [`NumberingZone:page`](https://github.com/SegmOnto/Guidelines/blob/main/zones/NumberingZone/NumberingZone.md).
+- [`MarginTextZone:colophon`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MarginTextZone/MarginTextZone.md) in light green, this zone isolates the name of the printer, the place and date of printing.
+- [`MarginTextZone:note`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MarginTextZone/MarginTextZone.md).
 
-To correspond to the specificities of our corpus, we have used `CustomZone` with our own subtypes corresponding to our choices of XML-TEI encoding scheme: 
+To correspond to the specificities of our corpus, we have used [`CustomZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/CustomZone/CustomZone.md) with our own subtypes corresponding to our choices of XML-TEI encoding scheme: 
 - `CustomZone:primer_titulo`, blank
 - `CustomZone:subtitle`, in purple
 - `CustomZone:titulo_parte`, yellow 
 - `CustomZone:impresorNum`, brown
 - `CustomZone:numer_pliego`, when there is mention of the number of _pliegos_ assembled 
-A `CustomLine` with the subtype `:trailer` has also been used to indicate _explicit_. 
+A [`CustomLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/CustomLine/CustomLine.md) with the subtype `:trailer` has also been used to indicate _explicit_. 
 <p class="float" align="center">
     <img src="Readme-picture/Moreno_172.png" width="325"/>
   <img src="Readme-picture/Varios_435.png" width="355"/>

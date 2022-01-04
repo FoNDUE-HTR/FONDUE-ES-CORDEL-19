@@ -43,7 +43,7 @@ A `CustomLine` with the subtype `:trailer` has also been used to indicate _expli
     <img src="Readme-picture/Moreno_279.png" width="355"/>
   </p>
 
-#### [Split](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths/Split) ####
+### [Split](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths/Split) ####
 
 We chose to manually divide our Groundtruth into three sets (80% train, 20% eval and 20% test) in order to ensure that the title pages (where the error rate is often higher due to typography) and the new elements of the _Varios_ corpus are distributed equally. Each set was made up of about 20% of title pages and chapbooks belonging to the _Varios_ corpus. Predefining these three sets also ensures that the results of our different models can be compared.
 

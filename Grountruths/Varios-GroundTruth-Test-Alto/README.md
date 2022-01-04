@@ -1,9 +1,11 @@
-# Groundtruths test
+# Groundtruths test (:arrows_clockwise: In progress !)
 
 In view of determining the best image pre-processing for Kraken OCRed, we set up a series of tests on our Grountruth corpus.
-To do this, we performed different images processing of our corpus from a notebook that we wrote for this purpose. All models are created on the same Alto XML files and training sets (more information about the sets [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/README.md#split)), only the images change. 
-All trainings were started with this command `ketos train -t /Varios-OCR-files/Grountruths/Split/train.txt -e /Varios-OCR-files/Grountruths/Split/eval.txt -f alto -d cuda "${XML_FOLDER}/*.xml`
-The complete script is available [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/submission-script.sh), and the notebook with the image processing [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/ImagesTreatments.ipynb). 
+To do this, we performed different images processing of our corpus from a notebook that we wrote for this purpose. All models are created on the same Alto XML files and training sets (more information about the sets [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/README.md#split)), only the images change, and all trainings were started with this command:
+
+`ketos train -t /Varios-OCR-files/Grountruths/Split/train.txt -e /Varios-OCR-files/Grountruths/Split/eval.txt -f alto -d cuda "${XML_FOLDER}/*.xml`
+
+The complete submission script is available [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/submission-script.sh), and the notebook with the image processing [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/ImagesTreatments.ipynb). 
 
 ## Test results
 
@@ -88,5 +90,3 @@ The model obtained has an accuracy of __ 96.29 %__ according to eval dataset.
 - N. Otsu, "A threshold selection method from gray-level histograms", _IEEE Trans. Syst. Man Cybern._ 9 (1) (1979) 62–66.
 - X. Peng, C. Wang,  "Building super-resolution image generator for ocr accuracy improvement". _In International Workshop on Document Analysis Systems_ (2020), Springer, pp. 145–160.
 - J. Sauvola, M. Pietikainen, "Adaptive document image binarization", _Pattern Recognition_ 33 (2) (2000) 225–236.
-
-:arrows_clockwise: In progress !

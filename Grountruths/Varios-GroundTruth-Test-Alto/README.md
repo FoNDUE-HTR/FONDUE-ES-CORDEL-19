@@ -18,7 +18,7 @@ Our corpus has been digitised by the University Library of Geneva, which has sen
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_BGR.png" width="400"/>
    </p> 
-   This model obtained by following the above pipeline has an accuracy of __94.84__%.
+   This model obtained by following the above pipeline has an accuracy of **94.84%**.
 
 ### 2. Image deblurring
 
@@ -28,7 +28,7 @@ There are different methods to deblur images, the most complex and efficient one
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Deblur.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __95.94__ % according to eval dataset.
+The model obtained has an accuracy of **95.94%** according to eval dataset.
 
 ### 3. Image Gamma1
 
@@ -37,7 +37,7 @@ Gamma processing has been applied to the images to brighten them.
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Gamma1.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __ %__ according to eval dataset.
+The model obtained has an accuracy of **%** according to eval dataset.
 
 ### 4. Image Gamma2
 
@@ -46,14 +46,14 @@ Gamma treatment to darken images.
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Gamma2.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __ %__ according to eval dataset.
+The model obtained has an accuracy of **%** according to eval dataset.
 
 ### 5. Simple image binary
 
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Binary.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __ 95.99 %__ according to eval dataset.
+The model obtained has an accuracy of **95.99 %** according to eval dataset.
 
 ### 6. Otsu binarisation 
 
@@ -62,7 +62,7 @@ Binarisation with the Otsu method consists in determining the global threshold t
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Otsu.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __ 96.04 %__ according to eval dataset.
+The model obtained has an accuracy of **96.04 %** according to eval dataset.
 
 ### 7. Niblack binarisation 
 
@@ -71,7 +71,7 @@ The Niblack method calculates a threshold for each pixel based on the mean of th
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Niblack.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __ 96.80 %__ according to eval dataset.
+The model obtained has an accuracy of **96.80 %** according to eval dataset.
 
 ### 8. Sauvola binarisation 
 
@@ -80,7 +80,7 @@ Sauvola is a variant of the Niblack method that splits the greyscale image into 
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Sauvola.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __ 96.29 %__ according to eval dataset.
+The model obtained has an accuracy of **96.29 %** according to eval dataset.
 
 -----
 ## Bibliography

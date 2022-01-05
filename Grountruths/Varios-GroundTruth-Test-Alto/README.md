@@ -18,7 +18,7 @@ Our corpus has been digitised by the University Library of Geneva, which has sen
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_BGR.png" width="400"/>
    </p> 
-   This model obtained by following the above pipeline has an accuracy of __94.84 %__.
+   This model obtained by following the above pipeline has an accuracy of __94.84__%.
 
 ### 2. Image deblurring
 
@@ -28,7 +28,7 @@ There are different methods to deblur images, the most complex and efficient one
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Deblur.png" width="400"/>
    </p> 
-The model obtained has an accuracy of __ %__ according to eval dataset.
+The model obtained has an accuracy of __95.94__ % according to eval dataset.
 
 ### 3. Image Gamma1
 

@@ -1,16 +1,16 @@
 # OCR for the _Varios_ corpus #
 
-This folder contains the documents we used to create our training models, as well as the training models themselves. The directory is divided into two sub-directories with Groundtruths on one side and the models developed on the other.
+This folder contains the documents we used to create our training models, as well as the training models themselves. The directory is divided into two sub-directories : first, the groundtruths, second, the models developed.
 ******
 ## [Groundtruths](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths) ##
 
-The ground truth of the _Varios_ corpus was created from [the ground truth of the _Moreno_ corpus](https://github.com/DesenrollandoElCordel/Moreno-OCR-files/tree/main/Moreno-GroundTruth) to which we added 5 pliegos from the _Varios_ corpus (32 pages), in order to train our model on data in Catalan and with long s. Therefore, the entire GroundTruth data was OCRed once with ABBYY FineReader and then manually corrected. Finally, all the data was exported in PAGE-XML from [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) for migration to [eScriptorium](https://gitlab.inria.fr/scripta/escriptorium). 
+The ground truth of the _Varios_ corpus was composed with [the ground truth of the _Moreno_ corpus](https://github.com/DesenrollandoElCordel/Moreno-OCR-files/tree/main/Moreno-GroundTruth) to which we added 5 _pliegos_ from the _Varios_ corpus (32 pages), in order to train our model on data in Catalan and with long s. Therefore, the entire GroundTruth data was OCRed once with ABBYY FineReader and then manually corrected. Finally, all the data was exported in PAGE-XML from [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) for migration to [eScriptorium](https://gitlab.inria.fr/scripta/escriptorium). 
 
 From eScriptorium, the entire Grountruth has been segmented according to the [_SegmOnto_](https://github.com/SegmOnto/Guidelines) vocabulary, and some baselines have been manually corrected. 
 
 ### PAGE ot Alto ###
 
-In view of making our data interoperable, we decided to follow the pipeline developed by the [_SegmOnto_ project](https://hal.archives-ouvertes.fr/hal-03336528) (segmentation controlled vocabulary, TEI schema, quality control schema). As this project is currently  principally focusing on ALTO XML documents, we decided to convert our data into this format from the e-scriptorium platform. 
+To make our data interoperable, we decided to follow the pipeline developed by the [_SegmOnto_ project](https://hal.archives-ouvertes.fr/hal-03336528) (segmentation controlled vocabulary, TEI schema, quality control schema). As this project is currently  principally focusing on ALTO XML documents, we decided to convert our data into this format from the e-scriptorium platform. 
 We have kept both formats in our repository.
 
 ### Corpus segmentation ####
@@ -28,12 +28,13 @@ The _SegmOnto_ zones used are :
 - [`MarginTextZone:colophon`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MarginTextZone/MarginTextZone.md) in light green, this zone isolates the name of the printer, the place and date of printing.
 - [`MarginTextZone:note`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MarginTextZone/MarginTextZone.md).
 
-To correspond to the specificities of our corpus, we have used [`CustomZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/CustomZone/CustomZone.md) with our own subtypes corresponding to our choices of XML-TEI encoding scheme: 
+To match with the specificities of our corpus, we have used [`CustomZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/CustomZone/CustomZone.md) with our own subtypes, corresponding to our choices of XML-TEI encoding scheme: 
 - `CustomZone:primer_titulo`, blank
 - `CustomZone:subtitle`, in purple
 - `CustomZone:titulo_parte`, yellow 
 - `CustomZone:impresorNum`, brown
-- `CustomZone:numer_pliego`, when there is mention of the number of _pliegos_ assembled 
+- `CustomZone:numer_pliego`, when there is mention of the number of _pliegos_ assembled.
+ 
 A [`CustomLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/CustomLine/CustomLine.md) with the subtype `:trailer` has also been used to indicate _explicit_. 
 <p class="float" align="center">
     <img src="Readme-picture/Moreno_172.png" width="325"/>
@@ -45,12 +46,12 @@ A [`CustomLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/CustomLi
 
 ### [Split](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths/Split) ####
 
-We chose to manually divide our Groundtruth into three sets (80% train, 20% eval and 20% test) in order to ensure that the title pages (where the error rate is often higher due to typography) and the new elements of the _Varios_ corpus are distributed equally. Each set was made up of about 20% of title pages and chapbooks belonging to the _Varios_ corpus. Predefining these three sets also ensures that the results of our different models can be compared.
+We chose to manually divide our Groundtruth into three sets (80% train, 10% eval and 10% test) in order to ensure that the title pages (where the error rate is often higher due to typography) and the new elements of the _Varios_ corpus are distributed equally. Each set was made up of about 20% of title pages and chapbooks belonging to the _Varios_ corpus. Predefining these three sets also ensures that the results of our different models can be compared.
 
 ### [Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths/Varios-GroundTruth-Test-Alto) ####
 
-A series of tests was made to evaluate the interest of image processing (binarisation, deblurring, luminosity) for character recognition. 
-You can find more information here : [__Readme__ Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/README.md). 
+A series of tests was done to evaluate the interest of image processing (binarisation, deblurring, luminosity) for character recognition. 
+One can find more information here : [__Readme__ Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/README.md). 
 
 _____________
 _____________

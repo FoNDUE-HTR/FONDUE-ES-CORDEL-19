@@ -1,29 +1,29 @@
 # Groundtruths test (:arrows_clockwise: In progress !)
 
-In view of determining the best image pre-processing for Kraken OCRed, we set up a series of tests on our Grountruth corpus.
-To do this, we performed different images processing of our corpus from a notebook that we wrote for this purpose. All models are created on the same Alto XML files and training sets (more information about the sets [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/README.md#split)), only the images change, and all trainings were started with this command:
+To determine the best image pre-processing for Kraken OCRed, we set up a series of tests on our Groundtruth corpus.
+In order to do this, we performed different image processing on our corpus from a notebook that we wrote for this purpose. All models were created from the same Alto XML files and training sets (more information about the sets [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/README.md#split)), only the images changed, and all trainings were started with this command:
 
 `ketos train -t /Varios-OCR-files/Grountruths/Split/train.txt -e /Varios-OCR-files/Grountruths/Split/eval.txt -f alto -d cuda "${XML_FOLDER}/*.xml`
 
 The complete submission script is available [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/submission-script.sh), and the notebook with the image processing [here](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/ImagesTreatments.ipynb). 
 
-## Test results
+## Tests results
 
-Below you will find the results of the tests for each processing performed. The results are presented with an example image on which we have added a zoomed area to help evaluate the differences between processing. 
+You will find below the tests results for each processing performed. The results are presented with an example image on which we have added a zoomed area to help evaluate the differences kinds of processing. 
 
-###1. Original image
+### 1. Original image
 
 Our corpus has been digitised by the University Library of Geneva, which has sent us its scans in PDF format. We then transfomed our corpus in JPG and cut it to have one page per file (see the code made by Élina Leblanc [here](https://github.com/DesenrollandoElCordel/code-python/blob/main/decoupage_pliegos.py) and [here](https://github.com/DesenrollandoElCordel/code-python/blob/main/pliegos_cropped.py)). 
 
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_BGR.png" width="400"/>
    </p> 
-   This model obtained by following the above pipeline has an accuracy of **94.84%**.
+   This model obtained by following the process described above has an accuracy of **94.84%**.
 
 ### 2. Image deblurring
 
 As the digitisation of our corpus introduced blurring, we considered that image deblurring could improve our results. 
-There are different methods to deblur images, the most complex and efficient ones require a time-consuming machine learning step that we did not undertake. We simply used a sharpening mask to give the images more sharpness. 
+There are different methods to deblur images. The most complex and efficient ones require a time-consuming machine learning step that we did not undertake. We simply used a sharpening mask to give the images more sharpness. 
 
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Deblur.png" width="400"/>
@@ -75,7 +75,7 @@ The model obtained has an accuracy of **96.80 %** according to eval dataset.
 
 ### 8. Sauvola binarisation 
 
-Sauvola is a variant of the Niblack method that splits the greyscale image into adjoining and unoverlapping blocks, and performs block-by-block processing. 
+Sauvola is a variant of the Niblack method that splits the greyscale image into adjoining and unoverlapping blocks, and it performs block-by-block processing. 
 
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Sauvola.png" width="400"/>

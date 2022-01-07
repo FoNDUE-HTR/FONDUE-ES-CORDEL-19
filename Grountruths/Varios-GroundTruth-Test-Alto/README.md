@@ -82,6 +82,12 @@ Sauvola is a variant of the Niblack method that splits the greyscale image into 
    </p> 
 The model obtained has an accuracy of **96.29 %** according to eval dataset.
 
+### 9. Gamma2 + Niblack
+
+Combination of the two best image pre-processing.
+
+The model obtained has an accuracy of ** %** according to eval dataset.
+
 -----
 ## Bibliography
 

@@ -101,7 +101,7 @@ The model obtained has an accuracy of **96.06** % according to eval dataset.
 
 ### 9. Gamma2 + Sauvola
 
-Combination of the two best image pre-processing.
+Combination of two image pre-processing : Gamma2 + Sauvola.
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Gamma2%2BSauvola.png" width="400"/>
    </p> 

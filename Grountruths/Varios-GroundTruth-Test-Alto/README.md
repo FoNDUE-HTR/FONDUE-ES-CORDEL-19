@@ -13,7 +13,7 @@ You will find below the tests results for each processing performed. The results
 
 ### 1. Original image
 
-Our corpus has been digitalised by the University Library of Geneva, which has sent us its scans in PDF format. We then transfomed our corpus in JPG and cut it to have one page per file (see the code made by Élina Leblanc [here](https://github.com/DesenrollandoElCordel/code-python/blob/main/decoupage_pliegos.py) and [here](https://github.com/DesenrollandoElCordel/code-python/blob/main/pliegos_cropped.py)). 
+Our corpus has been digitalised by the University Library of Geneva, which has sent us its scans in PDF format. We transfomed our corpus in JPG and cut it to have one page per file (see the code made by Élina Leblanc [here](https://github.com/DesenrollandoElCordel/code-python/blob/main/decoupage_pliegos.py) and [here](https://github.com/DesenrollandoElCordel/code-python/blob/main/pliegos_cropped.py)). 
 
 <p class="float" align="center">
     <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_BGR.png" width="400"/>

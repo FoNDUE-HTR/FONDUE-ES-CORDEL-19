@@ -99,7 +99,7 @@ Combination of the two best image pre-processing.
    
 The model obtained has an accuracy of **96.06** % according to eval dataset.
 
-### 9. Gamma2 + Sauvola
+### 10. Gamma2 + Sauvola
 
 Combination of two image pre-processing : Gamma2 + Sauvola.
 <p class="float" align="center">
@@ -107,6 +107,8 @@ Combination of two image pre-processing : Gamma2 + Sauvola.
    </p> 
    
 The model obtained has an accuracy of **95.98** % according to eval dataset.
+
+### 10. Gamma2 + OTSU
 
 -----
 ## Bibliography

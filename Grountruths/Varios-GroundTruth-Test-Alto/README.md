@@ -111,6 +111,11 @@ The model obtained has an accuracy of **95.98** % according to eval dataset.
 ### 10. Gamma2 + OTSU
 
 Combination of two image pre-processing : Gamma2 + Sauvola.
+
+<p class="float" align="center">
+    <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Gamma2%2BOtsu.png" width="400"/>
+   </p> 
+
 The model obtained has an accuracy of **95.53** % according to eval dataset.
 
 -----

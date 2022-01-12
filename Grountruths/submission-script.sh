@@ -8,12 +8,12 @@
 module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 
-work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-segmentation/model_seg_1/"
+work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-htr-Varios/Alto/Model-htr-test-Deblur+Niblack"
 mkdir -p ${work_directory}
 cd ${work_directory}
 
 OUTPUT_NAME="output_name"
-XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GrounTruth-Alto/"
+XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/GroundTruth-Deblur+Niblack/"
 
 echo "KETOS training"
 srun ketos segtrain -t /home/users/j/jacsont/Varios-OCR-files/Grountruths/Split/train.txt -e /home/users/j/jacsont/Varios-OCR-files/Grountruths/Split/eval.txt -f alto -d cuda "${XML_FOLDER}/*.xml"

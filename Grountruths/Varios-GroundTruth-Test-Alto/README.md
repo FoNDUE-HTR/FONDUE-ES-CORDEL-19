@@ -118,6 +118,10 @@ Combination of two image pre-processing : Gamma2 + Sauvola.
 
 The model obtained has an accuracy of **95.53** % according to eval dataset.
 
+### 11. Deblur + OTSU
+
+The model obtained has an accuracy of **96.02** % according to eval dataset.
+
 -----
 ## Bibliography
 

@@ -128,6 +128,10 @@ Combination of two image pre-processing : Deblur + Niblack.
 
 The model obtained has an accuracy of **96.02** % according to eval dataset.
 
+### 11. Kraken binarization
+
+
+
 -----
 ## Bibliography
 

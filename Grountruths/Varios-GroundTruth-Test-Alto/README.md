@@ -120,6 +120,12 @@ The model obtained has an accuracy of **95.53** % according to eval dataset.
 
 ### 11. Deblur + Niblack
 
+Combination of two image pre-processing : Deblur + Niblack.
+
+<p class="float" align="center">
+    <img src="https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Readme-picture/Moreno_119_Deblur%2BNiblack.png" width="400"/>
+   </p> 
+
 The model obtained has an accuracy of **96.02** % according to eval dataset.
 
 -----

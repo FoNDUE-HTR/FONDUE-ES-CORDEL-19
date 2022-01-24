@@ -8,5 +8,5 @@
 module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 
-$ kraken -i "/Varios-GroundTruth-Test-Alto/BGR/*" -o .png binarize
-$ mkdir /Varios-GroundTruth-Test-Alto/bin-Kraken; mv /Varios-GroundTruth-Test-Alto/BGR/*png /Varios-GroundTruth-Test-Alto/bin-Kraken
+kraken -I "/home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/BGR/*" -o .png binarize
+mkdir /Varios-GroundTruth-Test-Alto/bin-Kraken; mv /home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/BGR/*png /home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/bin-Kraken

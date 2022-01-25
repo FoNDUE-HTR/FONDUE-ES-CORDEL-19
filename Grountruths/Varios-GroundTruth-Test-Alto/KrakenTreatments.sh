@@ -9,4 +9,4 @@ module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 
 kraken -I "/Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/BGR/*" -o .jpg binarize
-mkdir /Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/bin-Kraken; mv /Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/BGR/*png /home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/GroundTruth-binary-Kraken
+mkdir /Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/bin-Kraken; mv /Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/BGR/*jpg /home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GroundTruth-Test-Alto/GroundTruth-binary-Kraken

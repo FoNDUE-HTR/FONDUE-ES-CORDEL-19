@@ -130,7 +130,7 @@ The model obtained has an accuracy of **96.02** % according to eval dataset.
 
 ### 11. Kraken binarization
 
-
+The model obtained has an accuracy of 96.55 % according to eval dataset.
 
 -----
 ## Bibliography

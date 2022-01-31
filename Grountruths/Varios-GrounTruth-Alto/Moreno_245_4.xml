@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT92" LABEL="CustomZone:primer_titulo" DESCRIPTION="block type CustomZone:primer_titulo"/><OtherTag ID="BT93" LABEL="CustomZone:subtitulo" DESCRIPTION="block type CustomZone:subtitulo"/><OtherTag ID="BT94" LABEL="CustomZone:titulo_parte" DESCRIPTION="block type CustomZone:titulo_parte"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/>
   </Tags>
   
   <Layout>
@@ -28,10 +28,10 @@
         <TextBlock HPOS="279"
                    VPOS="198"
                    WIDTH="423"
-                   HEIGHT="448"
+                   HEIGHT="434"
                    ID="region_1601899693804_7406"
                    TAGREFS="BT14">
-          <Shape><Polygon POINTS="279 198 688 198 702 624 279 646"/></Shape>
+          <Shape><Polygon POINTS="279 198 688 198 702 619 282 632"/></Shape>
           
           
           <TextLine ID="line_1601899751389_7426"
@@ -171,13 +171,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="991"
-                   VPOS="157"
-                   WIDTH="428"
-                   HEIGHT="466"
+        <TextBlock HPOS="1008"
+                   VPOS="178"
+                   WIDTH="411"
+                   HEIGHT="428"
                    ID="region_1601899699559_7410"
                    TAGREFS="BT14">
-          <Shape><Polygon POINTS="991 157 1419 178 1419 598 1005 623"/></Shape>
+          <Shape><Polygon POINTS="1008 194 1419 178 1419 598 1013 606"/></Shape>
           
           
           <TextLine ID="line_1601899778492_7482"
@@ -312,6 +312,50 @@
                     VPOS="506"
                     WIDTH="260"
                     HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="233"
+                   VPOS="613"
+                   WIDTH="1273"
+                   HEIGHT="451"
+                   ID="region_1601899715468_7414"
+                   TAGREFS="BT93">
+          <Shape><Polygon POINTS="251 1064 1506 1014 1481 613 233 648"/></Shape>
+          
+          
+          <TextLine ID="line_1601899807554_7538"
+                    
+                    BASELINE="558 742 1179 719" 
+                    HPOS="550"
+                    VPOS="646"
+                    WIDTH="628"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="556 741 550 669 1170 646 1178 718 1176 738 1122 728 1034 745 1007 749 1007 749 1004 749 1004 749 1004 749 1002 749 994 747 958 734 925 749 919 751 919 751 917 751 917 751 917 751 914 751 914 751 914 751 912 751 906 749 873 738 812 749 812 749 810 749 810 749 810 749 808 749 808 749 787 741 739 755 726 759 724 759 724 759 724 759 655 761 653 761 653 761 651 761 651 761 651 761 649 761 649 761 646 759 632 747 611 759 607 764 605 764 605 764 602 764 602 764 602 764 600 764 554 761"/></Shape>
+	    <String CONTENT="DECLARACION "
+                    HPOS="550"
+                    VPOS="646"
+                    WIDTH="628"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601899811303_7545"
+                    
+                    BASELINE="289 963 1460 928" 
+                    HPOS="276"
+                    VPOS="799"
+                    WIDTH="1183"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="288 962 276 856 305 833 305 833 307 833 307 833 307 833 309 833 309 833 311 833 311 833 311 833 314 833 378 854 387 856 391 854 433 826 435 826 435 826 435 826 437 826 437 826 439 826 439 826 439 826 441 826 441 826 502 849 508 851 519 849 579 837 579 837 579 837 582 837 582 837 582 837 584 837 584 837 607 847 613 849 690 849 697 845 709 835 711 835 711 835 711 835 713 835 713 835 713 835 716 835 716 835 774 841 839 822 841 822 841 822 841 822 843 822 843 822 845 822 894 835 973 816 973 816 973 816 975 816 975 816 975 816 977 816 977 816 977 816 979 816 979 816 1002 837 1004 839 1032 839 1040 835 1122 805 1124 805 1124 805 1124 805 1314 799 1316 799 1316 799 1453 824 1459 927 1457 944 1319 944 1308 952 1289 967 1289 967 1287 967 1287 967 1285 967 1285 967 1285 967 1182 971 1180 971 1180 971 1180 971 1178 971 1178 971 1147 958 1134 952 1118 958 1101 967 1101 967 1099 967 1099 967 1099 967 1097 967 1097 967 1097 967 1095 967 1095 967 1080 960 1055 950 923 958 912 969 906 973 906 973 904 973 904 973 904 973 902 973 902 973 900 973 900 973 900 973 898 973 885 969 847 956 764 971 764 971 764 971 762 971 636 962 607 981 598 988 596 988 596 988 596 988 594 988 594 988 594 988 393 994 391 994 391 994 389 994 389 994 389 994 383 990 353 977 291 994"/></Shape>
+	    <String CONTENT="A LO ANDALUZ."
+                    HPOS="276"
+                    VPOS="799"
+                    WIDTH="1183"
+                    HEIGHT="195"></String>
           </TextLine>
 
           

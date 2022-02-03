@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <name/>
+               <resp>Codificación TEI</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority role="rightsHolder">Bibliothèque Universitaire de
+                            Genève</authority>
+            <availability status="restricted">
+               <licence n="cc by nc sa"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="titulo_completo"/>
+                  <title type="titulo_breve"/>
+               </titleStmt>
+               <editionStmt>
+                  <p/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher/>
+                  <pubPlace ref="">geonames : - Carmona:
+                                    https://www.geonames.org/2520118/carmona.html - Madrid :
+                                    https://www.geonames.org/3117735/madrid.html - Barcelona :
+                                    https://www.geonames.org/3128760/barcelona.html - Reus :
+                                    https://www.geonames.org/3111933/reus.html - Sevilla :
+                                    https://www.geonames.org/2510911/sevilla.html - Pamplona :
+                                    https://www.geonames.org/3114472/pamplona.html - Játiva :
+                                    https://www.geonames.org/2516345/xativa.html </pubPlace>
+                  <date/>
+               </publicationStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <country>Suisse</country>
+                  <settlement>Genève</settlement>
+                  <repository>Bibliothèque Universitaire de Genève <ref target="https://unige.swisscovery.slsp.ch/permalink/41SLSP_UGE/btt5ev/alma991008229029705502"/>
+                  </repository>
+                  <idno type="cote"/>
+                  <idno type="DOI"/>
+                  <altIdentifier>
+                     <idno type="num_impresor"/>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <locus/>
+                     <title/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <dim>in-4</dim>
+                        </support>
+                        <extent> 4 p.</extent>
+                        <condition>Bueno</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <p>2 columnas</p>
+                     </layoutDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote n="" type="num_grabados"/>
+                     <decoNote type="lista_grabados">
+                        <list>
+                           <item corresp=""/>
+                        </list>
+                     </decoNote>
+                     <decoNote type="ornamento">
+                        <list>
+                           <item/>
+                        </list>
+                     </decoNote>
+                  </decoDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Este archivo fue creado en el marco del proyecto Desenrollando el
+                            Cordel/Démêler le cordel/Untangling the cordel, dirigido por la
+                            profesora Constance Carta de la Universidad de Ginebra, con el apoyo de
+                            la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="dato_bne">
+               <bibl>El portal de datos bibliográficos de la Biblioteca Nacional de
+                                España</bibl>
+            </taxonomy>
+         </classDecl>
+         <editorialDecl corresp="#automaticTranscription">
+            <correction>
+               <p>OCR non corregido</p>
+            </correction>
+            <normalization>
+               <p>Se conservan la ortografía, las mayúsculas y las cursivas del texto
+                                original.</p>
+            </normalization>
+            <punctuation>
+               <p>Se conserva la puntuación original.</p>
+            </punctuation>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="es">Español</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#dato_bne">
+               <term type="tipo_texto"/>
+               <term type="tipo_estrofa"/>
+               <term type="verso_prosa">Verso</term>
+               <term type="sagrado_profano"/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb facs="Varios_058_1.jpg" n=""/>
+            <head type="primer_titulo">
+               <lb/>LAS QUEIXAS DE LAS MESTRESSAS.<lb/>SEGONA PART<lb/>DE LA CONVERSACIÓ DE LAS SIS CRIADAS.</head>
+            <lg>
+               <l>Diguí en la primera part</l>
+               <l>que un dia estant amagat,</l>
+               <l>desde dalt de una finestra</l>
+               <l>escoltí una gran palestra</l>
+               <l>que tenian sis criadas,</l>
+               <l>de las que se n' diu laymadas.</l>
+               <l>Cada qual ab molta fressa</l>
+               <l>deya mal de sa mestressa.</l>
+               <l>Vaig proposar jo aquell dia,</l>
+               <l>que de un any no pararia</l>
+               <l>fins saber ab claredat</l>
+               <l>si acás era veritat</l>
+               <l>lo que aquellas noyas deyan,</l>
+               <l>y que tan á venal treyan.</l>
+               <l>De á las horas endavant</l>
+               <l>anava sempre buscant</l>
+               <l>per trobar la ocasió</l>
+            </lg>
+            <lg>
+               <l>de conéixer si rahó</l>
+               <l>tenian las sis criadas</l>
+               <l>per estar axí enfadadas.</l>
+               <l>Un dia que vaig anar</l>
+               <l>á casa donya Pilar,</l>
+               <l>y estava allí de visita,</l>
+               <l>se presentá donya Rita,</l>
+               <l>donya Agnés, donya Ramona,</l>
+               <l>y també donya Coloma.</l>
+               <l>Y entre cosas variadas</l>
+               <l>parláren de las criadas,</l>
+               <l>dihent axí donya Ramona:</l>
+               <l>la mia es molt bojarrona :</l>
+               <l>avuy al fer l' esmorsar</l>
+               <l>tot me l' ha deixat cremar.</l>
+               <l>Y no era poch, sis costellas</l>
+               <l>que rustia á las graellas.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

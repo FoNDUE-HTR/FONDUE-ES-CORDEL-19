@@ -1,0 +1,224 @@
+Collecting albumentations
+  Using cached albumentations-1.1.0-py3-none-any.whl (102 kB)
+Collecting PyYAML
+  Using cached PyYAML-6.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (701 kB)
+Collecting opencv-python-headless>=4.1.1
+  Using cached opencv_python_headless-4.5.5.62-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (47.7 MB)
+Collecting qudida>=0.0.4
+  Using cached qudida-0.0.4-py3-none-any.whl (3.5 kB)
+Requirement already satisfied: scipy in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (1.7.3)
+Requirement already satisfied: numpy>=1.11.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (1.21.4)
+Requirement already satisfied: scikit-image>=0.16.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (0.19.0)
+Collecting scikit-learn>=0.19.1
+  Using cached scikit_learn-1.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (26.7 MB)
+Requirement already satisfied: typing-extensions in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (4.0.1)
+Requirement already satisfied: pillow!=7.1.0,!=7.1.1,!=8.3.0,>=6.1.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (8.4.0)
+Requirement already satisfied: PyWavelets>=1.1.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (1.2.0)
+Requirement already satisfied: tifffile>=2019.7.26 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2021.11.2)
+Requirement already satisfied: packaging>=20.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (21.3)
+Requirement already satisfied: networkx>=2.2 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.6.3)
+Requirement already satisfied: imageio>=2.4.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.13.3)
+Collecting threadpoolctl>=2.0.0
+  Downloading threadpoolctl-3.1.0-py3-none-any.whl (14 kB)
+Collecting joblib>=0.11
+  Downloading joblib-1.1.0-py2.py3-none-any.whl (306 kB)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from packaging>=20.0->scikit-image>=0.16.1->albumentations) (3.0.6)
+Installing collected packages: PyYAML, opencv-python-headless, threadpoolctl, joblib, scikit-learn, qudida, albumentations
+Successfully installed PyYAML-6.0 albumentations-1.1.0 joblib-1.1.0 opencv-python-headless-4.5.5.62 qudida-0.0.4 scikit-learn-1.0.2 threadpoolctl-3.1.0
+WARNING: You are using pip version 20.2.1; however, version 22.0.3 is available.
+You should consider upgrading via the '/home/users/j/jacsont/Sandozenv/bin/python3 -m pip install --upgrade pip' command.
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+[44.0265] No valid filename found in ALTO file 
+[46.3927] No valid filename found in ALTO file 
+[46.4275] No valid filename found in ALTO file 
+[47.6256] No valid filename found in ALTO file 
+Building training set
+[1657.7025] Line polygon outside of image bounds 
+[2740.8641] Baseline outside of image bounds 
+[2756.2868] Baseline outside of image bounds 
+[3037.1393] Line polygon outside of image bounds 
+[3170.1333] Line polygon outside of image bounds 
+[4557.8545] Line polygon outside of image bounds 
+[5086.7112] Baseline outside of image bounds 
+[5587.8537] Line polygon outside of image bounds 
+[6824.9127] Line polygon outside of image bounds 
+Building validation set
+[8030.0163] Baseline outside of image bounds 
+[8100.6130] alphabet mismatch: chars in training set only: {'|', '"', '&', '„', ']', '*', 'k', 'K', '%', '/', '¥', '0', '#', '[', '¬', '’', '^', '̂', '°', '•', '_'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.9372 29445 1850
+stage 2/∞
+Accuracy report (2) 0.9654 29445 1019
+stage 3/∞
+Accuracy report (3) 0.9775 29445 663
+stage 4/∞
+Accuracy report (4) 0.9810 29445 560
+stage 5/∞
+Accuracy report (5) 0.9830 29445 502
+stage 6/∞
+Accuracy report (6) 0.9857 29445 422
+stage 7/∞
+Accuracy report (7) 0.9865 29445 397
+stage 8/∞
+Accuracy report (8) 0.9875 29445 367
+stage 9/∞
+Accuracy report (9) 0.9882 29445 346
+stage 10/∞
+Accuracy report (10) 0.9898 29445 301
+stage 11/∞
+Accuracy report (11) 0.9910 29445 266
+stage 12/∞
+Accuracy report (12) 0.9914 29445 254
+stage 13/∞
+Accuracy report (13) 0.9918 29445 241
+stage 14/∞
+Accuracy report (14) 0.9926 29445 217
+stage 15/∞
+Accuracy report (15) 0.9932 29445 201
+stage 16/∞
+Accuracy report (16) 0.9926 29445 217
+stage 17/∞
+Accuracy report (17) 0.9943 29445 168
+stage 18/∞
+Accuracy report (18) 0.9948 29445 154
+stage 19/∞
+Accuracy report (19) 0.9949 29445 150
+stage 20/∞
+Accuracy report (20) 0.9960 29445 119
+stage 21/∞
+Accuracy report (21) 0.9958 29445 125
+stage 22/∞
+Accuracy report (22) 0.9965 29445 102
+stage 23/∞
+Accuracy report (23) 0.9966 29445 100
+stage 24/∞
+Accuracy report (24) 0.9967 29445 98
+stage 25/∞
+Accuracy report (25) 0.9968 29445 93
+stage 26/∞
+Accuracy report (26) 0.9974 29445 76
+stage 27/∞
+Accuracy report (27) 0.9971 29445 85
+stage 28/∞
+Accuracy report (28) 0.9970 29445 89
+stage 29/∞
+Accuracy report (29) 0.9975 29445 74
+stage 30/∞
+Accuracy report (30) 0.9980 29445 58
+stage 31/∞
+Accuracy report (31) 0.9977 29445 67
+stage 32/∞
+Accuracy report (32) 0.9977 29445 69
+stage 33/∞
+Accuracy report (33) 0.9980 29445 58
+stage 34/∞
+Accuracy report (34) 0.9980 29445 60
+stage 35/∞
+Accuracy report (35) 0.9980 29445 59
+stage 36/∞
+Accuracy report (36) 0.9982 29445 54
+stage 37/∞
+Accuracy report (37) 0.9986 29445 42
+stage 38/∞
+Accuracy report (38) 0.9981 29445 57
+stage 39/∞
+Accuracy report (39) 0.9982 29445 54
+stage 40/∞
+Accuracy report (40) 0.9987 29445 39
+stage 41/∞
+Accuracy report (41) 0.9986 29445 41
+stage 42/∞
+Accuracy report (42) 0.9983 29445 50
+stage 43/∞
+Accuracy report (43) 0.9988 29445 36
+stage 44/∞
+Accuracy report (44) 0.9987 29445 38
+stage 45/∞
+Accuracy report (45) 0.9988 29445 35
+stage 46/∞
+Accuracy report (46) 0.9981 29445 57
+stage 47/∞
+Accuracy report (47) 0.9995 29445 16
+stage 48/∞
+Accuracy report (48) 0.9993 29445 21
+stage 49/∞
+Accuracy report (49) 0.9990 29445 28
+stage 50/∞
+Accuracy report (50) 0.9991 29445 27
+stage 51/∞
+Accuracy report (51) 0.9994 29445 19
+stage 52/∞
+Accuracy report (52) 0.9993 29445 20
+stage 53/∞
+Accuracy report (53) 0.9993 29445 21
+stage 54/∞
+Accuracy report (54) 0.9993 29445 22
+stage 55/∞
+Accuracy report (55) 0.9990 29445 29
+stage 56/∞
+Accuracy report (56) 0.9995 29445 16
+stage 57/∞
+Accuracy report (57) 0.9992 29445 25
+stage 58/∞
+Accuracy report (58) 0.9992 29445 25
+stage 59/∞
+Accuracy report (59) 0.9992 29445 23
+stage 60/∞
+Accuracy report (60) 0.9996 29445 13
+stage 61/∞
+Accuracy report (61) 0.9996 29445 12
+stage 62/∞
+Accuracy report (62) 0.9998 29445 7
+stage 63/∞
+Accuracy report (63) 0.9994 29445 18
+stage 64/∞
+Accuracy report (64) 0.9998 29445 5
+stage 65/∞
+Accuracy report (65) 0.9995 29445 14
+stage 66/∞
+Accuracy report (66) 0.9996 29445 12
+stage 67/∞
+Accuracy report (67) 0.9996 29445 11
+stage 68/∞
+Accuracy report (68) 0.9998 29445 7
+stage 69/∞
+Accuracy report (69) 0.9997 29445 9
+stage 70/∞
+Accuracy report (70) 0.9996 29445 11
+stage 71/∞
+Accuracy report (71) 0.9999 29445 3
+stage 72/∞
+Accuracy report (72) 0.9997 29445 10
+stage 73/∞
+Accuracy report (73) 0.9999 29445 4
+stage 74/∞
+Accuracy report (74) 0.9998 29445 7
+stage 75/∞
+Accuracy report (75) 0.9997 29445 10
+stage 76/∞
+Accuracy report (76) 0.9995 29445 16
+stage 77/∞
+Accuracy report (77) 0.9997 29445 10
+stage 78/∞
+Accuracy report (78) 0.9998 29445 6
+stage 79/∞
+Accuracy report (79) 0.9995 29445 16
+stage 80/∞
+Accuracy report (80) 0.9995 29445 16
+stage 81/∞
+Accuracy report (81) 0.9997 29445 9
+stage 82/∞
+Accuracy report (82) 0.9996 29445 11
+stage 83/∞
+Accuracy report (83) 0.9997 29445 10
+stage 84/∞
+Accuracy report (84) 0.9997 29445 9
+stage 85/∞
+Accuracy report (85) 0.9999 29445 4
+stage 86/∞
+srun: Job step aborted: Waiting up to 92 seconds for job step to finish.
+slurmstepd: error: *** JOB 8291620 ON gpu008 CANCELLED AT 2022-02-04T13:46:36 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 8291620.0 ON gpu008 CANCELLED AT 2022-02-04T13:46:36 DUE TO TIME LIMIT ***

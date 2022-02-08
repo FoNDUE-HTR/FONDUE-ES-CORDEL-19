@@ -1,0 +1,38 @@
+KETOS training
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[119.2540] No baseline given for line 
+[120.7495] Text line "      " is empty after transformations 
+[120.7496] Text line "  " is empty after transformations 
+[122.7925] No baseline given for line 
+[123.6519] Text line "     " is empty after transformations 
+[123.6520] Text line "           " is empty after transformations 
+[124.8717] No baseline given for line 
+[125.3170] No baseline given for line 
+[126.2075] Text line "     " is empty after transformations 
+[126.2076] Text line "           " is empty after transformations 
+[127.1733] Text line "      " is empty after transformations 
+[127.1735] Text line "  " is empty after transformations 
+Building validation set
+[128.1694] alphabet mismatch: chars in training set only: {'ô', '★', 'Ê', 'ì', '́', 'ï', '§', '>', 'œ', '+', 'Ë', 'Í', 'Ü', 'W', '*', 'ÿ', '%', '’', 'û', 'w', '̧', '<', 'õ', '”', 'â', 'ä', '^', '–', '\\', 'î', 'Œ', '[', '̂', '̈', 'ë', 'Ç', '“', '¥', 'Æ', 'K', '0', 'º', 'Ô', 'Ò', 'À', 'Ï', ']', '}', '„', '•', 'ã', '̀', 'ç', '|', '#', '†', '°', '…', 'Á', '‘', '/', '"', '&', '_', '¬', 'æ', 'Ö', 'É', 'Ä', 'k', 'È', 'ö', 'ê'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.9434 28763 1627
+stage 2/∞
+Accuracy report (2) 0.9536 28769 1335
+stage 3/∞
+Accuracy report (3) 0.9524 28764 1368
+stage 4/∞
+Accuracy report (4) 0.9564 28760 1253
+stage 5/∞
+Accuracy report (5) 0.9573 28763 1227
+stage 6/∞
+Accuracy report (6) 0.9544 28765 1312
+stage 7/∞
+Accuracy report (7) 0.9544 28765 1312
+stage 8/∞
+Accuracy report (8) 0.9558 28767 1272
+stage 9/∞
+slurmstepd: error: *** STEP 8229394.0 ON gpu005 CANCELLED AT 2022-02-01T17:21:50 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 92 seconds for job step to finish.
+slurmstepd: error: *** JOB 8229394 ON gpu005 CANCELLED AT 2022-02-01T17:21:50 DUE TO TIME LIMIT ***

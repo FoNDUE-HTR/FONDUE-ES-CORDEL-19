@@ -1,6 +1,6 @@
 #!/bin/env bash
 #SBATCH --partition=public-gpu
-#SBATCH --time=20:00:00
+#SBATCH --time=2-00:00:00
 #SBATCH --gpus=1
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=0
@@ -14,6 +14,7 @@ mkdir -p ${work_directory}
 cd ${work_directory}
 
 OUTPUT_NAME="output_name"
+
 XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GrounTruth-Alto/"
 
 echo "KETOS training"

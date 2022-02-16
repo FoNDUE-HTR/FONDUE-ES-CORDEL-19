@@ -53,6 +53,7 @@ We chose to manually divide our Groundtruth into three sets (80% train, 10% eval
 A series of tests was done to evaluate the interest of image processing (binarisation, deblurring, luminosity) for character recognition. 
 One can find more information here : [__Readme__ Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/README.md). 
 
+The results obtained imply that post-processing with Niblack binarisation gives the best results on the Ocisation of our corpus. Regarding segmentation, the Niblack binarisation does not bring better results. 
 _____________
 _____________
 

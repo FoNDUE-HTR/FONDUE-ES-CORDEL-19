@@ -53,14 +53,14 @@ We chose to manually divide our Groundtruth into three sets (80% train, 10% eval
 A series of tests was done to evaluate the interest of image processing (binarisation, deblurring, luminosity) for character recognition. 
 One can find more information here : [__Readme__ Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/README.md). 
 
-The results obtained imply that post-processing with Niblack binarisation gives the best results on the Ocisation of our corpus. Regarding segmentation, the Niblack binarisation does not bring better results. 
+The results obtained imply that post-processing with Niblack binarisation gives the best results on the Ocisation of our corpus ( **96.80** %). Regarding segmentation, the Niblack binarisation does not bring better results. 
 _____________
 _____________
 
 ## [Models](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Models/Models-htr-Varios) ###
 
 
-### Fine tuning ####
+### Corpus Out of domain ####
 
 In order to improve our results, we undertook a fine-tuning of our model. The corpus used was constituted from the data of the [HTRCatalogs](https://github.com/Juliettejns/cataloguesSegmentationOCR/) established by Juliette Janes, Simon Gabay and Béatrice Joyeux-Prunel, whose segmentation was corrected to correspond to the latest standards of _SegmOnto_. 
 

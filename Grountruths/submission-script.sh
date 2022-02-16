@@ -9,7 +9,7 @@ module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 pip install albumentations
 
-work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-segmentation/Model-seg-architectures_1"
+work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-segmentation/Model_BGR"
 mkdir -p ${work_directory}
 cd ${work_directory}
 
@@ -18,4 +18,4 @@ OUTPUT_NAME="output_name"
 XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Grountruths/Varios-GrounTruth-Alto/"
 
 echo "KETOS training"
-srun ketos segtrain  -r 0.0001 --lag 20  -f alto  -s '[1,120,0,1 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 S1(1x0)1,3 Lbx200 Do0.1,2 Lbx200 Do.1,2 Lbx200 Do]' -t /home/users/j/jacsont/Varios-OCR-files/Grountruths/Split/train.txt -e /home/users/j/jacsont/Varios-OCR-files/Grountruths/Split/eval.txt -d cuda "${XML_FOLDER}/*.xml"
+srun ketos segtrain -f alto -t /home/users/j/jacsont/Varios-OCR-files/Grountruths/Split/train.txt -e /home/users/j/jacsont/Varios-OCR-files/Grountruths/Split/eval.txt -d cuda "${XML_FOLDER}/*.xml"

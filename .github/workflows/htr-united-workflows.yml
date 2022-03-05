@@ -35,7 +35,7 @@ jobs:
           pip install htr-united-metadata-generator htruc anybadge
       - name: Run Report
         run: |
-          humGenerator --parse alto --group .FoNDUE-Spanish-chapbooks-Dataset/Grountruth/Data/*.xml --github-envs --to-json updated_metrics.json
+          humGenerator --parse alto --group ./FoNDUE-Spanish-chapbooks-Dataset/Grountruth/Data/*.xml --github-envs --to-json updated_metrics.json
           cat envs.txt >> $GITHUB_ENV
       - name: Get HTR United Badge Template
         if: github.ref == 'refs/heads/main'
@@ -71,7 +71,7 @@ jobs:
           pip install chocomufin
       - name: Run ChocoMufin
         run: |
-          chocomufin generate table.csv .FoNDUE-Spanish-chapbooks-Dataset/Grountruth/Data/*.xml
+          chocomufin generate table.csv ./FoNDUE-Spanish-chapbooks-Dataset/Grountruth/Data/*.xml
           cat table.csv
   HTRVX:
     runs-on: ubuntu-latest

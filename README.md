@@ -3,6 +3,7 @@
 This folder contains the documents we used to create our training models, as well as the training models themselves. The directory is divided into two sub-directories : first, the groundtruths, second, the models developed.
 ******
 ## [Groundtruths](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths) ##
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 The ground truth of the _Varios_ corpus was composed with [the ground truth of the _Moreno_ corpus](https://github.com/DesenrollandoElCordel/Moreno-OCR-files/tree/main/Moreno-GroundTruth) to which we added 5 _pliegos_ from the _Varios_ corpus (32 pages), in order to train our model on data in Catalan and with long s. Therefore, the entire GroundTruth data was OCRed once with ABBYY FineReader and then manually corrected. Finally, all the data was exported in PAGE-XML from [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) for migration to [eScriptorium](https://gitlab.inria.fr/scripta/escriptorium). 
 

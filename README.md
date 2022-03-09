@@ -42,11 +42,10 @@ For the lines we use :
 -  [`DefaultLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/DefaultLine/DefaultLine.md).
 <p class="float" align="center">
     <img src="Readme-picture/Moreno_172.png" width="325"/>
-  <img src="Readme-picture/Varios_435.png" width="355"/>
+  <img src="Readme-picture/Moreno_097.png" width="355"/>
   </p>
-  <p class="float" align="center">
-    <img src="Readme-picture/Moreno_279.png" width="355"/>
-  </p>
+ 
+
 
 ### [Split](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths/Split) ####
 

@@ -42,7 +42,7 @@ For the lines we use :
 -  [`DefaultLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/DefaultLine/DefaultLine.md).
 <p class="float" align="center">
     <img src="Readme-picture/Moreno_172.png" width="325"/>
-  <img src="Readme-picture/Moreno_097.png" width="355"/>
+  <img src="Readme-picture/Moreno_097.png" width="325"/>
   </p>
  
 

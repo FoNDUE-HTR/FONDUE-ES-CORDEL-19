@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -62,7 +62,7 @@
           
           
           <TextLine ID="tl_2"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="161 310 285 309 339 307 492 304 729 302 891 297 942 297 1149 296 1228 293 1331 292 1488 287" 
                     HPOS="154"
                     VPOS="230"
@@ -79,60 +79,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="796"
-                   VPOS="2148"
-                   WIDTH="144"
-                   HEIGHT="99"
-                   ID="r_4_1"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="796 2149 936 2148 940 2238 796 2247"/></Shape>
-          
-          
-          <TextLine ID="tl_75"
-                    TAGREFS="LT40"
-                    BASELINE="829 2201 915 2199" 
-                    HPOS="824"
-                    VPOS="2154"
-                    WIDTH="90"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="827 2200 824 2154 910 2154 914 2198 912 2229 824 2221"/></Shape>
-	    <String CONTENT="FIN."
-                    HPOS="824"
-                    VPOS="2154"
-                    WIDTH="90"
-                    HEIGHT="75"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="146"
-                   VPOS="2245"
-                   WIDTH="1459"
-                   HEIGHT="128"
-                   ID="r_5_1"
-                   TAGREFS="BT28">
-          <Shape><Polygon POINTS="146 2277 1531 2245 1586 2248 1605 2340 156 2373"/></Shape>
-          
-          
-          <TextLine ID="tl_76"
-                    
-                    BASELINE="177 2324 542 2317 579 2328 656 2315 770 2312 925 2311 1096 2314 1232 2306 1293 2306 1404 2309 1594 2302" 
-                    HPOS="171"
-                    VPOS="2237"
-                    WIDTH="1422"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="175 2323 171 2264 399 2258 401 2258 401 2258 401 2258 404 2258 412 2260 443 2271 489 2260 500 2258 500 2258 500 2258 502 2258 502 2258 515 2260 569 2269 594 2258 600 2256 600 2256 602 2256 602 2256 605 2256 605 2256 632 2258 699 2264 728 2256 739 2254 741 2254 741 2254 741 2254 743 2254 743 2254 745 2254 745 2254 745 2254 751 2256 768 2264 791 2256 799 2254 801 2254 801 2254 801 2254 803 2254 841 2256 921 2260 942 2254 969 2246 971 2246 971 2246 971 2246 973 2246 973 2246 1030 2254 1069 2258 1216 2256 1229 2252 1268 2239 1270 2239 1270 2239 1270 2239 1272 2239 1272 2239 1335 2250 1352 2252 1392 2250 1528 2237 1528 2237 1530 2237 1530 2237 1589 2248 1593 2300 1593 2308 1469 2331 1469 2331 1469 2331 1296 2334 1293 2334 1293 2334 1291 2334 1291 2334 1291 2334 1289 2334 1289 2334 1275 2319 1218 2319 1174 2319 1151 2321 1046 2331 1046 2331 1044 2331 1044 2331 990 2325 975 2323 971 2325 944 2342 942 2342 942 2342 940 2342 940 2342 940 2342 845 2344 843 2344 843 2344 841 2344 785 2329 774 2327 760 2329 711 2344 709 2344 709 2344 707 2344 707 2344 607 2334 596 2334 594 2334 577 2348 577 2350 577 2350 575 2350 575 2350 573 2350 573 2350 573 2350 571 2350 571 2350 481 2338 464 2336 309 2338 305 2342 288 2355 288 2355 286 2355 286 2355 284 2355 284 2355 284 2355 282 2355 173 2344"/></Shape>
-	    <String CONTENT="CARMONA:—Imp. y lib. de D. José M. Moreno, Madre de Dios, núm. 1"
-                    HPOS="171"
-                    VPOS="2237"
-                    WIDTH="1422"
-                    HEIGHT="118"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="120"
                    VPOS="352"
                    WIDTH="576"
@@ -140,22 +86,6 @@
                    ID="eSc_textblock_65d764a0"
                    TAGREFS="BT205">
           <Shape><Polygon POINTS="120 352 148 2138 678 2134 696 352"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="831"
-                   VPOS="333"
-                   WIDTH="570"
-                   HEIGHT="1796"
-                   ID="eSc_textblock_5d411cbc"
-                   TAGREFS="BT205">
-          <Shape><Polygon POINTS="1389 2113 1401 333 831 341 857 2129"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="tl_3"
@@ -769,22 +699,15 @@
           </TextLine>
 
           
-          
-          <TextLine ID="tl_39"
-                    TAGREFS="LT75"
-                    BASELINE="907 381 1024 385 1174 378 1378 380" 
-                    HPOS="904"
-                    VPOS="328"
-                    WIDTH="473"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="906 380 904 328 1375 334 1377 378 1373 395 904 393"/></Shape>
-	    <String CONTENT="Salve, Centro hermoso,"
-                    HPOS="904"
-                    VPOS="328"
-                    WIDTH="473"
-                    HEIGHT="67"></String>
-          </TextLine>
-
+        </TextBlock>
+        
+        <TextBlock HPOS="831"
+                   VPOS="333"
+                   WIDTH="570"
+                   HEIGHT="1796"
+                   ID="eSc_textblock_5d411cbc"
+                   TAGREFS="BT205">
+          <Shape><Polygon POINTS="1389 2113 1401 333 831 341 857 2129"/></Shape>
           
           
           <TextLine ID="tl_40"
@@ -800,6 +723,23 @@
                     VPOS="374"
                     WIDTH="389"
                     HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_39"
+                    TAGREFS="LT75"
+                    BASELINE="907 381 1024 385 1174 378 1378 380" 
+                    HPOS="904"
+                    VPOS="328"
+                    WIDTH="473"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="906 380 904 328 1375 334 1377 378 1373 395 904 393"/></Shape>
+	    <String CONTENT="Salve, Centro hermoso,"
+                    HPOS="904"
+                    VPOS="328"
+                    WIDTH="473"
+                    HEIGHT="67"></String>
           </TextLine>
 
           
@@ -906,23 +846,6 @@
 
           
           
-          <TextLine ID="tl_47"
-                    TAGREFS="LT75"
-                    BASELINE="914 770 1033 774 1262 772" 
-                    HPOS="910"
-                    VPOS="722"
-                    WIDTH="350"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="912 768 912 722 1256 726 1260 770 1258 782 910 782"/></Shape>
-	    <String CONTENT="Salve, Pastorcita,"
-                    HPOS="910"
-                    VPOS="722"
-                    WIDTH="350"
-                    HEIGHT="60"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_48"
                     TAGREFS="LT75"
                     BASELINE="866 817 909 818 1092 816 1284 820" 
@@ -936,6 +859,23 @@
                     VPOS="761"
                     WIDTH="423"
                     HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_47"
+                    TAGREFS="LT75"
+                    BASELINE="914 770 1033 774 1262 772" 
+                    HPOS="910"
+                    VPOS="722"
+                    WIDTH="350"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="912 768 912 722 1256 726 1260 770 1258 782 910 782"/></Shape>
+	    <String CONTENT="Salve, Pastorcita,"
+                    HPOS="910"
+                    VPOS="722"
+                    WIDTH="350"
+                    HEIGHT="60"></String>
           </TextLine>
 
           
@@ -1382,6 +1322,62 @@
 
           
         </TextBlock>
+        
+        <TextBlock HPOS="146"
+                   VPOS="2245"
+                   WIDTH="1459"
+                   HEIGHT="128"
+                   ID="r_5_1"
+                   TAGREFS="BT28">
+          <Shape><Polygon POINTS="146 2277 1531 2245 1586 2248 1605 2340 156 2373"/></Shape>
+          
+          
+          <TextLine ID="tl_76"
+                    
+                    BASELINE="177 2324 542 2317 579 2328 656 2315 770 2312 925 2311 1096 2314 1232 2306 1293 2306 1404 2309 1594 2302" 
+                    HPOS="171"
+                    VPOS="2237"
+                    WIDTH="1422"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="175 2323 171 2264 399 2258 401 2258 401 2258 401 2258 404 2258 412 2260 443 2271 489 2260 500 2258 500 2258 500 2258 502 2258 502 2258 515 2260 569 2269 594 2258 600 2256 600 2256 602 2256 602 2256 605 2256 605 2256 632 2258 699 2264 728 2256 739 2254 741 2254 741 2254 741 2254 743 2254 743 2254 745 2254 745 2254 745 2254 751 2256 768 2264 791 2256 799 2254 801 2254 801 2254 801 2254 803 2254 841 2256 921 2260 942 2254 969 2246 971 2246 971 2246 971 2246 973 2246 973 2246 1030 2254 1069 2258 1216 2256 1229 2252 1268 2239 1270 2239 1270 2239 1270 2239 1272 2239 1272 2239 1335 2250 1352 2252 1392 2250 1528 2237 1528 2237 1530 2237 1530 2237 1589 2248 1593 2300 1593 2308 1469 2331 1469 2331 1469 2331 1296 2334 1293 2334 1293 2334 1291 2334 1291 2334 1291 2334 1289 2334 1289 2334 1275 2319 1218 2319 1174 2319 1151 2321 1046 2331 1046 2331 1044 2331 1044 2331 990 2325 975 2323 971 2325 944 2342 942 2342 942 2342 940 2342 940 2342 940 2342 845 2344 843 2344 843 2344 841 2344 785 2329 774 2327 760 2329 711 2344 709 2344 709 2344 707 2344 707 2344 607 2334 596 2334 594 2334 577 2348 577 2350 577 2350 575 2350 575 2350 573 2350 573 2350 573 2350 571 2350 571 2350 481 2338 464 2336 309 2338 305 2342 288 2355 288 2355 286 2355 286 2355 284 2355 284 2355 284 2355 282 2355 173 2344"/></Shape>
+	    <String CONTENT="CARMONA:—Imp. y lib. de D. José M. Moreno, Madre de Dios, núm. 1"
+                    HPOS="171"
+                    VPOS="2237"
+                    WIDTH="1422"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="796"
+                   VPOS="2148"
+                   WIDTH="144"
+                   HEIGHT="99"
+                   ID="r_4_1"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="796 2149 936 2148 940 2238 796 2247"/></Shape>
+          
+          
+          <TextLine ID="tl_75"
+                    TAGREFS="LT40"
+                    BASELINE="829 2201 915 2199" 
+                    HPOS="824"
+                    VPOS="2154"
+                    WIDTH="90"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="827 2200 824 2154 910 2154 914 2198 912 2229 824 2221"/></Shape>
+	    <String CONTENT="FIN."
+                    HPOS="824"
+                    VPOS="2154"
+                    WIDTH="90"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -35,13 +35,13 @@
           
           
           <TextLine ID="line_1601899183462_6810"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="298 170 505 166 1446 146" 
                     HPOS="294"
                     VPOS="87"
                     WIDTH="1150"
                     HEIGHT="111">
-            <Shape><Polygon POINTS="296 169 294 110 384 123 430 112 432 112 432 112 434 112 539 119 562 106 564 106 564 106 564 106 566 106 566 106 568 106 610 106 762 110 802 104 863 96 863 96 865 96 865 96 865 96 867 96 867 96 867 96 869 96 879 104 890 110 951 104 1049 91 1049 91 1153 89 1155 89 1155 89 1158 89 1158 89 1158 89 1160 89 1160 89 1160 91 1170 102 1174 104 1180 102 1218 89 1220 89 1220 89 1220 89 1222 89 1222 89 1224 89 1268 100 1275 102 1283 100 1329 87 1331 87 1331 87 1333 87 1333 87 1440 100 1444 144 1442 171 1350 163 1327 175 1321 177 1321 177 1321 177 1318 177 1318 177 1318 177 1082 181 1080 181 1080 181 1078 181 1078 181 1078 181 1076 181 1051 169 863 186 852 186 850 186 850 186 846 186 769 175 750 188 748 190 746 190 746 190 746 190 744 190 744 190 742 190 708 190 516 181 484 194 480 196 480 196 478 196 478 196 478 196 476 196 476 196 474 196 470 194 430 183 411 196 409 196 409 196 409 196 409 196 407 196 407 196 405 196 405 196 405 196 403 196 355 188 296 198"/></Shape>
+            <Shape><Polygon POINTS="296 169 294 110 384 123 430 112 432 112 434 112 539 119 562 106 564 106 566 106 568 106 610 106 762 110 802 104 863 96 865 96 867 96 869 96 879 104 890 110 951 104 1049 91 1153 89 1155 89 1158 89 1160 89 1160 91 1170 102 1174 104 1180 102 1218 89 1220 89 1222 89 1224 89 1268 100 1275 102 1283 100 1329 87 1331 87 1333 87 1440 100 1444 144 1442 171 1350 163 1327 175 1321 177 1318 177 1082 181 1080 181 1078 181 1076 181 1051 169 863 186 852 186 850 186 846 186 769 175 750 188 748 190 746 190 744 190 742 190 708 190 516 181 484 194 480 196 478 196 476 196 474 196 470 194 430 183 411 196 409 196 407 196 405 196 403 196 355 188 296 198"/></Shape>
 	    <String CONTENT="LA GITANILLA"
                     HPOS="294"
                     VPOS="87"
@@ -898,7 +898,7 @@
           
           
           <TextLine ID="line_1601910353048_10096"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="692 1455 1105 1448" 
                     HPOS="689"
                     VPOS="1383"

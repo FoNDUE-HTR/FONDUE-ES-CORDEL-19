@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -25,16 +25,6 @@
                   WIDTH="1765"
                   HEIGHT="2512">
         
-        <TextBlock HPOS="554"
-                   VPOS="184"
-                   WIDTH="614"
-                   HEIGHT="238"
-                   ID="eSc_textblock_6e2e5b3e"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="554 184 560 422 1168 416 1168 184"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="158"
                    VPOS="403"
                    WIDTH="560"
@@ -42,120 +32,6 @@
                    ID="eSc_textblock_a8212478"
                    TAGREFS="BT14">
           <Shape><Polygon POINTS="161 403 158 1316 718 1299 709 411"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="872"
-                   VPOS="398"
-                   WIDTH="629"
-                   HEIGHT="902"
-                   ID="eSc_textblock_86f51d11"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1501 1292 1492 398 872 403 875 1300"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="541"
-                   VPOS="1281"
-                   WIDTH="644"
-                   HEIGHT="206"
-                   ID="eSc_textblock_5202161c"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1184 1478 1185 1281 551 1287 541 1487"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="170"
-                   VPOS="1446"
-                   WIDTH="582"
-                   HEIGHT="951"
-                   ID="eSc_textblock_753d2b98"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="178 1446 170 2397 752 2394 744 1459"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="888"
-                   VPOS="1448"
-                   WIDTH="692"
-                   HEIGHT="936"
-                   ID="eSc_textblock_129a131d"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1577 2384 1580 1448 891 1460 888 2383"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_21"
-                    
-                    BASELINE="652 271 696 271 746 271 901 269 1102 268" 
-                    HPOS="649"
-                    VPOS="226"
-                    WIDTH="452"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="651 270 649 226 1099 226 1101 267 1099 276 651 284"/></Shape>
-	    <String CONTENT="Es el moreno agraciado"
-                    HPOS="649"
-                    VPOS="226"
-                    WIDTH="452"
-                    HEIGHT="58"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_22"
-                    
-                    BASELINE="607 314 640 315 728 315 831 314 1064 316" 
-                    HPOS="605"
-                    VPOS="265"
-                    WIDTH="458"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="605 314 605 265 1063 276 1063 314 1063 326 605 328"/></Shape>
-	    <String CONTENT="la mas bella perfección,"
-                    HPOS="605"
-                    VPOS="265"
-                    WIDTH="458"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_23"
-                    
-                    BASELINE="603 368 625 368 671 358 778 358 833 358 1007 355" 
-                    HPOS="600"
-                    VPOS="309"
-                    WIDTH="404"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="602 366 600 316 998 309 1004 353 1004 364 602 376"/></Shape>
-	    <String CONTENT="y se lleva la atención"
-                    HPOS="600"
-                    VPOS="309"
-                    WIDTH="404"
-                    HEIGHT="67"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_24"
-                    
-                    BASELINE="604 412 667 403 812 403 864 402 925 401 1132 399" 
-                    HPOS="596"
-                    VPOS="341"
-                    WIDTH="534"
-                    HEIGHT="81">
-            <Shape><Polygon POINTS="602 410 596 368 684 353 684 353 686 353 686 353 688 353 720 362 730 364 745 360 783 347 785 347 785 347 785 347 787 347 894 353 1015 360 1030 347 1034 343 1034 341 1034 341 1036 341 1036 341 1036 341 1038 341 1038 341 1040 341 1126 343 1130 397 1130 414 602 422"/></Shape>
-	    <String CONTENT="que Cupido lo ha premiado."
-                    HPOS="596"
-                    VPOS="341"
-                    WIDTH="534"
-                    HEIGHT="81"></String>
-          </TextLine>
-
           
           
           <TextLine ID="tl_1"
@@ -497,6 +373,94 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="554"
+                   VPOS="184"
+                   WIDTH="614"
+                   HEIGHT="238"
+                   ID="eSc_textblock_6e2e5b3e"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="554 184 560 422 1168 416 1168 184"/></Shape>
+          
+          
+          <TextLine ID="tl_21"
+                    
+                    BASELINE="652 271 696 271 746 271 901 269 1102 268" 
+                    HPOS="649"
+                    VPOS="226"
+                    WIDTH="452"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="651 270 649 226 1099 226 1101 267 1099 276 651 284"/></Shape>
+	    <String CONTENT="Es el moreno agraciado"
+                    HPOS="649"
+                    VPOS="226"
+                    WIDTH="452"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_22"
+                    
+                    BASELINE="607 314 640 315 728 315 831 314 1064 316" 
+                    HPOS="605"
+                    VPOS="265"
+                    WIDTH="458"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="605 314 605 265 1063 276 1063 314 1063 326 605 328"/></Shape>
+	    <String CONTENT="la mas bella perfección,"
+                    HPOS="605"
+                    VPOS="265"
+                    WIDTH="458"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_23"
+                    
+                    BASELINE="603 368 625 368 671 358 778 358 833 358 1007 355" 
+                    HPOS="600"
+                    VPOS="309"
+                    WIDTH="404"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="602 366 600 316 998 309 1004 353 1004 364 602 376"/></Shape>
+	    <String CONTENT="y se lleva la atención"
+                    HPOS="600"
+                    VPOS="309"
+                    WIDTH="404"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_24"
+                    
+                    BASELINE="604 412 667 403 812 403 864 402 925 401 1132 399" 
+                    HPOS="596"
+                    VPOS="341"
+                    WIDTH="534"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="602 410 596 368 684 353 684 353 686 353 686 353 688 353 720 362 730 364 745 360 783 347 785 347 785 347 785 347 787 347 894 353 1015 360 1030 347 1034 343 1034 341 1034 341 1036 341 1036 341 1036 341 1038 341 1038 341 1040 341 1126 343 1130 397 1130 414 602 422"/></Shape>
+	    <String CONTENT="que Cupido lo ha premiado."
+                    HPOS="596"
+                    VPOS="341"
+                    WIDTH="534"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="872"
+                   VPOS="398"
+                   WIDTH="629"
+                   HEIGHT="902"
+                   ID="eSc_textblock_86f51d11"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1501 1292 1492 398 872 403 875 1300"/></Shape>
+          
           
           <TextLine ID="tl_49"
                     
@@ -837,6 +801,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="541"
+                   VPOS="1281"
+                   WIDTH="644"
+                   HEIGHT="206"
+                   ID="eSc_textblock_5202161c"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1184 1478 1185 1281 551 1287 541 1487"/></Shape>
+          
           
           <TextLine ID="tl_45"
                     
@@ -904,6 +878,16 @@
                     HEIGHT="71"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="170"
+                   VPOS="1446"
+                   WIDTH="582"
+                   HEIGHT="951"
+                   ID="eSc_textblock_753d2b98"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="178 1446 170 2397 752 2394 744 1459"/></Shape>
           
           
           <TextLine ID="tl_25"
@@ -1244,6 +1228,16 @@
                     HEIGHT="74"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="888"
+                   VPOS="1448"
+                   WIDTH="692"
+                   HEIGHT="936"
+                   ID="eSc_textblock_129a131d"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1577 2384 1580 1448 891 1460 888 2383"/></Shape>
           
           
           <TextLine ID="tl_69"
@@ -1586,6 +1580,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

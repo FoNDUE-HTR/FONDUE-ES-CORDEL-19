@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -24,6 +24,67 @@
                   VPOS="0"
                   WIDTH="1737"
                   HEIGHT="2508">
+        
+        <TextBlock HPOS="319"
+                   VPOS="1090"
+                   WIDTH="1239"
+                   HEIGHT="654"
+                   ID="eSc_textblock_be07cdd3"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="648 1114 1179 1090 1506 1283 1558 1722 333 1744 319 1317"/></Shape>
+          
+          
+          <TextLine ID="tl_2"
+                    TAGREFS="LT78"
+                    BASELINE="666 1202 1160 1188" 
+                    HPOS="658"
+                    VPOS="1109"
+                    WIDTH="500"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="664 1201 658 1132 1151 1109 1158 1187 1155 1199 1082 1214 1080 1214 986 1205 982 1205 980 1205 942 1218 940 1218 938 1218 936 1218 900 1208 879 1220 877 1220 875 1220 873 1220 817 1210 813 1210 806 1210 773 1220 771 1220 769 1220 716 1214 710 1222 708 1222 708 1224 706 1224 704 1224 702 1224 700 1224 660 1214"/></Shape>
+	    <String CONTENT="DESPEDIDA"
+                    HPOS="658"
+                    VPOS="1109"
+                    WIDTH="500"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_3"
+                    TAGREFS="LT78"
+                    BASELINE="401 1432 503 1432 947 1420 1463 1404" 
+                    HPOS="392"
+                    VPOS="1272"
+                    WIDTH="1069"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="399 1431 392 1314 464 1302 466 1302 468 1302 470 1302 470 1304 478 1310 487 1316 539 1308 566 1304 568 1304 593 1306 668 1312 698 1302 704 1299 706 1299 708 1299 710 1299 714 1302 737 1310 752 1299 758 1293 760 1293 762 1293 765 1293 823 1295 946 1304 1001 1289 1017 1285 1020 1285 1022 1285 1040 1287 1082 1295 1109 1285 1116 1283 1118 1283 1120 1283 1149 1283 1293 1291 1318 1276 1321 1276 1323 1276 1325 1276 1331 1276 1404 1283 1450 1272 1461 1402 1461 1417 957 1423 627 1446 606 1446 604 1446 597 1446 484 1440 399 1452"/></Shape>
+	    <String CONTENT="DE DOS FINOS"
+                    HPOS="392"
+                    VPOS="1272"
+                    WIDTH="1069"
+                    HEIGHT="180"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_4"
+                    TAGREFS="LT78"
+                    BASELINE="434 1683 1449 1647" 
+                    HPOS="426"
+                    VPOS="1490"
+                    WIDTH="1022"
+                    HEIGHT="219">
+            <Shape><Polygon POINTS="432 1682 426 1544 474 1544 478 1540 503 1523 505 1523 507 1523 510 1523 512 1523 564 1538 568 1538 570 1538 618 1511 620 1511 662 1508 664 1508 758 1529 771 1531 775 1529 794 1515 796 1515 798 1515 800 1515 857 1525 869 1527 879 1525 946 1500 948 1500 951 1500 953 1500 1005 1513 1101 1498 1103 1498 1105 1498 1132 1508 1168 1492 1170 1492 1172 1492 1285 1508 1298 1508 1304 1506 1346 1490 1348 1490 1350 1490 1352 1490 1385 1504 1400 1508 1438 1502 1448 1646 1448 1667 1341 1678 1339 1678 1337 1678 1321 1674 1287 1665 1275 1676 1266 1682 1264 1682 1262 1682 1260 1682 1258 1682 1243 1676 1216 1667 1091 1669 1007 1686 969 1692 967 1692 942 1688 900 1682 886 1690 884 1694 882 1694 879 1694 877 1694 875 1694 867 1692 840 1682 817 1694 811 1697 808 1697 729 1701 727 1701 725 1701 716 1699 683 1686 660 1701 658 1703 656 1703 654 1703 652 1703 650 1703 645 1701 624 1692 604 1703 599 1705 597 1705 595 1705 576 1705 493 1697 432 1709"/></Shape>
+	    <String CONTENT="AMANTES."
+                    HPOS="426"
+                    VPOS="1490"
+                    WIDTH="1022"
+                    HEIGHT="219"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
         <TextBlock HPOS="1300"
                    VPOS="198"
@@ -364,72 +425,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="319"
-                   VPOS="1090"
-                   WIDTH="1239"
-                   HEIGHT="654"
-                   ID="eSc_textblock_be07cdd3"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="648 1114 1179 1090 1506 1283 1558 1722 333 1744 319 1317"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT74"
-                    BASELINE="666 1202 1160 1188" 
-                    HPOS="658"
-                    VPOS="1109"
-                    WIDTH="500"
-                    HEIGHT="115">
-            <Shape><Polygon POINTS="664 1201 658 1132 1151 1109 1158 1187 1155 1199 1082 1214 1082 1214 1080 1214 1080 1214 986 1205 982 1205 980 1205 942 1218 940 1218 940 1218 940 1218 938 1218 938 1218 938 1218 936 1218 900 1208 900 1208 900 1208 879 1220 877 1220 877 1220 875 1220 875 1220 875 1220 873 1220 873 1220 817 1210 813 1210 806 1210 773 1220 771 1220 771 1220 769 1220 769 1220 716 1214 710 1222 708 1222 708 1224 708 1224 706 1224 706 1224 706 1224 704 1224 704 1224 704 1224 702 1224 702 1224 700 1224 660 1214"/></Shape>
-	    <String CONTENT="DESPEDIDA"
-                    HPOS="658"
-                    VPOS="1109"
-                    WIDTH="500"
-                    HEIGHT="115"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT74"
-                    BASELINE="401 1432 503 1432 947 1420 1463 1404" 
-                    HPOS="392"
-                    VPOS="1272"
-                    WIDTH="1069"
-                    HEIGHT="180">
-            <Shape><Polygon POINTS="399 1431 392 1314 464 1302 464 1302 466 1302 466 1302 466 1302 468 1302 468 1302 470 1302 470 1302 470 1304 478 1310 487 1316 539 1308 566 1304 566 1304 568 1304 568 1304 593 1306 668 1312 698 1302 704 1299 704 1299 706 1299 706 1299 708 1299 708 1299 708 1299 710 1299 710 1299 714 1302 737 1310 752 1299 758 1293 758 1293 760 1293 760 1293 762 1293 762 1293 762 1293 765 1293 823 1295 946 1304 1001 1289 1017 1285 1020 1285 1020 1285 1022 1285 1022 1285 1022 1285 1040 1287 1082 1295 1109 1285 1116 1283 1116 1283 1118 1283 1118 1283 1118 1283 1120 1283 1149 1283 1293 1291 1318 1276 1318 1276 1321 1276 1321 1276 1321 1276 1323 1276 1323 1276 1325 1276 1325 1276 1331 1276 1404 1283 1450 1272 1461 1402 1461 1417 957 1423 627 1446 606 1446 604 1446 597 1446 484 1440 399 1452"/></Shape>
-	    <String CONTENT="DE DOS FINOS"
-                    HPOS="392"
-                    VPOS="1272"
-                    WIDTH="1069"
-                    HEIGHT="180"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT74"
-                    BASELINE="434 1683 1449 1647" 
-                    HPOS="426"
-                    VPOS="1490"
-                    WIDTH="1022"
-                    HEIGHT="219">
-            <Shape><Polygon POINTS="432 1682 426 1544 474 1544 478 1540 503 1523 505 1523 505 1523 505 1523 507 1523 507 1523 507 1523 510 1523 510 1523 512 1523 564 1538 568 1538 570 1538 618 1511 618 1511 618 1511 620 1511 620 1511 620 1511 662 1508 664 1508 664 1508 664 1508 758 1529 771 1531 775 1529 794 1515 796 1515 796 1515 796 1515 798 1515 798 1515 800 1515 800 1515 800 1515 857 1525 869 1527 879 1525 946 1500 948 1500 948 1500 948 1500 951 1500 951 1500 953 1500 1005 1513 1101 1498 1101 1498 1103 1498 1103 1498 1103 1498 1105 1498 1105 1498 1132 1508 1168 1492 1168 1492 1168 1492 1170 1492 1170 1492 1172 1492 1172 1492 1285 1508 1298 1508 1304 1506 1346 1490 1346 1490 1348 1490 1348 1490 1350 1490 1350 1490 1350 1490 1352 1490 1352 1490 1385 1504 1400 1508 1438 1502 1448 1646 1448 1667 1341 1678 1341 1678 1339 1678 1339 1678 1337 1678 1321 1674 1287 1665 1275 1676 1266 1682 1266 1682 1264 1682 1264 1682 1262 1682 1262 1682 1262 1682 1260 1682 1260 1682 1258 1682 1258 1682 1243 1676 1216 1667 1091 1669 1007 1686 969 1692 969 1692 969 1692 967 1692 967 1692 942 1688 900 1682 886 1690 884 1694 884 1694 882 1694 882 1694 882 1694 879 1694 879 1694 877 1694 877 1694 877 1694 875 1694 867 1692 840 1682 817 1694 811 1697 811 1697 811 1697 808 1697 808 1697 729 1701 727 1701 727 1701 727 1701 725 1701 716 1699 683 1686 660 1701 658 1703 656 1703 656 1703 656 1703 654 1703 654 1703 652 1703 652 1703 652 1703 650 1703 650 1703 645 1701 624 1692 604 1703 599 1705 599 1705 599 1705 597 1705 597 1705 595 1705 595 1705 576 1705 493 1697 432 1709"/></Shape>
-	    <String CONTENT="AMANTES."
-                    HPOS="426"
-                    VPOS="1490"
-                    WIDTH="1022"
-                    HEIGHT="219"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

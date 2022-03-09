@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -24,33 +24,6 @@
                   VPOS="0"
                   WIDTH="1737"
                   HEIGHT="2508">
-        
-        <TextBlock HPOS="1436"
-                   VPOS="117"
-                   WIDTH="114"
-                   HEIGHT="82"
-                   ID="region_1601886039971_664"
-                   TAGREFS="BT25">
-          <Shape><Polygon POINTS="1436 120 1550 117 1546 196 1437 199"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_02dc83a1"
-                    
-                    BASELINE="1455 180 1522 183" 
-                    HPOS="1448"
-                    VPOS="117"
-                    WIDTH="73"
-                    HEIGHT="81">
-            <Shape><Polygon POINTS="1454 179 1454 117 1521 117 1521 181 1521 188 1486 198 1484 198 1484 198 1484 198 1481 198 1481 198 1479 198 1479 198 1448 186"/></Shape>
-	    <String CONTENT="7"
-                    HPOS="1448"
-                    VPOS="117"
-                    WIDTH="73"
-                    HEIGHT="81"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
         <TextBlock HPOS="163"
                    VPOS="195"
@@ -786,6 +759,77 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="1436"
+                   VPOS="117"
+                   WIDTH="114"
+                   HEIGHT="82"
+                   ID="region_1601886039971_664"
+                   TAGREFS="BT25">
+          <Shape><Polygon POINTS="1436 120 1550 117 1546 196 1437 199"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_02dc83a1"
+                    
+                    BASELINE="1455 180 1522 183" 
+                    HPOS="1448"
+                    VPOS="117"
+                    WIDTH="73"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1454 179 1454 117 1521 117 1521 181 1521 188 1486 198 1484 198 1484 198 1484 198 1481 198 1481 198 1479 198 1479 198 1448 186"/></Shape>
+	    <String CONTENT="7"
+                    HPOS="1448"
+                    VPOS="117"
+                    WIDTH="73"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="282"
+                   VPOS="1550"
+                   WIDTH="1264"
+                   HEIGHT="313"
+                   ID="eSc_textblock_315ece27"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="1302 1550 1300 1713 1534 1722 1546 1839 292 1863 282 1760 379 1744 574 1744 574 1705 553 1702 562 1564"/></Shape>
+          
+          
+          <TextLine ID="line_1601886290662_989"
+                    TAGREFS="LT78"
+                    BASELINE="595 1661 1250 1650" 
+                    HPOS="591"
+                    VPOS="1567"
+                    WIDTH="658"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="593 1659 591 1582 1082 1582 1093 1580 1172 1567 1172 1567 1174 1567 1174 1567 1245 1580 1249 1649 1249 1655 1187 1672 1185 1672 1185 1672 1183 1672 1183 1672 1183 1672 1128 1659 1116 1657 1084 1661 1028 1667 1028 1667 1026 1667 946 1665 865 1661 859 1667 848 1676 848 1678 848 1678 846 1678 846 1678 846 1678 844 1678 844 1678 842 1678 842 1678 767 1669 744 1667 737 1669 725 1680 723 1680 723 1680 723 1680 721 1680 721 1680 721 1680 719 1680 591 1674"/></Shape>
+	    <String CONTENT="TERCERA PARTE."
+                    HPOS="591"
+                    VPOS="1567"
+                    WIDTH="658"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601886297952_996"
+                    TAGREFS="LT78"
+                    BASELINE="334 1821 1518 1792" 
+                    HPOS="330"
+                    VPOS="1711"
+                    WIDTH="1187"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="332 1820 330 1738 428 1763 579 1763 608 1751 610 1751 612 1751 716 1757 727 1749 727 1747 729 1747 731 1747 733 1747 788 1755 798 1747 798 1745 800 1745 802 1745 804 1745 806 1745 808 1745 825 1755 848 1745 850 1745 852 1745 1118 1747 1168 1717 1172 1715 1174 1715 1176 1715 1511 1711 1517 1791 1515 1799 1429 1814 1427 1814 1371 1803 1360 1803 1346 1805 1260 1818 1258 1818 1135 1812 1099 1809 1091 1812 1061 1822 1059 1822 1057 1822 850 1818 754 1818 725 1822 664 1832 662 1832 612 1826 585 1822 551 1828 495 1837 493 1837 459 1830 438 1826 332 1832"/></Shape>
+	    <String CONTENT="De la respuesta que dió don Juan de Austria al Gran Turco."
+                    HPOS="330"
+                    VPOS="1711"
+                    WIDTH="1187"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="188"
                    VPOS="1880"
                    WIDTH="727"
@@ -1078,16 +1122,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="282"
-                   VPOS="1550"
-                   WIDTH="1264"
-                   HEIGHT="313"
-                   ID="eSc_textblock_315ece27"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="1302 1550 1300 1713 1534 1722 1546 1839 292 1863 282 1760 379 1744 574 1744 574 1705 553 1702 562 1564"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="545"
                    VPOS="1309"
                    WIDTH="781"
@@ -1099,44 +1133,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_1601886290662_989"
-                    TAGREFS="LT74"
-                    BASELINE="595 1661 1250 1650" 
-                    HPOS="589"
-                    VPOS="1563"
-                    WIDTH="660"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="593 1659 589 1571 698 1580 725 1569 729 1567 729 1567 731 1567 731 1567 731 1567 871 1565 873 1565 873 1565 875 1565 875 1565 875 1565 879 1567 902 1580 984 1580 1243 1563 1249 1649 1249 1655 1187 1672 1185 1672 1185 1672 1183 1672 1183 1672 1183 1672 1128 1659 1116 1657 1084 1661 1028 1667 1028 1667 1026 1667 946 1665 865 1661 859 1667 848 1676 848 1678 848 1678 846 1678 846 1678 846 1678 844 1678 844 1678 842 1678 842 1678 767 1669 744 1667 737 1669 725 1680 723 1680 723 1680 723 1680 721 1680 721 1680 721 1680 719 1680 591 1674"/></Shape>
-	    <String CONTENT="TERCERA PARTE."
-                    HPOS="589"
-                    VPOS="1563"
-                    WIDTH="660"
-                    HEIGHT="117"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601886297952_996"
-                    TAGREFS="LT74"
-                    BASELINE="334 1821 1518 1792" 
-                    HPOS="330"
-                    VPOS="1711"
-                    WIDTH="1187"
-                    HEIGHT="126">
-            <Shape><Polygon POINTS="332 1820 330 1738 428 1763 579 1763 608 1751 608 1751 610 1751 610 1751 610 1751 612 1751 716 1757 727 1749 727 1747 727 1747 729 1747 729 1747 729 1747 731 1747 731 1747 731 1747 733 1747 733 1747 788 1755 798 1747 798 1745 798 1745 800 1745 800 1745 800 1745 802 1745 802 1745 802 1745 804 1745 804 1745 806 1745 806 1745 806 1745 808 1745 825 1755 848 1745 848 1745 848 1745 850 1745 850 1745 852 1745 1118 1747 1168 1717 1172 1715 1174 1715 1174 1715 1176 1715 1176 1715 1176 1715 1511 1711 1517 1791 1515 1799 1429 1814 1429 1814 1427 1814 1427 1814 1427 1814 1371 1803 1360 1803 1346 1805 1260 1818 1260 1818 1258 1818 1135 1812 1099 1809 1091 1812 1061 1822 1061 1822 1059 1822 1059 1822 1057 1822 850 1818 754 1818 725 1822 664 1832 664 1832 662 1832 662 1832 612 1826 585 1822 551 1828 495 1837 495 1837 493 1837 493 1837 493 1837 459 1830 438 1826 332 1832"/></Shape>
-	    <String CONTENT="De la respuesta que dió don Juan de Austria al Gran Turco."
-                    HPOS="330"
-                    VPOS="1711"
-                    WIDTH="1187"
-                    HEIGHT="126"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

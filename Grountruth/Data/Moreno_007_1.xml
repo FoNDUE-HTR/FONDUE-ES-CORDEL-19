@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -24,6 +24,172 @@
                   VPOS="0"
                   WIDTH="1737"
                   HEIGHT="2508">
+        
+        <TextBlock HPOS="312"
+                   VPOS="411"
+                   WIDTH="1085"
+                   HEIGHT="121"
+                   ID="eSc_textblock_116a2f87"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="312 411 318 532 1394 529 1397 413"/></Shape>
+          
+          
+          <TextLine ID="r1l2"
+                    TAGREFS="LT78"
+                    BASELINE="415 479 460 479 506 479 552 479 598 479 644 480 690 480 736 481 782 481 828 482 874 483 919 483 965 483 1011 483 1057 483 1103 483 1149 482 1195 482 1241 481 1287 479 1333 477" 
+                    HPOS="413"
+                    VPOS="415"
+                    WIDTH="918"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="413 478 415 420 428 430 441 420 445 415 447 415 449 415 451 415 627 420 1045 430 1095 418 1105 415 1107 415 1109 415 1112 415 1114 415 1116 418 1130 428 1235 420 1237 420 1291 430 1323 418 1331 476 1329 493 978 503 976 503 974 503 971 503 965 497 953 489 925 499 911 503 909 503 909 505 804 505 802 503 800 503 788 499 756 489 459 489 415 503"/></Shape>
+	    <String CONTENT="Antonio Narvaez y Rosaura."
+                    HPOS="413"
+                    VPOS="415"
+                    WIDTH="918"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1141"
+                   VPOS="303"
+                   WIDTH="312"
+                   HEIGHT="96"
+                   ID="eSc_textblock_2aa02db3"
+                   TAGREFS="BT95">
+          <Shape><Polygon POINTS="1141 303 1147 399 1448 396 1453 306"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="1172 369 1198 369 1224 370 1251 370 1277 370 1304 369 1330 369 1357 368 1383 368 1410 367" 
+                    HPOS="1168"
+                    VPOS="334"
+                    WIDTH="240"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1170 367 1168 334 1404 336 1408 365 1408 382 1170 390"/></Shape>
+	    <String CONTENT="(Número 6.)"
+                    HPOS="1168"
+                    VPOS="334"
+                    WIDTH="240"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="157"
+                   VPOS="1279"
+                   WIDTH="1441"
+                   HEIGHT="416"
+                   ID="eSc_textblock_d16ad768"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="1595 1695 1598 1279 159 1279 157 1695"/></Shape>
+          
+          
+          <TextLine ID="r1l3"
+                    TAGREFS="LT78"
+                    BASELINE="470 1356 510 1355 551 1355 591 1355 632 1355 673 1356 713 1356 754 1356 795 1356 835 1357 876 1357 917 1357 957 1357 998 1357 1039 1358 1079 1358 1120 1358 1161 1357 1201 1357 1242 1357 1283 1356" 
+                    HPOS="466"
+                    VPOS="1279"
+                    WIDTH="815"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="468 1354 466 1287 616 1279 618 1279 666 1289 675 1289 679 1289 704 1279 706 1279 708 1279 1005 1291 1059 1293 1061 1291 1074 1281 1074 1279 1076 1279 1078 1279 1080 1279 1195 1279 1279 1295 1281 1354 1281 1391 1114 1400 1112 1400 1109 1400 1107 1400 1107 1398 1103 1394 1084 1377 871 1377 842 1398 840 1400 838 1400 836 1400 834 1400 831 1400 821 1398 798 1389 645 1398 612 1400 610 1400 595 1400 501 1389 470 1400"/></Shape>
+	    <String CONTENT="PRIMERA PARTE."
+                    HPOS="466"
+                    VPOS="1279"
+                    WIDTH="815"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l4"
+                    TAGREFS="LT78"
+                    BASELINE="181 1453 251 1453 321 1452 392 1452 462 1452 532 1452 603 1452 673 1452 743 1452 814 1452 884 1452 954 1452 1025 1452 1095 1453 1165 1453 1236 1453 1306 1454 1376 1455 1447 1455 1517 1456 1588 1457" 
+                    HPOS="177"
+                    VPOS="1383"
+                    WIDTH="1409"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="179 1452 179 1400 441 1400 449 1398 476 1385 478 1385 480 1385 482 1385 512 1396 522 1400 543 1396 612 1383 614 1383 683 1396 710 1400 719 1396 729 1387 731 1387 733 1387 842 1383 844 1383 846 1383 871 1394 892 1402 913 1394 930 1387 932 1387 934 1387 936 1387 953 1394 971 1400 1009 1394 1030 1389 1032 1389 1053 1394 1082 1398 1095 1391 1109 1385 1112 1385 1114 1385 1116 1385 1135 1391 1155 1400 1176 1391 1193 1385 1195 1385 1197 1385 1247 1391 1287 1396 1300 1391 1314 1385 1316 1385 1318 1385 1321 1385 1323 1385 1329 1391 1337 1398 1360 1389 1377 1385 1379 1385 1381 1385 1383 1385 1402 1389 1427 1396 1469 1389 1502 1385 1504 1385 1507 1385 1515 1389 1542 1402 1582 1389 1586 1456 1582 1467 177 1465"/></Shape>
+	    <String CONTENT="DE LOS AMOROSOS LANCES Y PARTICULARES SUCESOS QUE"
+                    HPOS="177"
+                    VPOS="1383"
+                    WIDTH="1409"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l5"
+                    TAGREFS="LT78"
+                    BASELINE="184 1498 254 1498 324 1497 394 1497 464 1497 535 1497 605 1497 675 1497 745 1497 815 1497 886 1497 956 1498 1026 1498 1096 1498 1166 1499 1237 1499 1307 1499 1377 1500 1447 1500 1517 1501 1588 1501" 
+                    HPOS="181"
+                    VPOS="1452"
+                    WIDTH="1405"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="183 1496 183 1452 1584 1452 1586 1500 1582 1513 181 1508"/></Shape>
+	    <String CONTENT="acaecieron á una hermosa dama llamada Rosaura, y á su amante D. Anto-"
+                    HPOS="181"
+                    VPOS="1452"
+                    WIDTH="1405"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l6"
+                    TAGREFS="LT78"
+                    BASELINE="183 1542 252 1541 322 1541 392 1541 461 1541 531 1541 601 1541 670 1541 740 1541 810 1541 880 1541 949 1541 1019 1542 1089 1542 1158 1542 1228 1543 1298 1543 1367 1544 1437 1545 1507 1546 1577 1547" 
+                    HPOS="179"
+                    VPOS="1492"
+                    WIDTH="1397"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="181 1540 179 1498 1109 1492 1112 1492 1112 1492 1114 1492 1114 1492 1137 1502 1141 1504 1573 1504 1576 1546 1573 1550 181 1552"/></Shape>
+	    <String CONTENT="nio Narvaez, natural de Córdoba; dase cuenta del modo con que se des-"
+                    HPOS="179"
+                    VPOS="1492"
+                    WIDTH="1397"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l7"
+                    TAGREFS="LT78"
+                    BASELINE="184 1586 253 1586 323 1585 393 1585 462 1585 532 1585 602 1585 671 1585 741 1585 811 1585 881 1585 950 1585 1020 1586 1090 1586 1159 1586 1229 1587 1299 1588 1368 1588 1438 1589 1508 1590 1578 1591" 
+                    HPOS="181"
+                    VPOS="1538"
+                    WIDTH="1395"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="183 1584 181 1542 1571 1538 1576 1590 1571 1603 181 1600"/></Shape>
+	    <String CONTENT="cubrió á la dama en Sierra-Morena que la guardaba un Oso, y como di-"
+                    HPOS="181"
+                    VPOS="1538"
+                    WIDTH="1395"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l8"
+                    TAGREFS="LT78"
+                    BASELINE="239 1630 303 1630 368 1630 432 1629 497 1629 561 1629 626 1629 690 1629 755 1629 819 1629 884 1630 949 1630 1013 1630 1078 1630 1142 1631 1207 1631 1271 1632 1336 1632 1400 1633 1465 1634 1530 1635" 
+                    HPOS="238"
+                    VPOS="1580"
+                    WIDTH="1289"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="238 1628 238 1580 1525 1590 1527 1634 1525 1649 238 1649"/></Shape>
+	    <String CONTENT="cho caballero lo mató; con todo lo demás que verá el curioso lector."
+                    HPOS="238"
+                    VPOS="1580"
+                    WIDTH="1289"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
         <TextBlock HPOS="154"
                    VPOS="1725"
@@ -419,26 +585,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1141"
-                   VPOS="303"
-                   WIDTH="312"
-                   HEIGHT="96"
-                   ID="eSc_textblock_2aa02db3"
-                   TAGREFS="BT95">
-          <Shape><Polygon POINTS="1141 303 1147 399 1448 396 1453 306"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="312"
-                   VPOS="411"
-                   WIDTH="1085"
-                   HEIGHT="121"
-                   ID="eSc_textblock_116a2f87"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="312 411 318 532 1394 529 1397 413"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="167"
                    VPOS="549"
                    WIDTH="499"
@@ -469,157 +615,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="157"
-                   VPOS="1279"
-                   WIDTH="1441"
-                   HEIGHT="416"
-                   ID="eSc_textblock_d16ad768"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="1595 1695 1598 1279 159 1279 157 1695"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="r1l1"
-                    
-                    BASELINE="1172 369 1198 369 1224 370 1251 370 1277 370 1304 369 1330 369 1357 368 1383 368 1410 367" 
-                    HPOS="1168"
-                    VPOS="334"
-                    WIDTH="240"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="1170 367 1168 334 1404 336 1408 365 1408 382 1170 390"/></Shape>
-	    <String CONTENT="(Número 6.)"
-                    HPOS="1168"
-                    VPOS="334"
-                    WIDTH="240"
-                    HEIGHT="56"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l2"
-                    TAGREFS="LT74"
-                    BASELINE="415 479 460 479 506 479 552 479 598 479 644 480 690 480 736 481 782 481 828 482 874 483 919 483 965 483 1011 483 1057 483 1103 483 1149 482 1195 482 1241 481 1287 479 1333 477" 
-                    HPOS="413"
-                    VPOS="415"
-                    WIDTH="918"
-                    HEIGHT="90">
-            <Shape><Polygon POINTS="413 478 415 420 428 430 441 420 445 415 447 415 449 415 451 415 627 420 1045 430 1095 418 1105 415 1107 415 1109 415 1112 415 1114 415 1116 418 1130 428 1235 420 1237 420 1291 430 1323 418 1331 476 1329 493 978 503 976 503 974 503 971 503 965 497 953 489 925 499 911 503 909 503 909 505 804 505 802 503 800 503 788 499 756 489 459 489 415 503"/></Shape>
-	    <String CONTENT="Antonio Narvaez y Rosaura."
-                    HPOS="413"
-                    VPOS="415"
-                    WIDTH="918"
-                    HEIGHT="90"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l3"
-                    TAGREFS="LT74"
-                    BASELINE="470 1356 510 1355 551 1355 591 1355 632 1355 673 1356 713 1356 754 1356 795 1356 835 1357 876 1357 917 1357 957 1357 998 1357 1039 1358 1079 1358 1120 1358 1161 1357 1201 1357 1242 1357 1283 1356" 
-                    HPOS="466"
-                    VPOS="1279"
-                    WIDTH="815"
-                    HEIGHT="121">
-            <Shape><Polygon POINTS="468 1354 466 1287 616 1279 618 1279 618 1279 618 1279 666 1289 675 1289 679 1289 704 1279 704 1279 706 1279 706 1279 708 1279 1005 1291 1059 1293 1061 1291 1074 1281 1074 1279 1074 1279 1076 1279 1076 1279 1076 1279 1078 1279 1078 1279 1080 1279 1195 1279 1195 1279 1195 1279 1279 1295 1281 1354 1281 1391 1114 1400 1112 1400 1112 1400 1112 1400 1109 1400 1109 1400 1109 1400 1107 1400 1107 1400 1107 1398 1103 1394 1084 1377 871 1377 842 1398 840 1400 840 1400 838 1400 838 1400 836 1400 836 1400 836 1400 834 1400 834 1400 834 1400 831 1400 821 1398 798 1389 645 1398 612 1400 610 1400 610 1400 595 1400 501 1389 470 1400"/></Shape>
-	    <String CONTENT="PRIMERA PARTE."
-                    HPOS="466"
-                    VPOS="1279"
-                    WIDTH="815"
-                    HEIGHT="121"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l4"
-                    TAGREFS="LT74"
-                    BASELINE="181 1453 251 1453 321 1452 392 1452 462 1452 532 1452 603 1452 673 1452 743 1452 814 1452 884 1452 954 1452 1025 1452 1095 1453 1165 1453 1236 1453 1306 1454 1376 1455 1447 1455 1517 1456 1588 1457" 
-                    HPOS="177"
-                    VPOS="1383"
-                    WIDTH="1409"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="179 1452 179 1400 441 1400 449 1398 476 1385 476 1385 478 1385 478 1385 478 1385 480 1385 480 1385 482 1385 482 1385 512 1396 522 1400 543 1396 612 1383 612 1383 612 1383 614 1383 614 1383 683 1396 710 1400 719 1396 729 1387 731 1387 731 1387 733 1387 733 1387 733 1387 842 1383 844 1383 844 1383 844 1383 846 1383 846 1383 871 1394 892 1402 913 1394 930 1387 930 1387 932 1387 932 1387 932 1387 934 1387 934 1387 936 1387 936 1387 953 1394 971 1400 1009 1394 1030 1389 1030 1389 1030 1389 1032 1389 1032 1389 1053 1394 1082 1398 1095 1391 1109 1385 1109 1385 1109 1385 1112 1385 1112 1385 1114 1385 1114 1385 1114 1385 1116 1385 1116 1385 1135 1391 1155 1400 1176 1391 1193 1385 1193 1385 1195 1385 1195 1385 1197 1385 1197 1385 1247 1391 1287 1396 1300 1391 1314 1385 1314 1385 1316 1385 1316 1385 1316 1385 1318 1385 1318 1385 1321 1385 1321 1385 1321 1385 1323 1385 1323 1385 1329 1391 1337 1398 1360 1389 1377 1385 1379 1385 1379 1385 1379 1385 1381 1385 1381 1385 1383 1385 1402 1389 1427 1396 1469 1389 1502 1385 1502 1385 1504 1385 1504 1385 1507 1385 1507 1385 1507 1385 1515 1389 1542 1402 1582 1389 1586 1456 1582 1467 177 1465"/></Shape>
-	    <String CONTENT="DE LOS AMOROSOS LANCES Y PARTICULARES SUCESOS QUE"
-                    HPOS="177"
-                    VPOS="1383"
-                    WIDTH="1409"
-                    HEIGHT="84"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l5"
-                    TAGREFS="LT74"
-                    BASELINE="184 1498 254 1498 324 1497 394 1497 464 1497 535 1497 605 1497 675 1497 745 1497 815 1497 886 1497 956 1498 1026 1498 1096 1498 1166 1499 1237 1499 1307 1499 1377 1500 1447 1500 1517 1501 1588 1501" 
-                    HPOS="181"
-                    VPOS="1452"
-                    WIDTH="1405"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="183 1496 183 1452 1584 1452 1586 1500 1582 1513 181 1508"/></Shape>
-	    <String CONTENT="acaecieron á una hermosa dama llamada Rosaura, y á su amante D. Anto-"
-                    HPOS="181"
-                    VPOS="1452"
-                    WIDTH="1405"
-                    HEIGHT="61"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l6"
-                    TAGREFS="LT74"
-                    BASELINE="183 1542 252 1541 322 1541 392 1541 461 1541 531 1541 601 1541 670 1541 740 1541 810 1541 880 1541 949 1541 1019 1542 1089 1542 1158 1542 1228 1543 1298 1543 1367 1544 1437 1545 1507 1546 1577 1547" 
-                    HPOS="179"
-                    VPOS="1492"
-                    WIDTH="1397"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="181 1540 179 1498 1109 1492 1112 1492 1112 1492 1114 1492 1114 1492 1137 1502 1141 1504 1573 1504 1576 1546 1573 1550 181 1552"/></Shape>
-	    <String CONTENT="nio Narvaez, natural de Córdoba; dase cuenta del modo con que se des-"
-                    HPOS="179"
-                    VPOS="1492"
-                    WIDTH="1397"
-                    HEIGHT="60"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l7"
-                    TAGREFS="LT74"
-                    BASELINE="184 1586 253 1586 323 1585 393 1585 462 1585 532 1585 602 1585 671 1585 741 1585 811 1585 881 1585 950 1585 1020 1586 1090 1586 1159 1586 1229 1587 1299 1588 1368 1588 1438 1589 1508 1590 1578 1591" 
-                    HPOS="181"
-                    VPOS="1538"
-                    WIDTH="1395"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="183 1584 181 1542 1571 1538 1576 1590 1571 1603 181 1600"/></Shape>
-	    <String CONTENT="cubrió á la dama en Sierra-Morena que la guardaba un Oso, y como di-"
-                    HPOS="181"
-                    VPOS="1538"
-                    WIDTH="1395"
-                    HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l8"
-                    TAGREFS="LT74"
-                    BASELINE="239 1630 303 1630 368 1630 432 1629 497 1629 561 1629 626 1629 690 1629 755 1629 819 1629 884 1630 949 1630 1013 1630 1078 1630 1142 1631 1207 1631 1271 1632 1336 1632 1400 1633 1465 1634 1530 1635" 
-                    HPOS="238"
-                    VPOS="1580"
-                    WIDTH="1289"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="238 1628 238 1580 1525 1590 1527 1634 1525 1649 238 1649"/></Shape>
-	    <String CONTENT="cho caballero lo mató; con todo lo demás que verá el curioso lector."
-                    HPOS="238"
-                    VPOS="1580"
-                    WIDTH="1289"
-                    HEIGHT="69"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

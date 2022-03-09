@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -24,6 +24,155 @@
                   VPOS="0"
                   WIDTH="1737"
                   HEIGHT="2508">
+        
+        <TextBlock HPOS="1284"
+                   VPOS="232"
+                   WIDTH="285"
+                   HEIGHT="84"
+                   ID="eSc_textblock_a39eceda"
+                   TAGREFS="BT95">
+          <Shape><Polygon POINTS="1298 236 1284 316 1569 316 1555 232"/></Shape>
+          
+          
+          <TextLine ID="line_1601541431824_1675"
+                    
+                    BASELINE="1300 309 1513 309" 
+                    HPOS="1295"
+                    VPOS="273"
+                    WIDTH="216"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1298 307 1295 277 1509 273 1511 307 1509 330 1295 323"/></Shape>
+	    <String CONTENT="(Num. 23)"
+                    HPOS="1295"
+                    VPOS="273"
+                    WIDTH="216"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="308"
+                   VPOS="325"
+                   WIDTH="1174"
+                   HEIGHT="125"
+                   ID="eSc_textblock_f5956917"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="314 344 308 450 1482 419 1465 325"/></Shape>
+          
+          
+          <TextLine ID="line_1601541459103_1685"
+                    TAGREFS="LT78"
+                    BASELINE="336 418 1448 386" 
+                    HPOS="330"
+                    VPOS="307"
+                    WIDTH="1116"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="334 418 330 332 451 340 524 328 537 326 539 326 560 326 656 334 668 323 670 321 673 321 675 321 677 321 700 323 742 330 767 323 777 319 779 319 781 319 783 319 790 321 804 330 815 321 819 317 821 317 823 317 825 317 827 317 836 321 850 328 1063 323 1074 317 1086 309 1089 309 1091 309 1093 309 1095 309 1118 315 1132 319 1147 315 1178 307 1180 307 1183 307 1442 311 1446 384 1442 422 1247 418 1122 428 1049 432 1047 432 1022 428 957 418 884 430 821 440 819 440 723 432 691 430 679 432 650 440 647 440 645 440 643 440 641 440 635 434 631 430 624 434 616 440 616 443 614 443 612 443 610 443 608 443 606 443 595 434 589 430 576 434 547 445 545 445 543 445 493 434 474 432 334 436"/></Shape>
+	    <String CONTENT="DON JUAN DE LA TIERRA."
+                    HPOS="330"
+                    VPOS="307"
+                    WIDTH="1116"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="207"
+                   VPOS="1366"
+                   WIDTH="1466"
+                   HEIGHT="467"
+                   ID="eSc_textblock_cfe3dd8d"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="207 1426 212 1687 747 1676 715 1833 1125 1812 1110 1664 1673 1646 1635 1366"/></Shape>
+          
+          
+          <TextLine ID="line_1601903596526_9243"
+                    TAGREFS="LT78"
+                    BASELINE="217 1484 433 1475 511 1474 620 1470 703 1465 791 1461 989 1456 1293 1447 1403 1442 1633 1437" 
+                    HPOS="211"
+                    VPOS="1373"
+                    WIDTH="1421"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="215 1483 211 1423 278 1423 286 1419 305 1410 305 1410 305 1410 307 1410 307 1410 309 1410 309 1410 309 1410 311 1410 338 1417 351 1421 355 1417 372 1402 372 1402 374 1402 374 1402 374 1402 376 1402 376 1402 376 1402 418 1400 418 1400 790 1389 792 1389 792 1389 794 1389 794 1389 794 1389 796 1389 796 1389 811 1400 815 1404 819 1400 834 1391 836 1391 836 1391 838 1391 838 1391 838 1391 840 1391 840 1391 896 1398 940 1402 1043 1391 1162 1381 1162 1381 1164 1381 1235 1385 1293 1389 1306 1383 1314 1377 1316 1377 1316 1377 1316 1377 1318 1377 1318 1377 1318 1377 1321 1377 1321 1377 1352 1381 1392 1387 1444 1379 1477 1373 1477 1373 1479 1373 1479 1373 1479 1373 1481 1373 1496 1377 1521 1383 1626 1373 1632 1435 1632 1442 215 1492"/></Shape>
+	    <String CONTENT="ROMANCE EN QUE SE DA CUENTA Y DECLARAN LOS HECHOS,"
+                    HPOS="211"
+                    VPOS="1373"
+                    WIDTH="1421"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601903604054_9250"
+                    TAGREFS="LT78"
+                    BASELINE="215 1528 1630 1484" 
+                    HPOS="209"
+                    VPOS="1433"
+                    WIDTH="1419"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="213 1527 209 1481 606 1471 610 1467 624 1456 627 1456 627 1456 627 1456 629 1456 629 1456 629 1456 631 1456 631 1456 633 1456 666 1465 675 1467 681 1465 702 1454 702 1454 702 1454 704 1454 704 1454 706 1454 706 1454 706 1454 708 1454 735 1463 746 1465 762 1460 821 1450 821 1450 821 1450 823 1450 823 1450 825 1450 857 1458 867 1460 875 1458 896 1448 896 1448 898 1448 898 1448 898 1448 900 1448 900 1448 902 1448 902 1448 925 1456 934 1458 963 1454 1040 1444 1040 1444 1043 1444 1043 1444 1095 1450 1116 1452 1147 1448 1216 1440 1216 1440 1218 1440 1218 1440 1218 1440 1247 1446 1262 1448 1272 1444 1291 1435 1291 1435 1293 1435 1293 1435 1293 1435 1295 1435 1295 1435 1298 1435 1323 1442 1337 1446 1358 1442 1396 1433 1396 1433 1398 1433 1624 1433 1628 1483 1628 1490 213 1529"/></Shape>
+	    <String CONTENT="arrestos y valentías de éste héroe, natural de la villa de Illescas. Dáse"
+                    HPOS="209"
+                    VPOS="1433"
+                    WIDTH="1419"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601903608788_9257"
+                    TAGREFS="LT78"
+                    BASELINE="215 1574 1630 1530" 
+                    HPOS="209"
+                    VPOS="1479"
+                    WIDTH="1419"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="213 1573 209 1527 543 1519 562 1515 627 1502 627 1502 627 1502 629 1502 629 1502 631 1502 662 1511 668 1513 673 1511 687 1500 689 1500 689 1500 689 1500 691 1500 691 1500 693 1500 693 1500 693 1500 696 1500 696 1500 719 1508 723 1511 727 1508 750 1498 750 1498 750 1498 752 1498 752 1498 754 1498 754 1498 836 1504 838 1504 842 1504 902 1494 902 1494 902 1494 905 1494 905 1494 907 1494 936 1502 948 1504 955 1500 969 1492 971 1492 971 1492 974 1492 974 1492 976 1492 976 1492 1043 1498 1070 1500 1074 1496 1082 1490 1082 1490 1084 1490 1084 1490 1084 1490 1086 1490 1086 1490 1086 1490 1089 1490 1089 1490 1126 1496 1149 1498 1180 1494 1239 1483 1239 1483 1241 1483 1241 1483 1289 1490 1310 1492 1325 1488 1356 1479 1358 1479 1358 1479 1360 1479 1624 1479 1628 1529 1626 1540 1515 1538 1504 1544 1492 1554 1492 1554 1490 1554 1490 1554 1488 1554 1488 1554 1488 1554 1486 1554 1486 1554 1484 1554 1484 1554 1461 1546 1438 1538 1164 1554 1036 1561 1034 1561 1034 1561 1034 1561 1032 1561 1032 1561 1032 1561 1030 1561 1026 1559 1020 1552 1007 1559 997 1563 997 1563 994 1563 994 1563 994 1563 992 1563 992 1563 990 1563 974 1559 953 1554 921 1561 877 1569 877 1569 877 1569 875 1569 875 1569 873 1569 873 1569 854 1563 844 1559 689 1561 681 1567 673 1573 670 1573 670 1573 670 1573 668 1573 668 1573 668 1573 666 1573 601 1569 553 1567 545 1571 518 1584 518 1584 516 1584 516 1584 516 1584 280 1592 278 1592 278 1592 211 1580"/></Shape>
+	    <String CONTENT="cuenta de la reñida pendencia que tuvo en defensa de su rey. Con"
+                    HPOS="209"
+                    VPOS="1479"
+                    WIDTH="1419"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601903612451_9264"
+                    TAGREFS="LT78"
+                    BASELINE="524 1605 1322 1581" 
+                    HPOS="518"
+                    VPOS="1536"
+                    WIDTH="803"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="522 1603 518 1559 1314 1536 1321 1580 1321 1592 522 1611"/></Shape>
+	    <String CONTENT="todo lo demas que verá el curioso lector."
+                    HPOS="518"
+                    VPOS="1536"
+                    WIDTH="803"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l24"
+                    TAGREFS="LT78"
+                    BASELINE="738 1792 766 1791 794 1791 822 1790 850 1790 878 1789 906 1788 1114 1778" 
+                    HPOS="731"
+                    VPOS="1730"
+                    WIDTH="381"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="737 1791 731 1736 1105 1730 1112 1776 1112 1795 971 1801 957 1812 915 1841 913 1841 913 1841 913 1841 911 1841 911 1841 911 1841 771 1847 769 1847 769 1847 767 1847 767 1847 733 1835"/></Shape>
+	    <String CONTENT="PIRMERA PARTE."
+                    HPOS="731"
+                    VPOS="1730"
+                    WIDTH="381"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
         <TextBlock HPOS="212"
                    VPOS="1864"
@@ -351,36 +500,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="207"
-                   VPOS="1366"
-                   WIDTH="1466"
-                   HEIGHT="467"
-                   ID="eSc_textblock_cfe3dd8d"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="207 1426 212 1687 747 1676 715 1833 1125 1812 1110 1664 1673 1646 1635 1366"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="308"
-                   VPOS="325"
-                   WIDTH="1174"
-                   HEIGHT="125"
-                   ID="eSc_textblock_f5956917"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="314 344 308 450 1482 419 1465 325"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1284"
-                   VPOS="232"
-                   WIDTH="285"
-                   HEIGHT="84"
-                   ID="eSc_textblock_a39eceda"
-                   TAGREFS="BT95">
-          <Shape><Polygon POINTS="1298 236 1284 316 1569 316 1555 232"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="243"
                    VPOS="429"
                    WIDTH="1338"
@@ -392,129 +511,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_1601541431824_1675"
-                    
-                    BASELINE="1300 309 1513 309" 
-                    HPOS="1295"
-                    VPOS="273"
-                    WIDTH="216"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="1298 307 1295 277 1509 273 1511 307 1509 330 1295 323"/></Shape>
-	    <String CONTENT="(Num. 23)"
-                    HPOS="1295"
-                    VPOS="273"
-                    WIDTH="216"
-                    HEIGHT="57"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601541459103_1685"
-                    TAGREFS="LT74"
-                    BASELINE="336 418 1448 386" 
-                    HPOS="330"
-                    VPOS="307"
-                    WIDTH="1116"
-                    HEIGHT="138">
-            <Shape><Polygon POINTS="334 418 330 332 451 340 524 328 537 326 539 326 560 326 656 334 668 323 670 321 673 321 675 321 677 321 700 323 742 330 767 323 777 319 779 319 781 319 783 319 790 321 804 330 815 321 819 317 821 317 823 317 825 317 827 317 836 321 850 328 1063 323 1074 317 1086 309 1089 309 1091 309 1093 309 1095 309 1118 315 1132 319 1147 315 1178 307 1180 307 1183 307 1442 311 1446 384 1442 422 1247 418 1122 428 1049 432 1047 432 1022 428 957 418 884 430 821 440 819 440 723 432 691 430 679 432 650 440 647 440 645 440 643 440 641 440 635 434 631 430 624 434 616 440 616 443 614 443 612 443 610 443 608 443 606 443 595 434 589 430 576 434 547 445 545 445 543 445 493 434 474 432 334 436"/></Shape>
-	    <String CONTENT="DON JUAN DE LA TIERRA."
-                    HPOS="330"
-                    VPOS="307"
-                    WIDTH="1116"
-                    HEIGHT="138"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601903596526_9243"
-                    TAGREFS="LT74"
-                    BASELINE="217 1484 433 1475 511 1474 620 1470 703 1465 791 1461 989 1456 1293 1447 1403 1442 1633 1437" 
-                    HPOS="211"
-                    VPOS="1373"
-                    WIDTH="1421"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="215 1483 211 1423 278 1423 286 1419 305 1410 305 1410 305 1410 307 1410 307 1410 309 1410 309 1410 309 1410 311 1410 338 1417 351 1421 355 1417 372 1402 372 1402 374 1402 374 1402 374 1402 376 1402 376 1402 376 1402 418 1400 418 1400 790 1389 792 1389 792 1389 794 1389 794 1389 794 1389 796 1389 796 1389 811 1400 815 1404 819 1400 834 1391 836 1391 836 1391 838 1391 838 1391 838 1391 840 1391 840 1391 896 1398 940 1402 1043 1391 1162 1381 1162 1381 1164 1381 1235 1385 1293 1389 1306 1383 1314 1377 1316 1377 1316 1377 1316 1377 1318 1377 1318 1377 1318 1377 1321 1377 1321 1377 1352 1381 1392 1387 1444 1379 1477 1373 1477 1373 1479 1373 1479 1373 1479 1373 1481 1373 1496 1377 1521 1383 1626 1373 1632 1435 1632 1442 215 1492"/></Shape>
-	    <String CONTENT="ROMANCE EN QUE SE DA CUENTA Y DECLARAN LOS HECHOS,"
-                    HPOS="211"
-                    VPOS="1373"
-                    WIDTH="1421"
-                    HEIGHT="119"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601903604054_9250"
-                    TAGREFS="LT74"
-                    BASELINE="215 1528 1630 1484" 
-                    HPOS="209"
-                    VPOS="1433"
-                    WIDTH="1419"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="213 1527 209 1481 606 1471 610 1467 624 1456 627 1456 627 1456 627 1456 629 1456 629 1456 629 1456 631 1456 631 1456 633 1456 666 1465 675 1467 681 1465 702 1454 702 1454 702 1454 704 1454 704 1454 706 1454 706 1454 706 1454 708 1454 735 1463 746 1465 762 1460 821 1450 821 1450 821 1450 823 1450 823 1450 825 1450 857 1458 867 1460 875 1458 896 1448 896 1448 898 1448 898 1448 898 1448 900 1448 900 1448 902 1448 902 1448 925 1456 934 1458 963 1454 1040 1444 1040 1444 1043 1444 1043 1444 1095 1450 1116 1452 1147 1448 1216 1440 1216 1440 1218 1440 1218 1440 1218 1440 1247 1446 1262 1448 1272 1444 1291 1435 1291 1435 1293 1435 1293 1435 1293 1435 1295 1435 1295 1435 1298 1435 1323 1442 1337 1446 1358 1442 1396 1433 1396 1433 1398 1433 1624 1433 1628 1483 1628 1490 213 1529"/></Shape>
-	    <String CONTENT="arrestos y valentías de éste héroe, natural de la villa de Illescas. Dáse"
-                    HPOS="209"
-                    VPOS="1433"
-                    WIDTH="1419"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601903608788_9257"
-                    TAGREFS="LT74"
-                    BASELINE="215 1574 1630 1530" 
-                    HPOS="209"
-                    VPOS="1479"
-                    WIDTH="1419"
-                    HEIGHT="113">
-            <Shape><Polygon POINTS="213 1573 209 1527 543 1519 562 1515 627 1502 627 1502 627 1502 629 1502 629 1502 631 1502 662 1511 668 1513 673 1511 687 1500 689 1500 689 1500 689 1500 691 1500 691 1500 693 1500 693 1500 693 1500 696 1500 696 1500 719 1508 723 1511 727 1508 750 1498 750 1498 750 1498 752 1498 752 1498 754 1498 754 1498 836 1504 838 1504 842 1504 902 1494 902 1494 902 1494 905 1494 905 1494 907 1494 936 1502 948 1504 955 1500 969 1492 971 1492 971 1492 974 1492 974 1492 976 1492 976 1492 1043 1498 1070 1500 1074 1496 1082 1490 1082 1490 1084 1490 1084 1490 1084 1490 1086 1490 1086 1490 1086 1490 1089 1490 1089 1490 1126 1496 1149 1498 1180 1494 1239 1483 1239 1483 1241 1483 1241 1483 1289 1490 1310 1492 1325 1488 1356 1479 1358 1479 1358 1479 1360 1479 1624 1479 1628 1529 1626 1540 1515 1538 1504 1544 1492 1554 1492 1554 1490 1554 1490 1554 1488 1554 1488 1554 1488 1554 1486 1554 1486 1554 1484 1554 1484 1554 1461 1546 1438 1538 1164 1554 1036 1561 1034 1561 1034 1561 1034 1561 1032 1561 1032 1561 1032 1561 1030 1561 1026 1559 1020 1552 1007 1559 997 1563 997 1563 994 1563 994 1563 994 1563 992 1563 992 1563 990 1563 974 1559 953 1554 921 1561 877 1569 877 1569 877 1569 875 1569 875 1569 873 1569 873 1569 854 1563 844 1559 689 1561 681 1567 673 1573 670 1573 670 1573 670 1573 668 1573 668 1573 668 1573 666 1573 601 1569 553 1567 545 1571 518 1584 518 1584 516 1584 516 1584 516 1584 280 1592 278 1592 278 1592 211 1580"/></Shape>
-	    <String CONTENT="cuenta de la reñida pendencia que tuvo en defensa de su rey. Con"
-                    HPOS="209"
-                    VPOS="1479"
-                    WIDTH="1419"
-                    HEIGHT="113"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601903612451_9264"
-                    TAGREFS="LT74"
-                    BASELINE="524 1605 1322 1581" 
-                    HPOS="518"
-                    VPOS="1536"
-                    WIDTH="803"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="522 1603 518 1559 1314 1536 1321 1580 1321 1592 522 1611"/></Shape>
-	    <String CONTENT="todo lo demas que verá el curioso lector."
-                    HPOS="518"
-                    VPOS="1536"
-                    WIDTH="803"
-                    HEIGHT="75"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r1l24"
-                    TAGREFS="LT74"
-                    BASELINE="738 1792 766 1791 794 1791 822 1790 850 1790 878 1789 906 1788 1114 1778" 
-                    HPOS="731"
-                    VPOS="1730"
-                    WIDTH="381"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="737 1791 731 1736 1105 1730 1112 1776 1112 1795 971 1801 957 1812 915 1841 913 1841 913 1841 913 1841 911 1841 911 1841 911 1841 771 1847 769 1847 769 1847 767 1847 767 1847 733 1835"/></Shape>
-	    <String CONTENT="PIRMERA PARTE."
-                    HPOS="731"
-                    VPOS="1730"
-                    WIDTH="381"
-                    HEIGHT="117"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

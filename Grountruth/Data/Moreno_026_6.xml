@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -441,6 +441,67 @@
                     VPOS="736"
                     WIDTH="506"
                     HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="229"
+                   VPOS="1124"
+                   WIDTH="1471"
+                   HEIGHT="368"
+                   ID="eSc_textblock_f1ecd83a"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="1295 1285 1445 1285 1445 1291 1681 1292 1700 1392 1360 1392 1360 1451 229 1492 229 1324 334 1318 334 1319 584 1319 584 1147 1286 1124 1286 1188 1295 1188"/></Shape>
+          
+          
+          <TextLine ID="line_1601885807799_380"
+                    TAGREFS="LT78"
+                    BASELINE="606 1234 1263 1213" 
+                    HPOS="594"
+                    VPOS="1136"
+                    WIDTH="668"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="605 1232 594 1165 609 1155 611 1155 613 1155 615 1155 617 1155 634 1163 636 1165 638 1163 655 1151 657 1151 659 1151 810 1147 812 1147 814 1147 816 1147 829 1155 835 1159 1000 1155 1007 1147 1013 1142 1013 1140 1015 1140 1017 1140 1019 1140 1021 1140 1044 1147 1065 1151 1084 1145 1105 1136 1107 1136 1109 1136 1164 1140 1235 1147 1252 1136 1262 1212 1262 1226 1185 1239 1182 1239 1145 1232 1130 1230 1115 1235 1065 1247 1063 1247 1061 1247 988 1239 958 1237 950 1241 935 1251 933 1251 931 1251 929 1251 873 1245 841 1241 814 1247 780 1256 778 1256 778 1258 605 1258"/></Shape>
+	    <String CONTENT="SEGUNDA PARTE."
+                    HPOS="594"
+                    VPOS="1136"
+                    WIDTH="668"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601885855108_400"
+                    TAGREFS="LT78"
+                    BASELINE="243 1407 351 1405 408 1403 557 1397 645 1393 712 1389 857 1384 916 1382 990 1378 1184 1372 1237 1372 1337 1368 1519 1362 1649 1356" 
+                    HPOS="238"
+                    VPOS="1297"
+                    WIDTH="1409"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="242 1406 238 1348 397 1354 506 1352 523 1339 523 1337 525 1337 527 1337 529 1337 531 1337 535 1339 569 1348 766 1341 789 1331 801 1327 803 1327 806 1327 824 1331 854 1337 873 1329 881 1325 883 1325 885 1325 917 1327 967 1333 998 1325 1025 1318 1028 1318 1030 1318 1157 1320 1256 1322 1291 1316 1333 1310 1335 1310 1381 1314 1402 1316 1406 1314 1423 1304 1425 1304 1427 1304 1430 1304 1517 1310 1543 1312 1555 1310 1599 1297 1601 1297 1603 1297 1605 1297 1645 1308 1647 1354 1647 1375 242 1419"/></Shape>
+	    <String CONTENT="Carta y presente que por medio de un embajador y gran comitiva envió"
+                    HPOS="238"
+                    VPOS="1297"
+                    WIDTH="1409"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601885866816_407"
+                    TAGREFS="LT78"
+                    BASELINE="600 1442 639 1440 796 1434 835 1433 924 1433 1035 1429 1092 1427 1278 1421" 
+                    HPOS="592"
+                    VPOS="1373"
+                    WIDTH="685"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="598 1440 592 1400 628 1385 630 1385 632 1385 634 1385 661 1396 672 1385 672 1383 674 1383 676 1383 678 1383 801 1392 881 1377 883 1377 885 1377 912 1387 948 1375 950 1375 952 1375 954 1375 981 1385 1044 1373 1046 1373 1272 1379 1277 1419 1275 1431 598 1446"/></Shape>
+	    <String CONTENT="el Sultan á don Juan de Austria."
+                    HPOS="592"
+                    VPOS="1373"
+                    WIDTH="685"
+                    HEIGHT="73"></String>
           </TextLine>
 
           
@@ -1044,16 +1105,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="229"
-                   VPOS="1124"
-                   WIDTH="1471"
-                   HEIGHT="368"
-                   ID="eSc_textblock_f1ecd83a"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="1295 1285 1445 1285 1445 1291 1681 1292 1700 1392 1360 1392 1360 1451 229 1492 229 1324 334 1318 334 1319 584 1319 584 1147 1286 1124 1286 1188 1295 1188"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="546"
                    VPOS="880"
                    WIDTH="804"
@@ -1075,61 +1126,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_1601885807799_380"
-                    TAGREFS="LT74"
-                    BASELINE="606 1234 1263 1213" 
-                    HPOS="594"
-                    VPOS="1136"
-                    WIDTH="668"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="605 1232 594 1165 609 1155 611 1155 611 1155 611 1155 613 1155 613 1155 613 1155 615 1155 615 1155 617 1155 617 1155 617 1155 634 1163 636 1165 638 1163 655 1151 655 1151 657 1151 657 1151 659 1151 659 1151 659 1151 810 1147 812 1147 812 1147 812 1147 814 1147 814 1147 814 1147 816 1147 829 1155 835 1159 1000 1155 1007 1147 1013 1142 1013 1140 1013 1140 1015 1140 1015 1140 1015 1140 1017 1140 1017 1140 1017 1140 1019 1140 1019 1140 1021 1140 1044 1147 1065 1151 1084 1145 1105 1136 1105 1136 1107 1136 1107 1136 1109 1136 1109 1136 1164 1140 1235 1147 1252 1136 1262 1212 1262 1226 1185 1239 1185 1239 1182 1239 1182 1239 1182 1239 1145 1232 1130 1230 1115 1235 1065 1247 1063 1247 1063 1247 1061 1247 1061 1247 988 1239 958 1237 950 1241 935 1251 933 1251 933 1251 933 1251 931 1251 931 1251 929 1251 929 1251 873 1245 841 1241 814 1247 780 1256 778 1256 778 1256 778 1258 605 1258"/></Shape>
-	    <String CONTENT="SEGUNDA PARTE."
-                    HPOS="594"
-                    VPOS="1136"
-                    WIDTH="668"
-                    HEIGHT="122"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601885855108_400"
-                    TAGREFS="LT74"
-                    BASELINE="243 1407 351 1405 408 1403 557 1397 645 1393 712 1389 857 1384 916 1382 990 1378 1184 1372 1237 1372 1337 1368 1519 1362 1649 1356" 
-                    HPOS="238"
-                    VPOS="1297"
-                    WIDTH="1409"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="242 1406 238 1348 397 1354 506 1352 523 1339 523 1337 523 1337 525 1337 525 1337 525 1337 527 1337 527 1337 529 1337 529 1337 529 1337 531 1337 535 1339 569 1348 766 1341 789 1331 801 1327 801 1327 803 1327 803 1327 806 1327 806 1327 806 1327 824 1331 854 1337 873 1329 881 1325 881 1325 881 1325 883 1325 883 1325 885 1325 885 1325 917 1327 967 1333 998 1325 1025 1318 1028 1318 1028 1318 1030 1318 1157 1320 1256 1322 1291 1316 1333 1310 1333 1310 1335 1310 1335 1310 1381 1314 1402 1316 1406 1314 1423 1304 1425 1304 1425 1304 1427 1304 1427 1304 1427 1304 1430 1304 1517 1310 1543 1312 1555 1310 1599 1297 1601 1297 1601 1297 1603 1297 1603 1297 1605 1297 1645 1308 1647 1354 1647 1375 242 1419"/></Shape>
-	    <String CONTENT="Carta y presente que por medio de un embajador y gran comitiva envió"
-                    HPOS="238"
-                    VPOS="1297"
-                    WIDTH="1409"
-                    HEIGHT="122"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601885866816_407"
-                    TAGREFS="LT74"
-                    BASELINE="600 1442 639 1440 796 1434 835 1433 924 1433 1035 1429 1092 1427 1278 1421" 
-                    HPOS="592"
-                    VPOS="1373"
-                    WIDTH="685"
-                    HEIGHT="73">
-            <Shape><Polygon POINTS="598 1440 592 1400 628 1385 628 1385 630 1385 630 1385 630 1385 632 1385 632 1385 634 1385 634 1385 661 1396 672 1385 672 1383 672 1383 674 1383 674 1383 674 1383 676 1383 676 1383 676 1383 678 1383 801 1392 881 1377 881 1377 881 1377 883 1377 883 1377 885 1377 885 1377 912 1387 948 1375 948 1375 950 1375 950 1375 952 1375 952 1375 952 1375 954 1375 954 1375 981 1385 1044 1373 1044 1373 1044 1373 1046 1373 1272 1379 1277 1419 1275 1431 598 1446"/></Shape>
-	    <String CONTENT="el Sultan á don Juan de Austria."
-                    HPOS="592"
-                    VPOS="1373"
-                    WIDTH="685"
-                    HEIGHT="73"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

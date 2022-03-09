@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -25,33 +25,6 @@
                   WIDTH="1737"
                   HEIGHT="2508">
         
-        <TextBlock HPOS="859"
-                   VPOS="1978"
-                   WIDTH="195"
-                   HEIGHT="155"
-                   ID="r_3_1"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="864 1978 1054 1978 1049 2120 859 2133"/></Shape>
-          
-          
-          <TextLine ID="tl_69"
-                    TAGREFS="LT40"
-                    BASELINE="893 2058 1025 2059" 
-                    HPOS="888"
-                    VPOS="1993"
-                    WIDTH="136"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="892 2056 892 1993 1022 1995 1024 2058 1020 2077 888 2075"/></Shape>
-	    <String CONTENT="FIN."
-                    HPOS="888"
-                    VPOS="1993"
-                    WIDTH="136"
-                    HEIGHT="84"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="187"
                    VPOS="245"
                    WIDTH="625"
@@ -59,32 +32,6 @@
                    ID="eSc_textblock_d2886ff4"
                    TAGREFS="BT205">
           <Shape><Polygon POINTS="187 245 190 1889 782 1886 812 253"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="922"
-                   VPOS="242"
-                   WIDTH="657"
-                   HEIGHT="1588"
-                   ID="eSc_textblock_573dc5b5"
-                   TAGREFS="BT205">
-          <Shape><Polygon POINTS="922 249 922 1830 1579 1815 1566 242"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="223"
-                   VPOS="2171"
-                   WIDTH="1345"
-                   HEIGHT="202"
-                   ID="eSc_textblock_58015bfb"
-                   TAGREFS="BT28">
-          <Shape><Polygon POINTS="223 2171 223 2373 1568 2373 1568 2171"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="tl_1"
@@ -646,6 +593,16 @@
                     HEIGHT="73"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="922"
+                   VPOS="242"
+                   WIDTH="657"
+                   HEIGHT="1588"
+                   ID="eSc_textblock_573dc5b5"
+                   TAGREFS="BT205">
+          <Shape><Polygon POINTS="922 249 922 1830 1579 1815 1566 242"/></Shape>
           
           
           <TextLine ID="tl_34"
@@ -1242,6 +1199,43 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="859"
+                   VPOS="1978"
+                   WIDTH="195"
+                   HEIGHT="155"
+                   ID="r_3_1"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="864 1978 1054 1978 1049 2120 859 2133"/></Shape>
+          
+          
+          <TextLine ID="tl_69"
+                    TAGREFS="LT40"
+                    BASELINE="893 2058 1025 2059" 
+                    HPOS="888"
+                    VPOS="1993"
+                    WIDTH="136"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="892 2056 892 1993 1022 1995 1024 2058 1020 2077 888 2075"/></Shape>
+	    <String CONTENT="FIN."
+                    HPOS="888"
+                    VPOS="1993"
+                    WIDTH="136"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="223"
+                   VPOS="2171"
+                   WIDTH="1345"
+                   HEIGHT="202"
+                   ID="eSc_textblock_58015bfb"
+                   TAGREFS="BT28">
+          <Shape><Polygon POINTS="223 2171 223 2373 1568 2373 1568 2171"/></Shape>
+          
           
           <TextLine ID="tl_70"
                     
@@ -1277,6 +1271,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

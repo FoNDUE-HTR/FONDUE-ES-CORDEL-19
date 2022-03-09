@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -24,6 +24,118 @@
                   VPOS="0"
                   WIDTH="1740"
                   HEIGHT="2341">
+        
+        <TextBlock HPOS="98"
+                   VPOS="81"
+                   WIDTH="1473"
+                   HEIGHT="709"
+                   ID="eSc_textblock_63542e39"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="172 81 98 790 1571 780 1508 86"/></Shape>
+          
+          
+          <TextLine ID="r_1_1l1"
+                    
+                    BASELINE="715 223 767 223 794 223 822 224 849 224 876 224 904 224 931 223 958 223 986 222" 
+                    HPOS="712"
+                    VPOS="163"
+                    WIDTH="272"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="714 222 712 163 980 171 984 220 982 247 921 238 904 245 900 247 898 247 896 247 712 239"/></Shape>
+	    <String CONTENT="HISTORIA"
+                    HPOS="712"
+                    VPOS="163"
+                    WIDTH="272"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r_2_1l1"
+                    
+                    BASELINE="806 313 840 313 875 314" 
+                    HPOS="804"
+                    VPOS="269"
+                    WIDTH="70"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="804 312 804 269 874 273 874 312 874 327 804 339"/></Shape>
+	    <String CONTENT="DEL"
+                    HPOS="804"
+                    VPOS="269"
+                    WIDTH="70"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_987fb1e9"
+                    
+                    BASELINE="309 430 360 432 412 433 464 434 516 435 568 436 620 437 671 437 723 437 775 437 827 437 879 437 931 437 983 437 1034 437 1086 436 1138 436 1190 436 1242 435 1294 435 1346 434" 
+                    HPOS="304"
+                    VPOS="345"
+                    WIDTH="1041"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="308 429 308 349 372 360 400 347 408 345 410 345 412 345 439 347 521 358 566 347 578 345 580 345 581 345 601 347 681 360 804 353 806 353 808 353 839 362 894 351 896 351 898 351 900 351 913 364 1056 364 1074 349 1074 347 1076 347 1077 347 1079 347 1081 347 1120 357 1179 347 1181 347 1183 347 1185 347 1208 358 1341 347 1345 433 1341 454 304 450"/></Shape>
+	    <String CONTENT="PATRIARCA JOSÉ"
+                    HPOS="304"
+                    VPOS="345"
+                    WIDTH="1041"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r_3_1l1"
+                    
+                    BASELINE="635 620 660 620 685 621 711 621 736 622 762 622 787 622 813 622 838 622 863 622 889 621 914 621 940 621 965 621 991 622 1016 622 1042 622" 
+                    HPOS="632"
+                    VPOS="565"
+                    WIDTH="408"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="634 618 634 565 1038 573 1040 620 1038 632 632 635"/></Shape>
+	    <String CONTENT="CAPITULO PRIMERO."
+                    HPOS="632"
+                    VPOS="565"
+                    WIDTH="408"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r_3_1l2"
+                    
+                    BASELINE="224 705 284 707 345 708 406 709 466 709 527 710 588 710 648 710 709 710 770 710 831 710 891 710 952 710 1013 710 1073 710 1134 710 1195 710 1255 710 1316 710 1377 711 1438 711" 
+                    HPOS="222"
+                    VPOS="653"
+                    WIDTH="1215"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="222 704 222 661 372 665 394 659 419 653 421 653 421 653 423 653 423 653 423 653 425 653 425 653 425 653 439 659 449 665 480 659 517 653 517 653 517 653 519 653 519 653 521 653 521 653 521 653 523 653 533 659 540 665 589 659 615 657 615 657 617 657 617 657 634 659 679 667 730 659 759 655 759 655 761 655 761 655 761 655 763 655 763 655 765 655 765 655 769 659 781 667 949 659 964 659 966 659 974 659 1101 669 1120 659 1124 657 1124 657 1124 657 1126 657 1126 657 1128 657 1359 657 1359 657 1359 657 1361 657 1361 657 1361 657 1363 657 1363 657 1363 659 1363 659 1372 667 1433 659 1437 710 1435 723 222 723"/></Shape>
+	    <String CONTENT="Envidia de los hijos de Jacob contra José su hermano: ellos le venden á los"
+                    HPOS="222"
+                    VPOS="653"
+                    WIDTH="1215"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r_3_1l3"
+                    
+                    BASELINE="337 747 387 748 437 749 487 750 537 751 587 751 637 752 687 752 737 752 787 752 837 752 887 752 937 752 987 752 1037 752 1087 751 1137 751 1187 752 1237 752 1287 752 1338 753" 
+                    HPOS="331"
+                    VPOS="710"
+                    WIDTH="1006"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="335 745 335 710 1335 714 1337 751 1333 768 331 760"/></Shape>
+	    <String CONTENT="Madianitas y estos á Putifar en Egigto, á donde le conducen."
+                    HPOS="331"
+                    VPOS="710"
+                    WIDTH="1006"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
         <TextBlock HPOS="151"
                    VPOS="802"
@@ -526,142 +638,9 @@
           </TextLine>
 
           
-          
-          <TextLine ID="eSc_line_6f306c72"
-                    
-                    BASELINE="187 1802 77 1234" 
-                    HPOS="46"
-                    VPOS="1229"
-                    WIDTH="143"
-                    HEIGHT="575">
-            <Shape><Polygon POINTS="185 1800 150 1804 132 1658 115 1611 95 1560 95 1560 95 1558 95 1558 95 1556 95 1556 99 1529 101 1509 93 1504 91 1502 91 1500 89 1500 89 1500 89 1498 89 1498 89 1498 89 1496 89 1496 87 1461 85 1429 80 1424 66 1406 66 1406 66 1404 66 1404 66 1404 66 1402 66 1402 66 1402 66 1346 54 1338 54 1336 52 1336 52 1336 52 1334 52 1334 52 1334 52 1332 52 1332 52 1330 52 1330 52 1330 52 1328 58 1309 60 1303 46 1236 76 1232 82 1229 189 1798"/></Shape>
-	    <String CONTENT=""
-                    HPOS="46"
-                    VPOS="1229"
-                    WIDTH="143"
-                    HEIGHT="575"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="98"
-                   VPOS="81"
-                   WIDTH="1473"
-                   HEIGHT="709"
-                   ID="eSc_textblock_63542e39"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="172 81 98 790 1571 780 1508 86"/></Shape>
-          
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="r_1_1l1"
-                    TAGREFS="LT74"
-                    BASELINE="715 223 767 223 794 223 822 224 849 224 876 224 904 224 931 223 958 223 986 222" 
-                    HPOS="712"
-                    VPOS="163"
-                    WIDTH="272"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="714 222 712 163 980 171 984 220 982 247 921 238 904 245 900 247 898 247 896 247 712 239"/></Shape>
-	    <String CONTENT="HISTORIA"
-                    HPOS="712"
-                    VPOS="163"
-                    WIDTH="272"
-                    HEIGHT="84"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_987fb1e9"
-                    TAGREFS="LT74"
-                    BASELINE="309 430 360 432 412 433 464 434 516 435 568 436 620 437 671 437 723 437 775 437 827 437 879 437 931 437 983 437 1034 437 1086 436 1138 436 1190 436 1242 435 1294 435 1346 434" 
-                    HPOS="304"
-                    VPOS="345"
-                    WIDTH="1041"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="308 429 308 349 372 360 400 347 408 345 410 345 412 345 439 347 521 358 566 347 578 345 580 345 581 345 601 347 681 360 804 353 806 353 808 353 839 362 894 351 896 351 898 351 900 351 913 364 1056 364 1074 349 1074 347 1076 347 1077 347 1079 347 1081 347 1120 357 1179 347 1181 347 1183 347 1185 347 1208 358 1341 347 1345 433 1341 454 304 450"/></Shape>
-	    <String CONTENT="PATRIARCA JOSÉ"
-                    HPOS="304"
-                    VPOS="345"
-                    WIDTH="1041"
-                    HEIGHT="109"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r_2_1l1"
-                    
-                    BASELINE="806 313 840 313 875 314" 
-                    HPOS="804"
-                    VPOS="269"
-                    WIDTH="70"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="804 312 804 269 874 273 874 312 874 327 804 339"/></Shape>
-	    <String CONTENT="DEL"
-                    HPOS="804"
-                    VPOS="269"
-                    WIDTH="70"
-                    HEIGHT="70"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r_3_1l1"
-                    TAGREFS="LT74"
-                    BASELINE="635 620 660 620 685 621 711 621 736 622 762 622 787 622 813 622 838 622 863 622 889 621 914 621 940 621 965 621 991 622 1016 622 1042 622" 
-                    HPOS="632"
-                    VPOS="565"
-                    WIDTH="408"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="634 618 634 565 1038 573 1040 620 1038 632 632 635"/></Shape>
-	    <String CONTENT="CAPITULO PRIMERO."
-                    HPOS="632"
-                    VPOS="565"
-                    WIDTH="408"
-                    HEIGHT="70"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r_3_1l2"
-                    TAGREFS="LT74"
-                    BASELINE="224 705 284 707 345 708 406 709 466 709 527 710 588 710 648 710 709 710 770 710 831 710 891 710 952 710 1013 710 1073 710 1134 710 1195 710 1255 710 1316 710 1377 711 1438 711" 
-                    HPOS="222"
-                    VPOS="653"
-                    WIDTH="1215"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="222 704 222 661 372 665 394 659 419 653 421 653 421 653 423 653 423 653 423 653 425 653 425 653 425 653 439 659 449 665 480 659 517 653 517 653 517 653 519 653 519 653 521 653 521 653 521 653 523 653 533 659 540 665 589 659 615 657 615 657 617 657 617 657 634 659 679 667 730 659 759 655 759 655 761 655 761 655 761 655 763 655 763 655 765 655 765 655 769 659 781 667 949 659 964 659 966 659 974 659 1101 669 1120 659 1124 657 1124 657 1124 657 1126 657 1126 657 1128 657 1359 657 1359 657 1359 657 1361 657 1361 657 1361 657 1363 657 1363 657 1363 659 1363 659 1372 667 1433 659 1437 710 1435 723 222 723"/></Shape>
-	    <String CONTENT="Envidia de los hijos de Jacob contra José su hermano: ellos le venden á los"
-                    HPOS="222"
-                    VPOS="653"
-                    WIDTH="1215"
-                    HEIGHT="70"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="r_3_1l3"
-                    TAGREFS="LT74"
-                    BASELINE="337 747 387 748 437 749 487 750 537 751 587 751 637 752 687 752 737 752 787 752 837 752 887 752 937 752 987 752 1037 752 1087 751 1137 751 1187 752 1237 752 1287 752 1338 753" 
-                    HPOS="331"
-                    VPOS="710"
-                    WIDTH="1006"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="335 745 335 710 1335 714 1337 751 1333 768 331 760"/></Shape>
-	    <String CONTENT="Madianitas y estos á Putifar en Egigto, á donde le conducen."
-                    HPOS="331"
-                    VPOS="710"
-                    WIDTH="1006"
-                    HEIGHT="58"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

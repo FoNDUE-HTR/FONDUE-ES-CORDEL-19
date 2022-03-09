@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -25,60 +25,6 @@
                   WIDTH="1544"
                   HEIGHT="2324">
         
-        <TextBlock HPOS="713"
-                   VPOS="1553"
-                   WIDTH="193"
-                   HEIGHT="133"
-                   ID="r_3_1"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="716 1563 906 1553 899 1686 713 1685"/></Shape>
-          
-          
-          <TextLine ID="tl_37"
-                    TAGREFS="LT40"
-                    BASELINE="724 1635 889 1636" 
-                    HPOS="720"
-                    VPOS="1555"
-                    WIDTH="167"
-                    HEIGHT="126">
-            <Shape><Polygon POINTS="722 1634 720 1562 885 1555 887 1634 887 1650 815 1650 798 1665 784 1677 784 1679 782 1679 780 1679 780 1681 722 1681"/></Shape>
-	    <String CONTENT="FIN."
-                    HPOS="720"
-                    VPOS="1555"
-                    WIDTH="167"
-                    HEIGHT="126"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="215"
-                   VPOS="2040"
-                   WIDTH="1220"
-                   HEIGHT="176"
-                   ID="r_4_2"
-                   TAGREFS="BT28">
-          <Shape><Polygon POINTS="586 2110 592 2047 1036 2040 1043 2108 1435 2113 1435 2198 217 2216 215 2120"/></Shape>
-          
-          
-          <TextLine ID="tl_40"
-                    
-                    BASELINE="226 2163 368 2165 422 2165 501 2165 574 2165 673 2164 800 2164 978 2167 1208 2168 1325 2160 1381 2161" 
-                    HPOS="220"
-                    VPOS="2105"
-                    WIDTH="1159"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="224 2161 224 2110 449 2116 461 2109 464 2105 464 2105 466 2105 466 2105 468 2105 468 2105 468 2105 470 2105 470 2105 472 2105 488 2109 517 2116 526 2109 528 2107 528 2105 528 2105 530 2105 530 2105 530 2105 532 2105 532 2105 534 2105 534 2105 567 2109 625 2114 645 2107 652 2105 652 2105 654 2105 654 2105 656 2105 656 2105 656 2105 658 2105 658 2105 658 2105 660 2105 664 2107 674 2114 681 2107 685 2105 687 2105 687 2105 687 2105 689 2105 689 2105 691 2105 902 2105 902 2105 902 2105 904 2105 904 2105 904 2105 906 2105 906 2105 906 2107 908 2107 918 2118 986 2118 1022 2107 1028 2105 1030 2105 1030 2105 1030 2105 1032 2105 1032 2105 1034 2105 1034 2105 1038 2107 1065 2116 1075 2107 1075 2105 1075 2105 1075 2105 1077 2105 1077 2105 1077 2105 1079 2105 1079 2105 1080 2105 1119 2105 1119 2105 1133 2105 1243 2116 1284 2105 1286 2105 1288 2105 1288 2105 1288 2105 1290 2105 1290 2105 1292 2105 1294 2105 1336 2116 1373 2105 1379 2159 1375 2184 1315 2172 1259 2184 1257 2184 1257 2184 1257 2184 1255 2184 1247 2184 1077 2172 1013 2184 1007 2184 1007 2184 1005 2184 1005 2184 1005 2184 999 2184 939 2172 815 2182 794 2184 792 2184 792 2184 772 2182 687 2174 641 2182 629 2184 629 2184 627 2184 627 2184 627 2184 625 2184 625 2184 625 2184 623 2184 621 2182 608 2172 559 2182 555 2182 555 2182 555 2182 554 2182 554 2182 552 2182 552 2182 552 2182 523 2172 482 2182 470 2184 470 2184 470 2184 468 2184 468 2184 468 2184 466 2184 459 2182 426 2172 371 2182 354 2184 354 2184 352 2184 220 2180"/></Shape>
-	    <String CONTENT="Inapren la de D. José Maria Moreno, Descalzas, núm. 1."
-                    HPOS="220"
-                    VPOS="2105"
-                    WIDTH="1159"
-                    HEIGHT="79"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="62"
                    VPOS="207"
                    WIDTH="465"
@@ -86,22 +32,6 @@
                    ID="eSc_textblock_c5eea7d2"
                    TAGREFS="BT205">
           <Shape><Polygon POINTS="72 218 62 1232 527 1232 523 207"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="807"
-                   VPOS="220"
-                   WIDTH="457"
-                   HEIGHT="1019"
-                   ID="eSc_textblock_6a7ce7fd"
-                   TAGREFS="BT205">
-          <Shape><Polygon POINTS="809 220 807 1236 1264 1239 1212 220"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="tl_1"
@@ -409,6 +339,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="807"
+                   VPOS="220"
+                   WIDTH="457"
+                   HEIGHT="1019"
+                   ID="eSc_textblock_6a7ce7fd"
+                   TAGREFS="BT205">
+          <Shape><Polygon POINTS="809 220 807 1236 1264 1239 1212 220"/></Shape>
+          
           
           <TextLine ID="tl_19"
                     TAGREFS="LT75"
@@ -715,6 +655,43 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="713"
+                   VPOS="1553"
+                   WIDTH="193"
+                   HEIGHT="133"
+                   ID="r_3_1"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="716 1563 906 1553 899 1686 713 1685"/></Shape>
+          
+          
+          <TextLine ID="tl_37"
+                    TAGREFS="LT40"
+                    BASELINE="724 1635 889 1636" 
+                    HPOS="720"
+                    VPOS="1555"
+                    WIDTH="167"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="722 1634 720 1562 885 1555 887 1634 887 1650 815 1650 798 1665 784 1677 784 1679 782 1679 780 1679 780 1681 722 1681"/></Shape>
+	    <String CONTENT="FIN."
+                    HPOS="720"
+                    VPOS="1555"
+                    WIDTH="167"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="215"
+                   VPOS="2040"
+                   WIDTH="1220"
+                   HEIGHT="176"
+                   ID="r_4_2"
+                   TAGREFS="BT28">
+          <Shape><Polygon POINTS="586 2110 592 2047 1036 2040 1043 2108 1435 2113 1435 2198 217 2216 215 2120"/></Shape>
+          
           
           <TextLine ID="tl_39"
                     
@@ -732,7 +709,26 @@
           </TextLine>
 
           
+          
+          <TextLine ID="tl_40"
+                    
+                    BASELINE="226 2163 368 2165 422 2165 501 2165 574 2165 673 2164 800 2164 978 2167 1208 2168 1325 2160 1381 2161" 
+                    HPOS="220"
+                    VPOS="2105"
+                    WIDTH="1159"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="224 2161 224 2110 449 2116 461 2109 464 2105 464 2105 466 2105 466 2105 468 2105 468 2105 468 2105 470 2105 470 2105 472 2105 488 2109 517 2116 526 2109 528 2107 528 2105 528 2105 530 2105 530 2105 530 2105 532 2105 532 2105 534 2105 534 2105 567 2109 625 2114 645 2107 652 2105 652 2105 654 2105 654 2105 656 2105 656 2105 656 2105 658 2105 658 2105 658 2105 660 2105 664 2107 674 2114 681 2107 685 2105 687 2105 687 2105 687 2105 689 2105 689 2105 691 2105 902 2105 902 2105 902 2105 904 2105 904 2105 904 2105 906 2105 906 2105 906 2107 908 2107 918 2118 986 2118 1022 2107 1028 2105 1030 2105 1030 2105 1030 2105 1032 2105 1032 2105 1034 2105 1034 2105 1038 2107 1065 2116 1075 2107 1075 2105 1075 2105 1075 2105 1077 2105 1077 2105 1077 2105 1079 2105 1079 2105 1080 2105 1119 2105 1119 2105 1133 2105 1243 2116 1284 2105 1286 2105 1288 2105 1288 2105 1288 2105 1290 2105 1290 2105 1292 2105 1294 2105 1336 2116 1373 2105 1379 2159 1375 2184 1315 2172 1259 2184 1257 2184 1257 2184 1257 2184 1255 2184 1247 2184 1077 2172 1013 2184 1007 2184 1007 2184 1005 2184 1005 2184 1005 2184 999 2184 939 2172 815 2182 794 2184 792 2184 792 2184 772 2182 687 2174 641 2182 629 2184 629 2184 627 2184 627 2184 627 2184 625 2184 625 2184 625 2184 623 2184 621 2182 608 2172 559 2182 555 2182 555 2182 555 2182 554 2182 554 2182 552 2182 552 2182 552 2182 523 2172 482 2182 470 2184 470 2184 470 2184 468 2184 468 2184 468 2184 466 2184 459 2182 426 2172 371 2182 354 2184 354 2184 352 2184 220 2180"/></Shape>
+	    <String CONTENT="Inapren la de D. José Maria Moreno, Descalzas, núm. 1."
+                    HPOS="220"
+                    VPOS="2105"
+                    WIDTH="1159"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

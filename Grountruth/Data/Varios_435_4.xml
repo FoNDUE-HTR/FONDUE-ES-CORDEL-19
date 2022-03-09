@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -32,39 +32,6 @@
                    ID="eSc_textblock_a8ba79c2"
                    TAGREFS="BT14">
           <Shape><Polygon POINTS="202 156 198 2200 1593 2200 1597 174"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="854"
-                   VPOS="85"
-                   WIDTH="178"
-                   HEIGHT="77"
-                   ID="eSc_textblock_b4375114"
-                   TAGREFS="BT25">
-          <Shape><Polygon POINTS="854 85 855 160 1031 162 1032 85"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_1635429220480_2951"
-                    
-                    BASELINE="921 153 955 153" 
-                    HPOS="919"
-                    VPOS="96"
-                    WIDTH="35"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="919 151 919 96 954 98 954 151 954 172 919 172"/></Shape>
-	    <String CONTENT="4"
-                    HPOS="919"
-                    VPOS="96"
-                    WIDTH="35"
-                    HEIGHT="76"></String>
-          </TextLine>
-
           
           
           <TextLine ID="r_1_1l2"
@@ -815,6 +782,35 @@
 
           
         </TextBlock>
+        
+        <TextBlock HPOS="854"
+                   VPOS="85"
+                   WIDTH="178"
+                   HEIGHT="77"
+                   ID="eSc_textblock_b4375114"
+                   TAGREFS="BT25">
+          <Shape><Polygon POINTS="854 85 855 160 1031 162 1032 85"/></Shape>
+          
+          
+          <TextLine ID="line_1635429220480_2951"
+                    
+                    BASELINE="921 153 955 153" 
+                    HPOS="919"
+                    VPOS="96"
+                    WIDTH="35"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="919 151 919 96 954 98 954 151 954 172 919 172"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="919"
+                    VPOS="96"
+                    WIDTH="35"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

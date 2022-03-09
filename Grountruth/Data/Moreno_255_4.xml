@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -52,43 +52,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="85"
-                   VPOS="2253"
-                   WIDTH="1503"
-                   HEIGHT="169"
-                   ID="r_11_1"
-                   TAGREFS="BT28">
-          <Shape><Polygon POINTS="85 2274 1588 2253 1569 2368 93 2422"/></Shape>
-          
-          
-          <TextLine ID="tl_77"
-                    
-                    BASELINE="133 2345 488 2333 600 2330 668 2329 721 2326 772 2326 837 2325 899 2324 1009 2322 1117 2320 1184 2318 1227 2317 1363 2318 1466 2311 1542 2313" 
-                    HPOS="127"
-                    VPOS="2262"
-                    WIDTH="1413"
-                    HEIGHT="107">
-            <Shape><Polygon POINTS="131 2344 127 2288 320 2281 322 2281 322 2281 324 2281 324 2281 324 2281 328 2283 351 2294 404 2281 427 2277 427 2277 427 2277 429 2277 496 2279 605 2285 628 2277 646 2271 646 2271 649 2271 649 2271 651 2271 651 2271 651 2271 684 2277 720 2283 764 2275 799 2269 799 2269 799 2269 801 2269 801 2269 803 2269 824 2275 845 2279 923 2273 1034 2262 1036 2262 1036 2262 1036 2262 1038 2262 1038 2262 1057 2271 1065 2273 1536 2262 1540 2311 1536 2331 1469 2321 1293 2336 1249 2340 1247 2340 1174 2338 961 2334 900 2334 887 2344 881 2350 881 2350 879 2350 879 2350 879 2350 877 2350 877 2350 877 2350 774 2352 772 2352 772 2352 770 2352 751 2346 728 2340 703 2346 676 2355 674 2355 674 2355 672 2355 672 2355 672 2355 669 2355 669 2355 669 2355 667 2355 659 2348 653 2344 649 2348 636 2357 634 2357 634 2357 632 2357 632 2357 632 2357 502 2361 500 2361 500 2361 498 2361 498 2361 498 2361 496 2361 496 2361 483 2350 479 2348 441 2348 437 2352 427 2361 427 2363 427 2363 425 2363 425 2363 425 2363 422 2363 422 2363 422 2363 420 2363 420 2363 418 2363 383 2352 370 2350 207 2352 203 2357 171 2369 171 2369 169 2369 169 2369 169 2369 167 2369 167 2369 167 2369 165 2369 127 2357"/></Shape>
-	    <String CONTENT="CARMONA—1856 Imp. de D. J. M. M. calle Juan de la Cabra, núrn 5"
-                    HPOS="127"
-                    VPOS="2262"
-                    WIDTH="1413"
-                    HEIGHT="107"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="434"
-                   VPOS="297"
-                   WIDTH="634"
-                   HEIGHT="202"
-                   ID="eSc_textblock_15a14de4"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="439 319 434 499 1039 485 1068 297"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="59"
                    VPOS="492"
                    WIDTH="631"
@@ -96,150 +59,6 @@
                    ID="eSc_textblock_1509a760"
                    TAGREFS="BT14">
           <Shape><Polygon POINTS="68 495 59 958 689 937 690 492"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="776"
-                   VPOS="465"
-                   WIDTH="658"
-                   HEIGHT="482"
-                   ID="eSc_textblock_571acdee"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1428 928 1434 465 776 493 795 947"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="463"
-                   VPOS="950"
-                   WIDTH="705"
-                   HEIGHT="212"
-                   ID="eSc_textblock_400ad85e"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1158 1139 1168 950 465 961 463 1162"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="66"
-                   VPOS="1146"
-                   WIDTH="699"
-                   HEIGHT="480"
-                   ID="eSc_textblock_abfa79af"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="89 1153 66 1626 765 1591 753 1146"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="795"
-                   VPOS="1132"
-                   WIDTH="666"
-                   HEIGHT="479"
-                   ID="eSc_textblock_24e0c212"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1461 1597 1459 1132 799 1145 795 1611"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="427"
-                   VPOS="1617"
-                   WIDTH="725"
-                   HEIGHT="207"
-                   ID="eSc_textblock_cc8450da"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1152 1807 1143 1617 427 1629 428 1824"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="83"
-                   VPOS="1802"
-                   WIDTH="608"
-                   HEIGHT="467"
-                   ID="eSc_textblock_bd43f797"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="92 1802 83 2269 685 2259 691 1805"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="812"
-                   VPOS="1773"
-                   WIDTH="717"
-                   HEIGHT="476"
-                   ID="eSc_textblock_6f54b42e"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="1529 2238 1514 1773 812 1798 826 2249"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_12"
-                    
-                    BASELINE="535 359 630 352 735 355 809 347 1033 347" 
-                    HPOS="529"
-                    VPOS="305"
-                    WIDTH="503"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="533 357 529 311 1028 305 1032 345 1032 362 533 366"/></Shape>
-	    <String CONTENT="Quise bien, fui aborrecido,"
-                    HPOS="529"
-                    VPOS="305"
-                    WIDTH="503"
-                    HEIGHT="61"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_13"
-                    
-                    BASELINE="487 397 601 401 686 396 934 394" 
-                    HPOS="481"
-                    VPOS="341"
-                    WIDTH="452"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="485 395 481 355 517 343 519 343 519 343 519 343 521 343 703 347 864 351 927 341 933 393 931 406 485 410"/></Shape>
-	    <String CONTENT="adore, fui despreciado;"
-                    HPOS="481"
-                    VPOS="341"
-                    WIDTH="452"
-                    HEIGHT="69"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_14"
-                    
-                    BASELINE="488 440 538 441 710 446 774 436 842 435 946 440" 
-                    HPOS="485"
-                    VPOS="385"
-                    WIDTH="461"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="487 439 487 397 644 397 693 385 695 385 695 385 697 385 697 385 697 385 772 399 789 387 791 387 791 387 791 387 793 387 793 387 795 387 917 389 917 389 917 389 919 389 919 389 919 389 946 404 944 439 942 452 485 452"/></Shape>
-	    <String CONTENT="me lamenté, no fui oido,"
-                    HPOS="485"
-                    VPOS="385"
-                    WIDTH="461"
-                    HEIGHT="67"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_15"
-                    
-                    BASELINE="485 487 608 487 675 483 741 482 946 477" 
-                    HPOS="479"
-                    VPOS="433"
-                    WIDTH="465"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="483 485 479 439 937 433 944 475 944 487 483 498"/></Shape>
-	    <String CONTENT="porfió, no fui escuchado"
-                    HPOS="479"
-                    VPOS="433"
-                    WIDTH="465"
-                    HEIGHT="65"></String>
-          </TextLine>
-
           
           
           <TextLine ID="tl_2"
@@ -411,6 +230,94 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="434"
+                   VPOS="297"
+                   WIDTH="634"
+                   HEIGHT="202"
+                   ID="eSc_textblock_15a14de4"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="439 319 434 499 1039 485 1068 297"/></Shape>
+          
+          
+          <TextLine ID="tl_12"
+                    
+                    BASELINE="535 359 630 352 735 355 809 347 1033 347" 
+                    HPOS="529"
+                    VPOS="305"
+                    WIDTH="503"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="533 357 529 311 1028 305 1032 345 1032 362 533 366"/></Shape>
+	    <String CONTENT="Quise bien, fui aborrecido,"
+                    HPOS="529"
+                    VPOS="305"
+                    WIDTH="503"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_13"
+                    
+                    BASELINE="487 397 601 401 686 396 934 394" 
+                    HPOS="481"
+                    VPOS="341"
+                    WIDTH="452"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="485 395 481 355 517 343 519 343 519 343 519 343 521 343 703 347 864 351 927 341 933 393 931 406 485 410"/></Shape>
+	    <String CONTENT="adore, fui despreciado;"
+                    HPOS="481"
+                    VPOS="341"
+                    WIDTH="452"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_14"
+                    
+                    BASELINE="488 440 538 441 710 446 774 436 842 435 946 440" 
+                    HPOS="485"
+                    VPOS="385"
+                    WIDTH="461"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="487 439 487 397 644 397 693 385 695 385 695 385 697 385 697 385 697 385 772 399 789 387 791 387 791 387 791 387 793 387 793 387 795 387 917 389 917 389 917 389 919 389 919 389 919 389 946 404 944 439 942 452 485 452"/></Shape>
+	    <String CONTENT="me lamenté, no fui oido,"
+                    HPOS="485"
+                    VPOS="385"
+                    WIDTH="461"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_15"
+                    
+                    BASELINE="485 487 608 487 675 483 741 482 946 477" 
+                    HPOS="479"
+                    VPOS="433"
+                    WIDTH="465"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="483 485 479 439 937 433 944 475 944 487 483 498"/></Shape>
+	    <String CONTENT="porfió, no fui escuchado"
+                    HPOS="479"
+                    VPOS="433"
+                    WIDTH="465"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="776"
+                   VPOS="465"
+                   WIDTH="658"
+                   HEIGHT="482"
+                   ID="eSc_textblock_571acdee"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1428 928 1434 465 776 493 795 947"/></Shape>
+          
           
           <TextLine ID="tl_16"
                     
@@ -581,6 +488,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="463"
+                   VPOS="950"
+                   WIDTH="705"
+                   HEIGHT="212"
+                   ID="eSc_textblock_400ad85e"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1158 1139 1168 950 465 961 463 1162"/></Shape>
+          
           
           <TextLine ID="tl_26"
                     
@@ -648,6 +565,16 @@
                     HEIGHT="61"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="66"
+                   VPOS="1146"
+                   WIDTH="699"
+                   HEIGHT="480"
+                   ID="eSc_textblock_abfa79af"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="89 1153 66 1626 765 1591 753 1146"/></Shape>
           
           
           <TextLine ID="tl_30"
@@ -819,6 +746,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="795"
+                   VPOS="1132"
+                   WIDTH="666"
+                   HEIGHT="479"
+                   ID="eSc_textblock_24e0c212"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1461 1597 1459 1132 799 1145 795 1611"/></Shape>
+          
           
           <TextLine ID="tl_40"
                     
@@ -989,6 +926,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="427"
+                   VPOS="1617"
+                   WIDTH="725"
+                   HEIGHT="207"
+                   ID="eSc_textblock_cc8450da"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1152 1807 1143 1617 427 1629 428 1824"/></Shape>
+          
           
           <TextLine ID="tl_50"
                     
@@ -1056,6 +1003,16 @@
                     HEIGHT="60"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="83"
+                   VPOS="1802"
+                   WIDTH="608"
+                   HEIGHT="467"
+                   ID="eSc_textblock_bd43f797"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="92 1802 83 2269 685 2259 691 1805"/></Shape>
           
           
           <TextLine ID="tl_54"
@@ -1226,6 +1183,16 @@
                     HEIGHT="67"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="812"
+                   VPOS="1773"
+                   WIDTH="717"
+                   HEIGHT="476"
+                   ID="eSc_textblock_6f54b42e"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="1529 2238 1514 1773 812 1798 826 2249"/></Shape>
           
           
           <TextLine ID="tl_67"
@@ -1398,6 +1365,35 @@
 
           
         </TextBlock>
+        
+        <TextBlock HPOS="85"
+                   VPOS="2253"
+                   WIDTH="1503"
+                   HEIGHT="169"
+                   ID="r_11_1"
+                   TAGREFS="BT28">
+          <Shape><Polygon POINTS="85 2274 1588 2253 1569 2368 93 2422"/></Shape>
+          
+          
+          <TextLine ID="tl_77"
+                    
+                    BASELINE="133 2345 488 2333 600 2330 668 2329 721 2326 772 2326 837 2325 899 2324 1009 2322 1117 2320 1184 2318 1227 2317 1363 2318 1466 2311 1542 2313" 
+                    HPOS="127"
+                    VPOS="2262"
+                    WIDTH="1413"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="131 2344 127 2288 320 2281 322 2281 322 2281 324 2281 324 2281 324 2281 328 2283 351 2294 404 2281 427 2277 427 2277 427 2277 429 2277 496 2279 605 2285 628 2277 646 2271 646 2271 649 2271 649 2271 651 2271 651 2271 651 2271 684 2277 720 2283 764 2275 799 2269 799 2269 799 2269 801 2269 801 2269 803 2269 824 2275 845 2279 923 2273 1034 2262 1036 2262 1036 2262 1036 2262 1038 2262 1038 2262 1057 2271 1065 2273 1536 2262 1540 2311 1536 2331 1469 2321 1293 2336 1249 2340 1247 2340 1174 2338 961 2334 900 2334 887 2344 881 2350 881 2350 879 2350 879 2350 879 2350 877 2350 877 2350 877 2350 774 2352 772 2352 772 2352 770 2352 751 2346 728 2340 703 2346 676 2355 674 2355 674 2355 672 2355 672 2355 672 2355 669 2355 669 2355 669 2355 667 2355 659 2348 653 2344 649 2348 636 2357 634 2357 634 2357 632 2357 632 2357 632 2357 502 2361 500 2361 500 2361 498 2361 498 2361 498 2361 496 2361 496 2361 483 2350 479 2348 441 2348 437 2352 427 2361 427 2363 427 2363 425 2363 425 2363 425 2363 422 2363 422 2363 422 2363 420 2363 420 2363 418 2363 383 2352 370 2350 207 2352 203 2357 171 2369 171 2369 169 2369 169 2369 169 2369 167 2369 167 2369 167 2369 165 2369 127 2357"/></Shape>
+	    <String CONTENT="CARMONA—1856 Imp. de D. J. M. M. calle Juan de la Cabra, núrn 5"
+                    HPOS="127"
+                    VPOS="2262"
+                    WIDTH="1413"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

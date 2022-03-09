@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -32,23 +32,6 @@
                    ID="r_1_1"
                    TAGREFS="BT14">
           <Shape><Polygon POINTS="264 238 925 252 1545 243 1560 556 269 555"/></Shape>
-          
-          
-          <TextLine ID="r_1_1l1"
-                    
-                    BASELINE="881 225 907 225 933 227" 
-                    HPOS="876"
-                    VPOS="181"
-                    WIDTH="55"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="880 224 880 181 931 183 931 226 927 240 876 236"/></Shape>
-	    <String CONTENT="12"
-                    HPOS="876"
-                    VPOS="181"
-                    WIDTH="55"
-                    HEIGHT="59"></String>
-          </TextLine>
-
           
           
           <TextLine ID="r_1_1l2"
@@ -154,16 +137,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="818"
-                   VPOS="145"
-                   WIDTH="187"
-                   HEIGHT="100"
-                   ID="eSc_textblock_e5a04003"
-                   TAGREFS="BT25">
-          <Shape><Polygon POINTS="818 145 819 244 998 245 1005 150"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="234"
                    VPOS="575"
                    WIDTH="1313"
@@ -172,25 +145,9 @@
                    TAGREFS="BT206">
           <Shape><Polygon POINTS="237 580 234 923 1544 909 1547 575"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="251"
-                   VPOS="924"
-                   WIDTH="1347"
-                   HEIGHT="1341"
-                   ID="eSc_textblock_5e1e10cd"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="251 937 257 2265 1598 2265 1598 924"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="r_2_1l1"
-                    TAGREFS="LT74"
+                    
                     BASELINE="768 645 794 646 821 646 847 646 874 646 900 645 927 645 953 645 980 645 1006 645 1033 646 1060 647" 
                     HPOS="762"
                     VPOS="572"
@@ -207,7 +164,7 @@
           
           
           <TextLine ID="r_3_1l1"
-                    TAGREFS="LT74"
+                    
                     BASELINE="301 784 361 784 422 784 483 784 544 784 604 784 665 784 726 784 787 784 847 784 908 784 969 784 1030 784 1090 784 1151 784 1212 784 1273 784 1333 784 1394 783 1455 783 1516 782" 
                     HPOS="299"
                     VPOS="730"
@@ -224,7 +181,7 @@
           
           
           <TextLine ID="r_3_1l2"
-                    TAGREFS="LT74"
+                    
                     BASELINE="327 824 386 824 446 825 506 825 565 825 625 825 685 825 744 825 804 825 864 825 924 825 983 825 1043 825 1103 825 1162 825 1222 825 1282 825 1341 825 1401 825 1461 825 1521 825" 
                     HPOS="324"
                     VPOS="787"
@@ -241,7 +198,7 @@
           
           
           <TextLine ID="r_3_1l3"
-                    TAGREFS="LT74"
+                    
                     BASELINE="327 865 352 866 377 866 403 866 428 866 454 865 479 865 505 865 530 865 556 865 581 865 607 865" 
                     HPOS="322"
                     VPOS="826"
@@ -255,6 +212,43 @@
                     HEIGHT="59"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="818"
+                   VPOS="145"
+                   WIDTH="187"
+                   HEIGHT="100"
+                   ID="eSc_textblock_e5a04003"
+                   TAGREFS="BT25">
+          <Shape><Polygon POINTS="818 145 819 244 998 245 1005 150"/></Shape>
+          
+          
+          <TextLine ID="r_1_1l1"
+                    
+                    BASELINE="881 225 907 225 933 227" 
+                    HPOS="876"
+                    VPOS="181"
+                    WIDTH="55"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="880 224 880 181 931 183 931 226 927 240 876 236"/></Shape>
+	    <String CONTENT="12"
+                    HPOS="876"
+                    VPOS="181"
+                    WIDTH="55"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="251"
+                   VPOS="924"
+                   WIDTH="1347"
+                   HEIGHT="1341"
+                   ID="eSc_textblock_5e1e10cd"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="251 937 257 2265 1598 2265 1598 924"/></Shape>
           
           
           <TextLine ID="r_4_1l1"
@@ -733,6 +727,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

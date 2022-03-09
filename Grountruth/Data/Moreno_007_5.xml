@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -35,7 +35,7 @@
           
           
           <TextLine ID="r1l2"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="477 593 529 594 581 594 634 594 686 595 739 595 791 595 843 595 896 596 948 596 1001 596 1053 596 1105 596 1158 595 1210 595 1263 595 1315 595 1367 594 1420 594 1472 593 1525 592" 
                     HPOS="474"
                     VPOS="447"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="r1l3"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="301 838 372 837 444 836 515 836 587 835 659 834 730 834 802 833 874 833 945 832 1017 832 1089 832 1160 831 1232 831 1304 831 1375 831 1447 830 1519 830 1590 830 1662 830 1734 829" 
                     HPOS="298"
                     VPOS="741"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="r1l4"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="298 940 368 939 439 938 510 937 581 936 652 936 723 935 794 935 865 934 936 934 1007 934 1077 933 1148 933 1219 933 1290 933 1361 933 1432 932 1503 932 1574 932 1645 932 1716 931" 
                     HPOS="290"
                     VPOS="838"
@@ -86,7 +86,7 @@
           
           
           <TextLine ID="r1l5"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="304 1039 374 1038 444 1038 514 1037 584 1036 654 1036 724 1035 794 1035 864 1034 934 1034 1005 1033 1075 1033 1145 1033 1215 1033 1285 1032 1355 1032 1425 1032 1495 1032 1565 1032 1635 1032 1706 1032" 
                     HPOS="294"
                     VPOS="950"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="r1l6"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="300 1140 370 1139 440 1138 510 1138 580 1137 651 1136 721 1136 791 1135 861 1135 931 1134 1002 1134 1072 1133 1142 1133 1212 1133 1282 1133 1353 1133 1423 1133 1493 1133 1563 1134 1633 1134 1704 1135" 
                     HPOS="294"
                     VPOS="1045"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="r1l7"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="306 1239 379 1238 453 1237 526 1236 600 1235 674 1235 747 1234 821 1234 895 1234 968 1234 1042 1234 1115 1234 1189 1234 1263 1234 1336 1234 1410 1234 1484 1234 1557 1234 1631 1233 1705 1233" 
                     HPOS="303"
                     VPOS="1149"
@@ -137,7 +137,7 @@
           
           
           <TextLine ID="r1l8"
-                    TAGREFS="LT74"
+                    TAGREFS="LT78"
                     BASELINE="482 1340 534 1338 587 1337 639 1336 692 1335 744 1334 797 1334 849 1333 902 1333 954 1333 1007 1333 1060 1333 1112 1333 1165 1333 1217 1333 1270 1333 1322 1333 1375 1333 1427 1333 1480 1333 1533 1333" 
                     HPOS="478"
                     VPOS="1256"

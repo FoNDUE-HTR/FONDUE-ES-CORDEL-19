@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -248,6 +248,74 @@
           <Shape><Polygon POINTS="883 288 1554 271 1591 984 874 1007"/></Shape>
           
           
+          <TextLine ID="tl_13"
+                    TAGREFS="LT75"
+                    BASELINE="903 356 937 356 1039 355 1113 356 1193 356 1287 355" 
+                    HPOS="900"
+                    VPOS="307"
+                    WIDTH="385"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="902 355 900 309 1279 307 1285 353 1283 362 902 370"/></Shape>
+	    <String CONTENT="el otro dia ine dijo"
+                    HPOS="900"
+                    VPOS="307"
+                    WIDTH="385"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_14"
+                    TAGREFS="LT75"
+                    BASELINE="903 408 923 408 1053 408 1188 408 1366 418" 
+                    HPOS="898"
+                    VPOS="353"
+                    WIDTH="467"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="902 406 900 360 1101 353 1103 353 1103 353 1103 353 1153 364 1168 366 1178 364 1210 353 1212 353 1212 353 1212 353 1214 353 1365 368 1365 416 1360 422 898 418"/></Shape>
+	    <String CONTENT="á gritos cierta Señora,"
+                    HPOS="898"
+                    VPOS="353"
+                    WIDTH="467"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_15"
+                    TAGREFS="LT75"
+                    BASELINE="903 461 1011 461 1065 461 1147 462 1208 460 1264 462 1504 461" 
+                    HPOS="900"
+                    VPOS="401"
+                    WIDTH="603"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="902 460 900 416 1042 401 1044 401 1044 401 1044 401 1046 401 1046 401 1067 412 1071 412 1078 412 1120 401 1120 401 1120 401 1122 401 1122 401 1166 410 1189 412 1356 404 1432 401 1434 401 1434 401 1434 401 1436 401 1440 401 1467 412 1497 401 1503 460 1501 466 902 471"/></Shape>
+	    <String CONTENT="como le fué en el Pelambre?"
+                    HPOS="900"
+                    VPOS="401"
+                    WIDTH="603"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_16"
+                    TAGREFS="LT75"
+                    BASELINE="904 513 1058 515 1174 514 1316 514 1465 513" 
+                    HPOS="898"
+                    VPOS="458"
+                    WIDTH="565"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="902 512 902 458 1461 468 1463 512 1459 523 898 521"/></Shape>
+	    <String CONTENT="Conque llevo buena honra."
+                    HPOS="898"
+                    VPOS="458"
+                    WIDTH="565"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="tl_17"
                     TAGREFS="LT75"
                     BASELINE="900 564 974 566 1088 576 1274 567 1397 576" 
@@ -420,80 +488,6 @@
                    TAGREFS="BT28">
           <Shape><Polygon POINTS="207 2092 210 2356 1553 2328 1556 2109"/></Shape>
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_13"
-                    TAGREFS="LT75"
-                    BASELINE="903 356 937 356 1039 355 1113 356 1193 356 1287 355" 
-                    HPOS="900"
-                    VPOS="307"
-                    WIDTH="385"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="902 355 900 309 1279 307 1285 353 1283 362 902 370"/></Shape>
-	    <String CONTENT="el otro dia ine dijo"
-                    HPOS="900"
-                    VPOS="307"
-                    WIDTH="385"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_14"
-                    TAGREFS="LT75"
-                    BASELINE="903 408 923 408 1053 408 1188 408 1366 418" 
-                    HPOS="898"
-                    VPOS="353"
-                    WIDTH="467"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="902 406 900 360 1101 353 1103 353 1103 353 1103 353 1153 364 1168 366 1178 364 1210 353 1212 353 1212 353 1212 353 1214 353 1365 368 1365 416 1360 422 898 418"/></Shape>
-	    <String CONTENT="á gritos cierta Señora,"
-                    HPOS="898"
-                    VPOS="353"
-                    WIDTH="467"
-                    HEIGHT="69"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_15"
-                    TAGREFS="LT75"
-                    BASELINE="903 461 1011 461 1065 461 1147 462 1208 460 1264 462 1504 461" 
-                    HPOS="900"
-                    VPOS="401"
-                    WIDTH="603"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="902 460 900 416 1042 401 1044 401 1044 401 1044 401 1046 401 1046 401 1067 412 1071 412 1078 412 1120 401 1120 401 1120 401 1122 401 1122 401 1166 410 1189 412 1356 404 1432 401 1434 401 1434 401 1434 401 1436 401 1440 401 1467 412 1497 401 1503 460 1501 466 902 471"/></Shape>
-	    <String CONTENT="como le fué en el Pelambre?"
-                    HPOS="900"
-                    VPOS="401"
-                    WIDTH="603"
-                    HEIGHT="70"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_16"
-                    TAGREFS="LT75"
-                    BASELINE="904 513 1058 515 1174 514 1316 514 1465 513" 
-                    HPOS="898"
-                    VPOS="458"
-                    WIDTH="565"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="902 512 902 458 1461 468 1463 512 1459 523 898 521"/></Shape>
-	    <String CONTENT="Conque llevo buena honra."
-                    HPOS="898"
-                    VPOS="458"
-                    WIDTH="565"
-                    HEIGHT="65"></String>
-          </TextLine>
-
-          
           
           <TextLine ID="tl_25"
                     
@@ -529,6 +523,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

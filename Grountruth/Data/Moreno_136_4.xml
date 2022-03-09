@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -32,32 +32,6 @@
                    ID="eSc_textblock_916526de"
                    TAGREFS="BT205">
           <Shape><Polygon POINTS="100 188 79 2262 749 2267 754 206"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="801"
-                   VPOS="204"
-                   WIDTH="715"
-                   HEIGHT="2063"
-                   ID="eSc_textblock_eafd8985"
-                   TAGREFS="BT205">
-          <Shape><Polygon POINTS="1516 2265 1468 222 831 204 801 2267"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="82"
-                   VPOS="2280"
-                   WIDTH="1472"
-                   HEIGHT="103"
-                   ID="eSc_textblock_7adb2990"
-                   TAGREFS="BT28">
-          <Shape><Polygon POINTS="1521 2383 1554 2288 82 2280 87 2380"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="tl_1"
@@ -773,6 +747,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="801"
+                   VPOS="204"
+                   WIDTH="715"
+                   HEIGHT="2063"
+                   ID="eSc_textblock_eafd8985"
+                   TAGREFS="BT205">
+          <Shape><Polygon POINTS="1516 2265 1468 222 831 204 801 2267"/></Shape>
+          
           
           <TextLine ID="tl_43"
                     TAGREFS="LT75"
@@ -1487,6 +1471,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="82"
+                   VPOS="2280"
+                   WIDTH="1472"
+                   HEIGHT="103"
+                   ID="eSc_textblock_7adb2990"
+                   TAGREFS="BT28">
+          <Shape><Polygon POINTS="1521 2383 1554 2288 82 2280 87 2380"/></Shape>
+          
           
           <TextLine ID="tl_85"
                     
@@ -1505,6 +1499,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

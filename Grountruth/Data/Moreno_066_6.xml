@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -25,13 +25,13 @@
                   WIDTH="1765"
                   HEIGHT="2512">
         
-        <TextBlock HPOS="257"
-                   VPOS="200"
-                   WIDTH="85"
-                   HEIGHT="64"
-                   ID="r_2_1"
-                   TAGREFS="BT25">
-          <Shape><Polygon POINTS="271 200 342 203 335 257 257 264"/></Shape>
+        <TextBlock HPOS="134"
+                   VPOS="232"
+                   WIDTH="677"
+                   HEIGHT="2160"
+                   ID="eSc_textblock_0e99a994"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="804 2392 811 232 453 237 134 256 148 2392"/></Shape>
           
           
           <TextLine ID="tl_2"
@@ -49,59 +49,6 @@
                     HEIGHT="64"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1011"
-                   VPOS="203"
-                   WIDTH="394"
-                   HEIGHT="111"
-                   ID="r_1_1"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="1011 217 1398 203 1405 303 1014 314"/></Shape>
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT74"
-                    BASELINE="1033 280 1215 272 1383 270" 
-                    HPOS="1028"
-                    VPOS="219"
-                    WIDTH="353"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="1032 278 1028 219 1377 221 1381 267 1379 288 1032 293"/></Shape>
-	    <String CONTENT="TERCERA PARTE."
-                    HPOS="1028"
-                    VPOS="219"
-                    WIDTH="353"
-                    HEIGHT="74"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="134"
-                   VPOS="232"
-                   WIDTH="677"
-                   HEIGHT="2160"
-                   ID="eSc_textblock_0e99a994"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="804 2392 811 232 453 237 134 256 148 2392"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="855"
-                   VPOS="327"
-                   WIDTH="767"
-                   HEIGHT="2145"
-                   ID="eSc_textblock_db932279"
-                   TAGREFS="BT14">
-          <Shape><Polygon POINTS="855 327 890 2472 1622 2466 1561 327"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="tl_3"
@@ -138,23 +85,6 @@
 
           
           
-          <TextLine ID="tl_51"
-                    TAGREFS="LT75"
-                    BASELINE="926 370 1010 369 1139 368 1213 367 1262 367 1415 366 1526 364" 
-                    HPOS="923"
-                    VPOS="322"
-                    WIDTH="601"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="925 368 923 322 1520 324 1524 362 1522 380 923 378"/></Shape>
-	    <String CONTENT="Pues contó en la primer porto"
-                    HPOS="923"
-                    VPOS="322"
-                    WIDTH="601"
-                    HEIGHT="58"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_5"
                     TAGREFS="LT75"
                     BASELINE="160 386 242 384 343 388 439 380 516 379 649 377" 
@@ -168,23 +98,6 @@
                     VPOS="337"
                     WIDTH="492"
                     HEIGHT="58"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_52"
-                    TAGREFS="LT75"
-                    BASELINE="882 415 940 415 1115 412 1165 421 1353 415" 
-                    HPOS="879"
-                    VPOS="366"
-                    WIDTH="473"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="881 414 879 368 1346 366 1352 414 1350 424 881 435"/></Shape>
-	    <String CONTENT="mil placeres y alegrías,"
-                    HPOS="879"
-                    VPOS="366"
-                    WIDTH="473"
-                    HEIGHT="69"></String>
           </TextLine>
 
           
@@ -219,40 +132,6 @@
                     VPOS="422"
                     WIDTH="498"
                     HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_53"
-                    TAGREFS="LT75"
-                    BASELINE="884 468 901 468 1074 457 1131 456 1179 457 1353 455" 
-                    HPOS="879"
-                    VPOS="410"
-                    WIDTH="473"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="883 466 879 418 1346 410 1352 454 1352 464 883 475"/></Shape>
-	    <String CONTENT="y también en la segunda"
-                    HPOS="879"
-                    VPOS="410"
-                    WIDTH="473"
-                    HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_54"
-                    TAGREFS="LT75"
-                    BASELINE="884 503 1006 508 1140 500 1192 509 1347 505" 
-                    HPOS="879"
-                    VPOS="456"
-                    WIDTH="467"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="883 502 879 462 1339 456 1346 504 1346 514 883 519"/></Shape>
-	    <String CONTENT="ansias, penas y fatigas;"
-                    HPOS="879"
-                    VPOS="456"
-                    WIDTH="467"
-                    HEIGHT="63"></String>
           </TextLine>
 
           
@@ -461,6 +340,611 @@
 
           
           
+          <TextLine ID="tl_20"
+                    TAGREFS="LT75"
+                    BASELINE="171 1044 264 1043 437 1041 609 1044" 
+                    HPOS="167"
+                    VPOS="994"
+                    WIDTH="440"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="169 1042 169 994 607 996 607 1042 605 1059 167 1057"/></Shape>
+	    <String CONTENT="Estas palabras oyendo,"
+                    HPOS="167"
+                    VPOS="994"
+                    WIDTH="440"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_21"
+                    TAGREFS="LT75"
+                    BASELINE="174 1090 240 1088 431 1085 576 1090" 
+                    HPOS="171"
+                    VPOS="1042"
+                    WIDTH="404"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="173 1088 171 1042 573 1044 575 1088 573 1101 171 1101"/></Shape>
+	    <String CONTENT="dijo Griselda: señor,"
+                    HPOS="171"
+                    VPOS="1042"
+                    WIDTH="404"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_22"
+                    TAGREFS="LT75"
+                    BASELINE="173 1134 307 1131 485 1128 615 1127 766 1124" 
+                    HPOS="167"
+                    VPOS="1082"
+                    WIDTH="597"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="171 1132 167 1094 757 1082 764 1122 764 1132 171 1145"/></Shape>
+	    <String CONTENT="cuando desnuda algún tiempo"
+                    HPOS="167"
+                    VPOS="1082"
+                    WIDTH="597"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_23"
+                    TAGREFS="LT75"
+                    BASELINE="174 1178 216 1177 311 1175 488 1171 705 1175" 
+                    HPOS="169"
+                    VPOS="1124"
+                    WIDTH="534"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="173 1176 169 1132 699 1124 703 1174 701 1182 173 1186"/></Shape>
+	    <String CONTENT="de mis vestidos humildes,"
+                    HPOS="169"
+                    VPOS="1124"
+                    WIDTH="534"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_24"
+                    TAGREFS="LT75"
+                    BASELINE="174 1221 260 1220 334 1219 537 1216 721 1213" 
+                    HPOS="169"
+                    VPOS="1168"
+                    WIDTH="551"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="173 1220 169 1180 713 1168 720 1212 720 1228 173 1228"/></Shape>
+	    <String CONTENT="vestí los preciosos vuestros"
+                    HPOS="169"
+                    VPOS="1168"
+                    WIDTH="551"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_25"
+                    TAGREFS="LT75"
+                    BASELINE="174 1265 231 1264 394 1262 462 1262 539 1260 673 1258" 
+                    HPOS="171"
+                    VPOS="1216"
+                    WIDTH="501"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="173 1264 171 1216 667 1216 672 1256 669 1268 173 1279"/></Shape>
+	    <String CONTENT="me despojé de ser dueña"
+                    HPOS="171"
+                    VPOS="1216"
+                    WIDTH="501"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_26"
+                    TAGREFS="LT75"
+                    BASELINE="176 1309 217 1310 296 1307 466 1311 510 1313 599 1302 790 1300" 
+                    HPOS="173"
+                    VPOS="1262"
+                    WIDTH="616"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="175 1308 173 1262 787 1262 789 1299 789 1310 175 1322"/></Shape>
+	    <String CONTENT="de mí misma, y con contento"
+                    HPOS="173"
+                    VPOS="1262"
+                    WIDTH="616"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_27"
+                    TAGREFS="LT75"
+                    BASELINE="176 1353 232 1352 347 1350 417 1350 476 1349 673 1346" 
+                    HPOS="171"
+                    VPOS="1297"
+                    WIDTH="501"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="175 1352 171 1310 665 1297 672 1343 669 1354 175 1369"/></Shape>
+	    <String CONTENT="me vestí de la humildad"
+                    HPOS="171"
+                    VPOS="1297"
+                    WIDTH="501"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_28"
+                    TAGREFS="LT75"
+                    BASELINE="177 1406 257 1396 353 1394 456 1400 506 1394 642 1391 748 1389" 
+                    HPOS="169"
+                    VPOS="1348"
+                    WIDTH="578"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="175 1404 169 1360 741 1348 747 1387 747 1398 175 1413"/></Shape>
+	    <String CONTENT="para con vos; á quien debo"
+                    HPOS="169"
+                    VPOS="1348"
+                    WIDTH="578"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_29"
+                    TAGREFS="LT75"
+                    BASELINE="178 1440 289 1440 456 1442 514 1445 677 1434" 
+                    HPOS="173"
+                    VPOS="1385"
+                    WIDTH="503"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="177 1438 173 1398 669 1385 676 1433 674 1444 177 1452"/></Shape>
+	    <String CONTENT="tantas finezas, y siempre"
+                    HPOS="173"
+                    VPOS="1385"
+                    WIDTH="503"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_30"
+                    TAGREFS="LT75"
+                    BASELINE="179 1486 244 1484 420 1483 677 1478" 
+                    HPOS="173"
+                    VPOS="1431"
+                    WIDTH="503"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="177 1484 173 1440 669 1431 676 1477 674 1488 177 1494"/></Shape>
+	    <String CONTENT="con humilde rendimiento"
+                    HPOS="173"
+                    VPOS="1431"
+                    WIDTH="503"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_31"
+                    TAGREFS="LT75"
+                    BASELINE="179 1539 240 1528 298 1528 408 1527 569 1524 699 1522" 
+                    HPOS="173"
+                    VPOS="1471"
+                    WIDTH="524"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="177 1538 173 1484 529 1484 559 1482 665 1471 665 1471 667 1471 667 1471 669 1471 669 1471 695 1482 697 1521 695 1534 177 1546"/></Shape>
+	    <String CONTENT="por la mas dichosa viuda"
+                    HPOS="173"
+                    VPOS="1471"
+                    WIDTH="524"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_32"
+                    TAGREFS="LT75"
+                    BASELINE="179 1573 236 1573 395 1571 465 1571 632 1568 773 1570" 
+                    HPOS="173"
+                    VPOS="1519"
+                    WIDTH="599"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="177 1572 173 1530 768 1519 772 1570 770 1576 177 1586"/></Shape>
+	    <String CONTENT="me tendré de aqueste reino,"
+                    HPOS="173"
+                    VPOS="1519"
+                    WIDTH="599"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_33"
+                    TAGREFS="LT75"
+                    BASELINE="183 1627 243 1616 372 1614 542 1613 623 1611" 
+                    HPOS="175"
+                    VPOS="1567"
+                    WIDTH="446"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="182 1626 175 1574 615 1567 621 1609 619 1622 182 1634"/></Shape>
+	    <String CONTENT="por haber logrado ser"
+                    HPOS="175"
+                    VPOS="1567"
+                    WIDTH="446"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_34"
+                    TAGREFS="LT75"
+                    BASELINE="181 1662 297 1660 368 1659 452 1658 570 1656 729 1651" 
+                    HPOS="175"
+                    VPOS="1609"
+                    WIDTH="553"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="180 1660 175 1624 722 1609 728 1649 728 1664 180 1670"/></Shape>
+	    <String CONTENT="esposa de tan buen dueño."
+                    HPOS="175"
+                    VPOS="1609"
+                    WIDTH="553"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_35"
+                    TAGREFS="LT75"
+                    BASELINE="183 1705 263 1705 335 1703 436 1703 485 1710 653 1705" 
+                    HPOS="180"
+                    VPOS="1649"
+                    WIDTH="471"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="182 1703 180 1655 500 1662 525 1660 607 1649 607 1649 609 1649 609 1649 609 1649 611 1649 649 1662 651 1703 649 1714 182 1716"/></Shape>
+	    <String CONTENT="Solo te pido y suplico,"
+                    HPOS="180"
+                    VPOS="1649"
+                    WIDTH="471"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_36"
+                    TAGREFS="LT75"
+                    BASELINE="182 1759 263 1749 361 1747 476 1745 666 1743" 
+                    HPOS="171"
+                    VPOS="1697"
+                    WIDTH="494"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="180 1758 171 1712 659 1697 665 1741 665 1750 205 1758 182 1770"/></Shape>
+	    <String CONTENT="para que vaya cubierto"
+                    HPOS="171"
+                    VPOS="1697"
+                    WIDTH="494"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_37"
+                    TAGREFS="LT75"
+                    BASELINE="183 1794 255 1793 416 1791 512 1790 717 1787" 
+                    HPOS="175"
+                    VPOS="1737"
+                    WIDTH="541"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="182 1793 175 1756 200 1743 200 1743 200 1743 203 1743 203 1743 205 1743 205 1743 293 1752 305 1752 709 1737 716 1785 713 1793 182 1804"/></Shape>
+	    <String CONTENT="este vientre que enjendró"
+                    HPOS="175"
+                    VPOS="1737"
+                    WIDTH="541"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_38"
+                    TAGREFS="LT75"
+                    BASELINE="184 1838 203 1838 298 1836 382 1835 501 1833 555 1841 752 1836" 
+                    HPOS="177"
+                    VPOS="1789"
+                    WIDTH="574"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="182 1837 177 1796 745 1789 751 1835 749 1846 182 1848"/></Shape>
+	    <String CONTENT="á mis dos hijos y vuestros,"
+                    HPOS="177"
+                    VPOS="1789"
+                    WIDTH="574"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_39"
+                    TAGREFS="LT75"
+                    BASELINE="184 1882 240 1881 366 1878 462 1879 627 1881" 
+                    HPOS="177"
+                    VPOS="1831"
+                    WIDTH="449"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="182 1881 177 1837 621 1831 626 1879 623 1886 182 1894"/></Shape>
+	    <String CONTENT="me dejes esta camisa,"
+                    HPOS="177"
+                    VPOS="1831"
+                    WIDTH="449"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_40"
+                    TAGREFS="LT75"
+                    BASELINE="183 1935 263 1925 375 1923 472 1922 527 1920 688 1924" 
+                    HPOS="177"
+                    VPOS="1877"
+                    WIDTH="509"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="182 1934 177 1877 684 1879 686 1923 684 1932 182 1942"/></Shape>
+	    <String CONTENT="para salir por el pueblo,"
+                    HPOS="177"
+                    VPOS="1877"
+                    WIDTH="509"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_41"
+                    TAGREFS="LT75"
+                    BASELINE="185 1970 282 1968 422 1967 472 1967 534 1964 637 1964" 
+                    HPOS="182"
+                    VPOS="1915"
+                    WIDTH="454"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="184 1969 182 1927 448 1927 452 1925 498 1915 498 1915 498 1915 500 1915 634 1925 636 1963 634 1974 184 1980"/></Shape>
+	    <String CONTENT="hasta llegar á la casa"
+                    HPOS="182"
+                    VPOS="1915"
+                    WIDTH="454"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_42"
+                    TAGREFS="LT75"
+                    BASELINE="185 2014 227 2015 295 2012 440 2012 501 2009 562 2009 750 2007" 
+                    HPOS="180"
+                    VPOS="1959"
+                    WIDTH="569"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="184 2013 180 1963 743 1959 749 2005 749 2017 184 2020"/></Shape>
+	    <String CONTENT="do mi padre. Y no podiendo"
+                    HPOS="180"
+                    VPOS="1959"
+                    WIDTH="569"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_43"
+                    TAGREFS="LT75"
+                    BASELINE="185 2057 344 2057 412 2055 663 2052" 
+                    HPOS="182"
+                    VPOS="2011"
+                    WIDTH="479"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="184 2055 182 2011 657 2011 661 2051 659 2070 184 2072"/></Shape>
+	    <String CONTENT="Gualtero de enternecido"
+                    HPOS="182"
+                    VPOS="2011"
+                    WIDTH="479"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_44"
+                    TAGREFS="LT75"
+                    BASELINE="188 2102 353 2100 422 2099 685 2101" 
+                    HPOS="184"
+                    VPOS="2059"
+                    WIDTH="500"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="186 2101 184 2059 682 2059 684 2099 682 2114 184 2114"/></Shape>
+	    <String CONTENT="contener su sentimiento,"
+                    HPOS="184"
+                    VPOS="2059"
+                    WIDTH="500"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_45"
+                    TAGREFS="LT75"
+                    BASELINE="188 2146 252 2144 445 2143 512 2142 596 2140 708 2145" 
+                    HPOS="182"
+                    VPOS="2093"
+                    WIDTH="525"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="186 2145 182 2103 703 2093 707 2143 703 2156 184 2151"/></Shape>
+	    <String CONTENT="con lágrimas en los ojos,"
+                    HPOS="182"
+                    VPOS="2093"
+                    WIDTH="525"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_46"
+                    TAGREFS="LT75"
+                    BASELINE="186 2190 221 2190 362 2188 422 2188 574 2190 781 2181" 
+                    HPOS="182"
+                    VPOS="2131"
+                    WIDTH="598"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="184 2189 182 2141 234 2149 257 2139 261 2139 261 2139 263 2139 263 2139 265 2139 385 2139 600 2141 607 2139 617 2131 619 2131 619 2131 619 2131 621 2131 621 2131 621 2131 623 2131 776 2139 780 2179 780 2193 184 2200"/></Shape>
+	    <String CONTENT="le volvió el rostro, diciendo:"
+                    HPOS="182"
+                    VPOS="2131"
+                    WIDTH="598"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_47"
+                    TAGREFS="LT75"
+                    BASELINE="188 2233 359 2237 415 2240 603 2229" 
+                    HPOS="182"
+                    VPOS="2181"
+                    WIDTH="420"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="186 2231 182 2183 596 2181 602 2227 600 2241 186 2246"/></Shape>
+	    <String CONTENT="llévatela; y apartése"
+                    HPOS="182"
+                    VPOS="2181"
+                    WIDTH="420"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_48"
+                    TAGREFS="LT75"
+                    BASELINE="188 2278 229 2277 314 2276 440 2275 556 2274 658 2272 753 2271" 
+                    HPOS="175"
+                    VPOS="2225"
+                    WIDTH="576"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="186 2277 175 2241 184 2229 184 2229 186 2229 186 2227 186 2227 188 2227 188 2227 188 2227 190 2227 190 2227 192 2227 192 2227 270 2235 745 2225 751 2269 749 2283 186 2288"/></Shape>
+	    <String CONTENT="de mi vista. Aquí pues dejo"
+                    HPOS="175"
+                    VPOS="2225"
+                    WIDTH="576"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_49"
+                    TAGREFS="LT75"
+                    BASELINE="189 2322 223 2322 406 2326 453 2328 524 2318 629 2317 753 2316" 
+                    HPOS="186"
+                    VPOS="2271"
+                    WIDTH="565"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="188 2321 186 2271 749 2271 751 2315 749 2327 188 2334"/></Shape>
+	    <String CONTENT="la historia, y en otra parte"
+                    HPOS="186"
+                    VPOS="2271"
+                    WIDTH="565"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_50"
+                    TAGREFS="LT75"
+                    BASELINE="189 2366 358 2364 463 2365 618 2360" 
+                    HPOS="184"
+                    VPOS="2321"
+                    WIDTH="433"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="188 2365 184 2329 611 2321 617 2359 615 2382 330 2378 314 2388 311 2388 311 2388 311 2388 311 2388 309 2388 309 2388 307 2388 307 2388 303 2388 221 2380 190 2390"/></Shape>
+	    <String CONTENT="remataré este suceso."
+                    HPOS="184"
+                    VPOS="2321"
+                    WIDTH="433"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="855"
+                   VPOS="327"
+                   WIDTH="767"
+                   HEIGHT="2145"
+                   ID="eSc_textblock_db932279"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="855 327 890 2472 1622 2466 1561 327"/></Shape>
+          
+          
+          <TextLine ID="tl_51"
+                    TAGREFS="LT75"
+                    BASELINE="926 370 1010 369 1139 368 1213 367 1262 367 1415 366 1526 364" 
+                    HPOS="923"
+                    VPOS="322"
+                    WIDTH="601"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="925 368 923 322 1520 324 1524 362 1522 380 923 378"/></Shape>
+	    <String CONTENT="Pues contó en la primer porto"
+                    HPOS="923"
+                    VPOS="322"
+                    WIDTH="601"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_52"
+                    TAGREFS="LT75"
+                    BASELINE="882 415 940 415 1115 412 1165 421 1353 415" 
+                    HPOS="879"
+                    VPOS="366"
+                    WIDTH="473"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="881 414 879 368 1346 366 1352 414 1350 424 881 435"/></Shape>
+	    <String CONTENT="mil placeres y alegrías,"
+                    HPOS="879"
+                    VPOS="366"
+                    WIDTH="473"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_53"
+                    TAGREFS="LT75"
+                    BASELINE="884 468 901 468 1074 457 1131 456 1179 457 1353 455" 
+                    HPOS="879"
+                    VPOS="410"
+                    WIDTH="473"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="883 466 879 418 1346 410 1352 454 1352 464 883 475"/></Shape>
+	    <String CONTENT="y también en la segunda"
+                    HPOS="879"
+                    VPOS="410"
+                    WIDTH="473"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_54"
+                    TAGREFS="LT75"
+                    BASELINE="884 503 1006 508 1140 500 1192 509 1347 505" 
+                    HPOS="879"
+                    VPOS="456"
+                    WIDTH="467"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="883 502 879 462 1339 456 1346 504 1346 514 883 519"/></Shape>
+	    <String CONTENT="ansias, penas y fatigas;"
+                    HPOS="879"
+                    VPOS="456"
+                    WIDTH="467"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="tl_55"
                     TAGREFS="LT75"
                     BASELINE="884 547 927 547 997 544 1155 544 1343 544" 
@@ -665,23 +1149,6 @@
 
           
           
-          <TextLine ID="tl_20"
-                    TAGREFS="LT75"
-                    BASELINE="171 1044 264 1043 437 1041 609 1044" 
-                    HPOS="167"
-                    VPOS="994"
-                    WIDTH="440"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="169 1042 169 994 607 996 607 1042 605 1059 167 1057"/></Shape>
-	    <String CONTENT="Estas palabras oyendo,"
-                    HPOS="167"
-                    VPOS="994"
-                    WIDTH="440"
-                    HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_67"
                     TAGREFS="LT75"
                     BASELINE="895 1076 967 1074 1040 1073 1137 1073 1232 1073 1386 1072" 
@@ -699,23 +1166,6 @@
 
           
           
-          <TextLine ID="tl_21"
-                    TAGREFS="LT75"
-                    BASELINE="174 1090 240 1088 431 1085 576 1090" 
-                    HPOS="171"
-                    VPOS="1042"
-                    WIDTH="404"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="173 1088 171 1042 573 1044 575 1088 573 1101 171 1101"/></Shape>
-	    <String CONTENT="dijo Griselda: señor,"
-                    HPOS="171"
-                    VPOS="1042"
-                    WIDTH="404"
-                    HEIGHT="59"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_68"
                     TAGREFS="LT75"
                     BASELINE="897 1120 1007 1118 1080 1118 1147 1117 1351 1116" 
@@ -729,40 +1179,6 @@
                     VPOS="1071"
                     WIDTH="456"
                     HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_22"
-                    TAGREFS="LT75"
-                    BASELINE="173 1134 307 1131 485 1128 615 1127 766 1124" 
-                    HPOS="167"
-                    VPOS="1082"
-                    WIDTH="597"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="171 1132 167 1094 757 1082 764 1122 764 1132 171 1145"/></Shape>
-	    <String CONTENT="cuando desnuda algún tiempo"
-                    HPOS="167"
-                    VPOS="1082"
-                    WIDTH="597"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_23"
-                    TAGREFS="LT75"
-                    BASELINE="174 1178 216 1177 311 1175 488 1171 705 1175" 
-                    HPOS="169"
-                    VPOS="1124"
-                    WIDTH="534"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="173 1176 169 1132 699 1124 703 1174 701 1182 173 1186"/></Shape>
-	    <String CONTENT="de mis vestidos humildes,"
-                    HPOS="169"
-                    VPOS="1124"
-                    WIDTH="534"
-                    HEIGHT="62"></String>
           </TextLine>
 
           
@@ -801,23 +1217,6 @@
 
           
           
-          <TextLine ID="tl_24"
-                    TAGREFS="LT75"
-                    BASELINE="174 1221 260 1220 334 1219 537 1216 721 1213" 
-                    HPOS="169"
-                    VPOS="1168"
-                    WIDTH="551"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="173 1220 169 1180 713 1168 720 1212 720 1228 173 1228"/></Shape>
-	    <String CONTENT="vestí los preciosos vuestros"
-                    HPOS="169"
-                    VPOS="1168"
-                    WIDTH="551"
-                    HEIGHT="60"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_71"
                     TAGREFS="LT75"
                     BASELINE="899 1252 1075 1254 1208 1250 1267 1250 1304 1258 1498 1251" 
@@ -831,23 +1230,6 @@
                     VPOS="1207"
                     WIDTH="599"
                     HEIGHT="57"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_25"
-                    TAGREFS="LT75"
-                    BASELINE="174 1265 231 1264 394 1262 462 1262 539 1260 673 1258" 
-                    HPOS="171"
-                    VPOS="1216"
-                    WIDTH="501"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="173 1264 171 1216 667 1216 672 1256 669 1268 173 1279"/></Shape>
-	    <String CONTENT="me despojé de ser dueña"
-                    HPOS="171"
-                    VPOS="1216"
-                    WIDTH="501"
-                    HEIGHT="63"></String>
           </TextLine>
 
           
@@ -869,23 +1251,6 @@
 
           
           
-          <TextLine ID="tl_26"
-                    TAGREFS="LT75"
-                    BASELINE="176 1309 217 1310 296 1307 466 1311 510 1313 599 1302 790 1300" 
-                    HPOS="173"
-                    VPOS="1262"
-                    WIDTH="616"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="175 1308 173 1262 787 1262 789 1299 789 1310 175 1322"/></Shape>
-	    <String CONTENT="de mí misma, y con contento"
-                    HPOS="173"
-                    VPOS="1262"
-                    WIDTH="616"
-                    HEIGHT="60"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_73"
                     TAGREFS="LT75"
                     BASELINE="901 1340 949 1340 1060 1339 1130 1337 1381 1336" 
@@ -899,23 +1264,6 @@
                     VPOS="1289"
                     WIDTH="481"
                     HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_27"
-                    TAGREFS="LT75"
-                    BASELINE="176 1353 232 1352 347 1350 417 1350 476 1349 673 1346" 
-                    HPOS="171"
-                    VPOS="1297"
-                    WIDTH="501"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="175 1352 171 1310 665 1297 672 1343 669 1354 175 1369"/></Shape>
-	    <String CONTENT="me vestí de la humildad"
-                    HPOS="171"
-                    VPOS="1297"
-                    WIDTH="501"
-                    HEIGHT="72"></String>
           </TextLine>
 
           
@@ -937,23 +1285,6 @@
 
           
           
-          <TextLine ID="tl_28"
-                    TAGREFS="LT75"
-                    BASELINE="177 1406 257 1396 353 1394 456 1400 506 1394 642 1391 748 1389" 
-                    HPOS="169"
-                    VPOS="1348"
-                    WIDTH="578"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="175 1404 169 1360 741 1348 747 1387 747 1398 175 1413"/></Shape>
-	    <String CONTENT="para con vos; á quien debo"
-                    HPOS="169"
-                    VPOS="1348"
-                    WIDTH="578"
-                    HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_75"
                     TAGREFS="LT75"
                     BASELINE="903 1429 993 1426 1070 1426 1234 1424 1417 1424" 
@@ -967,23 +1298,6 @@
                     VPOS="1383"
                     WIDTH="517"
                     HEIGHT="57"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_29"
-                    TAGREFS="LT75"
-                    BASELINE="178 1440 289 1440 456 1442 514 1445 677 1434" 
-                    HPOS="173"
-                    VPOS="1385"
-                    WIDTH="503"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="177 1438 173 1398 669 1385 676 1433 674 1444 177 1452"/></Shape>
-	    <String CONTENT="tantas finezas, y siempre"
-                    HPOS="173"
-                    VPOS="1385"
-                    WIDTH="503"
-                    HEIGHT="67"></String>
           </TextLine>
 
           
@@ -1005,23 +1319,6 @@
 
           
           
-          <TextLine ID="tl_30"
-                    TAGREFS="LT75"
-                    BASELINE="179 1486 244 1484 420 1483 677 1478" 
-                    HPOS="173"
-                    VPOS="1431"
-                    WIDTH="503"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="177 1484 173 1440 669 1431 676 1477 674 1488 177 1494"/></Shape>
-	    <String CONTENT="con humilde rendimiento"
-                    HPOS="173"
-                    VPOS="1431"
-                    WIDTH="503"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_77"
                     TAGREFS="LT75"
                     BASELINE="904 1517 999 1514 1068 1514 1193 1512 1343 1512" 
@@ -1035,23 +1332,6 @@
                     VPOS="1463"
                     WIDTH="444"
                     HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_31"
-                    TAGREFS="LT75"
-                    BASELINE="179 1539 240 1528 298 1528 408 1527 569 1524 699 1522" 
-                    HPOS="173"
-                    VPOS="1471"
-                    WIDTH="524"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="177 1538 173 1484 529 1484 559 1482 665 1471 665 1471 667 1471 667 1471 669 1471 669 1471 695 1482 697 1521 695 1534 177 1546"/></Shape>
-	    <String CONTENT="por la mas dichosa viuda"
-                    HPOS="173"
-                    VPOS="1471"
-                    WIDTH="524"
-                    HEIGHT="75"></String>
           </TextLine>
 
           
@@ -1073,23 +1353,6 @@
 
           
           
-          <TextLine ID="tl_32"
-                    TAGREFS="LT75"
-                    BASELINE="179 1573 236 1573 395 1571 465 1571 632 1568 773 1570" 
-                    HPOS="173"
-                    VPOS="1519"
-                    WIDTH="599"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="177 1572 173 1530 768 1519 772 1570 770 1576 177 1586"/></Shape>
-	    <String CONTENT="me tendré de aqueste reino,"
-                    HPOS="173"
-                    VPOS="1519"
-                    WIDTH="599"
-                    HEIGHT="67"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_79"
                     TAGREFS="LT75"
                     BASELINE="905 1614 923 1614 988 1604 1150 1601 1322 1600" 
@@ -1102,23 +1365,6 @@
                     HPOS="900"
                     VPOS="1557"
                     WIDTH="421"
-                    HEIGHT="67"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_33"
-                    TAGREFS="LT75"
-                    BASELINE="183 1627 243 1616 372 1614 542 1613 623 1611" 
-                    HPOS="175"
-                    VPOS="1567"
-                    WIDTH="446"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="182 1626 175 1574 615 1567 621 1609 619 1622 182 1634"/></Shape>
-	    <String CONTENT="por haber logrado ser"
-                    HPOS="175"
-                    VPOS="1567"
-                    WIDTH="446"
                     HEIGHT="67"></String>
           </TextLine>
 
@@ -1141,23 +1387,6 @@
 
           
           
-          <TextLine ID="tl_34"
-                    TAGREFS="LT75"
-                    BASELINE="181 1662 297 1660 368 1659 452 1658 570 1656 729 1651" 
-                    HPOS="175"
-                    VPOS="1609"
-                    WIDTH="553"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="180 1660 175 1624 722 1609 728 1649 728 1664 180 1670"/></Shape>
-	    <String CONTENT="esposa de tan buen dueño."
-                    HPOS="175"
-                    VPOS="1609"
-                    WIDTH="553"
-                    HEIGHT="61"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_81"
                     TAGREFS="LT75"
                     BASELINE="903 1693 1165 1690 1349 1687" 
@@ -1171,23 +1400,6 @@
                     VPOS="1647"
                     WIDTH="450"
                     HEIGHT="59"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_35"
-                    TAGREFS="LT75"
-                    BASELINE="183 1705 263 1705 335 1703 436 1703 485 1710 653 1705" 
-                    HPOS="180"
-                    VPOS="1649"
-                    WIDTH="471"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="182 1703 180 1655 500 1662 525 1660 607 1649 607 1649 609 1649 609 1649 609 1649 611 1649 649 1662 651 1703 649 1714 182 1716"/></Shape>
-	    <String CONTENT="Solo te pido y suplico,"
-                    HPOS="180"
-                    VPOS="1649"
-                    WIDTH="471"
-                    HEIGHT="67"></String>
           </TextLine>
 
           
@@ -1209,23 +1421,6 @@
 
           
           
-          <TextLine ID="tl_36"
-                    TAGREFS="LT75"
-                    BASELINE="182 1759 263 1749 361 1747 476 1745 666 1743" 
-                    HPOS="171"
-                    VPOS="1697"
-                    WIDTH="494"
-                    HEIGHT="73">
-            <Shape><Polygon POINTS="180 1758 171 1712 659 1697 665 1741 665 1750 205 1758 182 1770"/></Shape>
-	    <String CONTENT="para que vaya cubierto"
-                    HPOS="171"
-                    VPOS="1697"
-                    WIDTH="494"
-                    HEIGHT="73"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_83"
                     TAGREFS="LT75"
                     BASELINE="906 1783 969 1781 1014 1781 1144 1778 1354 1775" 
@@ -1239,40 +1434,6 @@
                     VPOS="1733"
                     WIDTH="452"
                     HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_37"
-                    TAGREFS="LT75"
-                    BASELINE="183 1794 255 1793 416 1791 512 1790 717 1787" 
-                    HPOS="175"
-                    VPOS="1737"
-                    WIDTH="541"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="182 1793 175 1756 200 1743 200 1743 200 1743 203 1743 203 1743 205 1743 205 1743 293 1752 305 1752 709 1737 716 1785 713 1793 182 1804"/></Shape>
-	    <String CONTENT="este vientre que enjendró"
-                    HPOS="175"
-                    VPOS="1737"
-                    WIDTH="541"
-                    HEIGHT="67"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_38"
-                    TAGREFS="LT75"
-                    BASELINE="184 1838 203 1838 298 1836 382 1835 501 1833 555 1841 752 1836" 
-                    HPOS="177"
-                    VPOS="1789"
-                    WIDTH="574"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="182 1837 177 1796 745 1789 751 1835 749 1846 182 1848"/></Shape>
-	    <String CONTENT="á mis dos hijos y vuestros,"
-                    HPOS="177"
-                    VPOS="1789"
-                    WIDTH="574"
-                    HEIGHT="59"></String>
           </TextLine>
 
           
@@ -1311,23 +1472,6 @@
 
           
           
-          <TextLine ID="tl_39"
-                    TAGREFS="LT75"
-                    BASELINE="184 1882 240 1881 366 1878 462 1879 627 1881" 
-                    HPOS="177"
-                    VPOS="1831"
-                    WIDTH="449"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="182 1881 177 1837 621 1831 626 1879 623 1886 182 1894"/></Shape>
-	    <String CONTENT="me dejes esta camisa,"
-                    HPOS="177"
-                    VPOS="1831"
-                    WIDTH="449"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_86"
                     TAGREFS="LT75"
                     BASELINE="908 1915 985 1913 1144 1910 1291 1909 1409 1913" 
@@ -1341,40 +1485,6 @@
                     VPOS="1869"
                     WIDTH="504"
                     HEIGHT="61"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_40"
-                    TAGREFS="LT75"
-                    BASELINE="183 1935 263 1925 375 1923 472 1922 527 1920 688 1924" 
-                    HPOS="177"
-                    VPOS="1877"
-                    WIDTH="509"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="182 1934 177 1877 684 1879 686 1923 684 1932 182 1942"/></Shape>
-	    <String CONTENT="para salir por el pueblo,"
-                    HPOS="177"
-                    VPOS="1877"
-                    WIDTH="509"
-                    HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_41"
-                    TAGREFS="LT75"
-                    BASELINE="185 1970 282 1968 422 1967 472 1967 534 1964 637 1964" 
-                    HPOS="182"
-                    VPOS="1915"
-                    WIDTH="454"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="184 1969 182 1927 448 1927 452 1925 498 1915 498 1915 498 1915 500 1915 634 1925 636 1963 634 1974 184 1980"/></Shape>
-	    <String CONTENT="hasta llegar á la casa"
-                    HPOS="182"
-                    VPOS="1915"
-                    WIDTH="454"
-                    HEIGHT="65"></String>
           </TextLine>
 
           
@@ -1396,23 +1506,6 @@
 
           
           
-          <TextLine ID="tl_42"
-                    TAGREFS="LT75"
-                    BASELINE="185 2014 227 2015 295 2012 440 2012 501 2009 562 2009 750 2007" 
-                    HPOS="180"
-                    VPOS="1959"
-                    WIDTH="569"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="184 2013 180 1963 743 1959 749 2005 749 2017 184 2020"/></Shape>
-	    <String CONTENT="do mi padre. Y no podiendo"
-                    HPOS="180"
-                    VPOS="1959"
-                    WIDTH="569"
-                    HEIGHT="61"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_88"
                     TAGREFS="LT75"
                     BASELINE="908 2013 987 2001 1047 2001 1137 1999 1205 1999 1278 1997 1404 2001" 
@@ -1426,23 +1519,6 @@
                     VPOS="1955"
                     WIDTH="502"
                     HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_43"
-                    TAGREFS="LT75"
-                    BASELINE="185 2057 344 2057 412 2055 663 2052" 
-                    HPOS="182"
-                    VPOS="2011"
-                    WIDTH="479"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="184 2055 182 2011 657 2011 661 2051 659 2070 184 2072"/></Shape>
-	    <String CONTENT="Gualtero de enternecido"
-                    HPOS="182"
-                    VPOS="2011"
-                    WIDTH="479"
-                    HEIGHT="61"></String>
           </TextLine>
 
           
@@ -1481,23 +1557,6 @@
 
           
           
-          <TextLine ID="tl_44"
-                    TAGREFS="LT75"
-                    BASELINE="188 2102 353 2100 422 2099 685 2101" 
-                    HPOS="184"
-                    VPOS="2059"
-                    WIDTH="500"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="186 2101 184 2059 682 2059 684 2099 682 2114 184 2114"/></Shape>
-	    <String CONTENT="contener su sentimiento,"
-                    HPOS="184"
-                    VPOS="2059"
-                    WIDTH="500"
-                    HEIGHT="55"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_91"
                     TAGREFS="LT75"
                     BASELINE="914 2135 969 2134 1028 2134 1124 2136 1239 2130 1335 2129 1465 2127" 
@@ -1510,23 +1569,6 @@
                     HPOS="910"
                     VPOS="2084"
                     WIDTH="553"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_45"
-                    TAGREFS="LT75"
-                    BASELINE="188 2146 252 2144 445 2143 512 2142 596 2140 708 2145" 
-                    HPOS="182"
-                    VPOS="2093"
-                    WIDTH="525"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="186 2145 182 2103 703 2093 707 2143 703 2156 184 2151"/></Shape>
-	    <String CONTENT="con lágrimas en los ojos,"
-                    HPOS="182"
-                    VPOS="2093"
-                    WIDTH="525"
                     HEIGHT="63"></String>
           </TextLine>
 
@@ -1549,23 +1591,6 @@
 
           
           
-          <TextLine ID="tl_46"
-                    TAGREFS="LT75"
-                    BASELINE="186 2190 221 2190 362 2188 422 2188 574 2190 781 2181" 
-                    HPOS="182"
-                    VPOS="2131"
-                    WIDTH="598"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="184 2189 182 2141 234 2149 257 2139 261 2139 261 2139 263 2139 263 2139 265 2139 385 2139 600 2141 607 2139 617 2131 619 2131 619 2131 619 2131 621 2131 621 2131 621 2131 623 2131 776 2139 780 2179 780 2193 184 2200"/></Shape>
-	    <String CONTENT="le volvió el rostro, diciendo:"
-                    HPOS="182"
-                    VPOS="2131"
-                    WIDTH="598"
-                    HEIGHT="69"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_93"
                     TAGREFS="LT75"
                     BASELINE="913 2223 960 2223 1111 2220 1184 2220 1336 2218 1410 2217 1586 2211" 
@@ -1579,23 +1604,6 @@
                     VPOS="2166"
                     WIDTH="676"
                     HEIGHT="73"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_47"
-                    TAGREFS="LT75"
-                    BASELINE="188 2233 359 2237 415 2240 603 2229" 
-                    HPOS="182"
-                    VPOS="2181"
-                    WIDTH="420"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="186 2231 182 2183 596 2181 602 2227 600 2241 186 2246"/></Shape>
-	    <String CONTENT="llévatela; y apartése"
-                    HPOS="182"
-                    VPOS="2181"
-                    WIDTH="420"
-                    HEIGHT="65"></String>
           </TextLine>
 
           
@@ -1617,23 +1625,6 @@
 
           
           
-          <TextLine ID="tl_48"
-                    TAGREFS="LT75"
-                    BASELINE="188 2278 229 2277 314 2276 440 2275 556 2274 658 2272 753 2271" 
-                    HPOS="175"
-                    VPOS="2225"
-                    WIDTH="576"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="186 2277 175 2241 184 2229 184 2229 186 2229 186 2227 186 2227 188 2227 188 2227 188 2227 190 2227 190 2227 192 2227 192 2227 270 2235 745 2225 751 2269 749 2283 186 2288"/></Shape>
-	    <String CONTENT="de mi vista. Aquí pues dejo"
-                    HPOS="175"
-                    VPOS="2225"
-                    WIDTH="576"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_95"
                     TAGREFS="LT75"
                     BASELINE="911 2312 983 2311 1119 2309 1180 2308 1420 2305" 
@@ -1651,23 +1642,6 @@
 
           
           
-          <TextLine ID="tl_49"
-                    TAGREFS="LT75"
-                    BASELINE="189 2322 223 2322 406 2326 453 2328 524 2318 629 2317 753 2316" 
-                    HPOS="186"
-                    VPOS="2271"
-                    WIDTH="565"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="188 2321 186 2271 749 2271 751 2315 749 2327 188 2334"/></Shape>
-	    <String CONTENT="la historia, y en otra parte"
-                    HPOS="186"
-                    VPOS="2271"
-                    WIDTH="565"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="tl_96"
                     TAGREFS="LT75"
                     BASELINE="914 2356 968 2355 1111 2353 1181 2353 1254 2351 1365 2349" 
@@ -1681,23 +1655,6 @@
                     VPOS="2304"
                     WIDTH="455"
                     HEIGHT="63"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_50"
-                    TAGREFS="LT75"
-                    BASELINE="189 2366 358 2364 463 2365 618 2360" 
-                    HPOS="184"
-                    VPOS="2321"
-                    WIDTH="433"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="188 2365 184 2329 611 2321 617 2359 615 2382 330 2378 314 2388 311 2388 311 2388 311 2388 311 2388 309 2388 309 2388 307 2388 307 2388 303 2388 221 2380 190 2390"/></Shape>
-	    <String CONTENT="remataré este suceso."
-                    HPOS="184"
-                    VPOS="2321"
-                    WIDTH="433"
-                    HEIGHT="69"></String>
           </TextLine>
 
           
@@ -1736,6 +1693,45 @@
 
           
         </TextBlock>
+        
+        <TextBlock HPOS="1011"
+                   VPOS="203"
+                   WIDTH="394"
+                   HEIGHT="111"
+                   ID="r_1_1"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="1011 217 1398 203 1405 303 1014 314"/></Shape>
+          
+          
+          <TextLine ID="tl_1"
+                    TAGREFS="LT78"
+                    BASELINE="1033 280 1215 272 1383 270" 
+                    HPOS="1028"
+                    VPOS="219"
+                    WIDTH="353"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1032 278 1028 219 1377 221 1381 267 1379 288 1032 293"/></Shape>
+	    <String CONTENT="TERCERA PARTE."
+                    HPOS="1028"
+                    VPOS="219"
+                    WIDTH="353"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="257"
+                   VPOS="200"
+                   WIDTH="85"
+                   HEIGHT="64"
+                   ID="r_2_1"
+                   TAGREFS="BT25">
+          <Shape><Polygon POINTS="271 200 342 203 335 257 257 264"/></Shape>
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

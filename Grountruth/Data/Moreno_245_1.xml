@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT12" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT14" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT17" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT20" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT21" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT25" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT28" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT29" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT95" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT97" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT205" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT206" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/>
-    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT74" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT40" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT69" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT75" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT78" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -24,6 +24,111 @@
                   VPOS="0"
                   WIDTH="1737"
                   HEIGHT="2508">
+        
+        <TextBlock HPOS="266"
+                   VPOS="1055"
+                   WIDTH="1330"
+                   HEIGHT="603"
+                   ID="region_1601898790556_6554"
+                   TAGREFS="BT206">
+          <Shape><Polygon POINTS="280 1055 1554 1055 1596 1482 1410 1485 1427 1641 387 1658 430 1486 266 1480"/></Shape>
+          
+          
+          <TextLine ID="line_1601898853939_6577"
+                    
+                    BASELINE="765 1129 1055 1123" 
+                    HPOS="760"
+                    VPOS="1059"
+                    WIDTH="293"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="762 1128 760 1059 1049 1059 1053 1122 1053 1132 762 1134"/></Shape>
+	    <String CONTENT="COLECCION "
+                    HPOS="760"
+                    VPOS="1059"
+                    WIDTH="293"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601898871294_6593"
+                    
+                    BASELINE="293 1291 409 1287 949 1278 1540 1274" 
+                    HPOS="288"
+                    VPOS="1191"
+                    WIDTH="1250"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="292 1289 288 1199 470 1212 637 1212 660 1199 660 1199 660 1199 662 1199 662 1199 664 1199 664 1199 744 1208 758 1197 758 1197 760 1197 760 1197 760 1197 762 1197 762 1197 762 1197 765 1197 765 1197 771 1197 834 1208 871 1197 888 1193 890 1193 890 1193 890 1193 892 1193 892 1193 923 1197 967 1203 1011 1197 1053 1191 1053 1191 1055 1191 1534 1197 1538 1272 1536 1304 1408 1295 1387 1308 1377 1314 1375 1314 1375 1314 1375 1314 1373 1314 1373 1314 1373 1316 1327 1316 1325 1314 1325 1314 1323 1314 1306 1308 1264 1295 1218 1310 1197 1316 1195 1316 1195 1316 1195 1318 1114 1318 1112 1316 1112 1316 1109 1316 1109 1316 1109 1316 1101 1312 1072 1297 894 1297 859 1316 854 1318 854 1318 854 1318 852 1318 852 1318 850 1318 850 1318 850 1318 848 1318 840 1316 792 1302 731 1318 723 1320 721 1320 721 1320 719 1320 719 1320 719 1320 716 1320 710 1318 687 1312 666 1318 658 1322 658 1322 656 1322 656 1322 654 1322 654 1322 654 1322 652 1322 652 1322 652 1322 650 1322 650 1322 650 1320 647 1320 639 1310 618 1320 616 1320 616 1320 614 1320 614 1320 614 1320 292 1325"/></Shape>
+	    <String CONTENT="DE CANCIONES ANDALUZAS, "
+                    HPOS="288"
+                    VPOS="1191"
+                    WIDTH="1250"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601898876550_6600"
+                    
+                    BASELINE="526 1406 1320 1401" 
+                    HPOS="520"
+                    VPOS="1335"
+                    WIDTH="798"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="524 1404 520 1348 568 1337 568 1337 568 1337 570 1337 760 1343 915 1348 976 1339 1011 1335 1011 1335 1013 1335 1066 1337 1172 1345 1243 1335 1252 1335 1252 1335 1254 1335 1254 1335 1254 1335 1256 1335 1256 1335 1256 1335 1258 1335 1258 1335 1272 1345 1310 1335 1318 1400 1318 1410 1180 1425 1180 1425 1178 1425 1178 1425 1176 1425 1145 1417 1116 1410 848 1410 794 1414 769 1429 758 1437 756 1437 756 1437 756 1437 754 1437 754 1437 754 1440 524 1440"/></Shape>
+	    <String CONTENT="PARA CANTAR AL GUSTO DEL DIA."
+                    HPOS="520"
+                    VPOS="1335"
+                    WIDTH="798"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1601898885054_6607"
+                    
+                    BASELINE="427 1621 530 1621 839 1613 1411 1615" 
+                    HPOS="424"
+                    VPOS="1542"
+                    WIDTH="986"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="426 1619 424 1542 510 1559 558 1559 576 1544 576 1542 576 1542 579 1542 579 1542 579 1542 581 1542 581 1542 583 1542 583 1542 583 1542 585 1542 585 1542 589 1544 614 1554 693 1546 727 1542 727 1542 729 1542 729 1542 760 1546 831 1559 898 1559 907 1548 913 1544 913 1542 913 1542 915 1542 915 1542 915 1542 917 1542 917 1542 919 1542 919 1542 919 1542 921 1542 921 1542 921 1542 934 1548 942 1552 959 1548 997 1542 997 1542 999 1542 1360 1542 1360 1542 1360 1542 1362 1542 1410 1557 1410 1613 1408 1621 1112 1634 1109 1634 1109 1634 1109 1634 1107 1634 1086 1628 1082 1626 1080 1628 1076 1634 1074 1634 1074 1636 1074 1636 1072 1636 1072 1636 1072 1636 1070 1636 1070 1636 1068 1636 925 1630 827 1626 629 1634 566 1636 564 1636 564 1636 564 1636 562 1636 562 1636 558 1636 537 1626 524 1636 524 1636 524 1636 522 1636 522 1636 522 1636 520 1636 520 1636 520 1638 426 1638"/></Shape>
+	    <String CONTENT="EL TANGO AMERICANO."
+                    HPOS="424"
+                    VPOS="1542"
+                    WIDTH="986"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1208"
+                   VPOS="139"
+                   WIDTH="288"
+                   HEIGHT="100"
+                   ID="region_1601898773598_6550"
+                   TAGREFS="BT95">
+          <Shape><Polygon POINTS="1210 149 1496 139 1493 236 1208 239"/></Shape>
+          
+          
+          <TextLine ID="line_1601898842939_6570"
+                    
+                    BASELINE="1229 216 1471 211" 
+                    HPOS="1222"
+                    VPOS="152"
+                    WIDTH="247"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1226 215 1222 158 1463 152 1469 209 1469 246 1226 254"/></Shape>
+	    <String CONTENT="(Núm. 253)"
+                    HPOS="1222"
+                    VPOS="152"
+                    WIDTH="247"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
         <TextBlock HPOS="190"
                    VPOS="1688"
@@ -234,94 +339,6 @@
                     VPOS="2223"
                     WIDTH="450"
                     HEIGHT="71"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1208"
-                   VPOS="139"
-                   WIDTH="288"
-                   HEIGHT="100"
-                   ID="region_1601898773598_6550"
-                   TAGREFS="BT95">
-          <Shape><Polygon POINTS="1210 149 1496 139 1493 236 1208 239"/></Shape>
-          
-          
-          <TextLine ID="line_1601898842939_6570"
-                    
-                    BASELINE="1229 216 1471 211" 
-                    HPOS="1222"
-                    VPOS="152"
-                    WIDTH="247"
-                    HEIGHT="102">
-            <Shape><Polygon POINTS="1226 215 1222 158 1463 152 1469 209 1469 246 1226 254"/></Shape>
-	    <String CONTENT="(Núm. 253)"
-                    HPOS="1222"
-                    VPOS="152"
-                    WIDTH="247"
-                    HEIGHT="102"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="266"
-                   VPOS="1055"
-                   WIDTH="1330"
-                   HEIGHT="603"
-                   ID="region_1601898790556_6554"
-                   TAGREFS="BT206">
-          <Shape><Polygon POINTS="280 1055 1554 1055 1596 1482 1410 1485 1427 1641 387 1658 430 1486 266 1480"/></Shape>
-          
-          
-          <TextLine ID="line_1601898853939_6577"
-                    
-                    BASELINE="765 1129 1055 1123" 
-                    HPOS="760"
-                    VPOS="1059"
-                    WIDTH="293"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="762 1128 760 1059 1049 1059 1053 1122 1053 1132 762 1134"/></Shape>
-	    <String CONTENT="COLECCION "
-                    HPOS="760"
-                    VPOS="1059"
-                    WIDTH="293"
-                    HEIGHT="75"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601898871294_6593"
-                    
-                    BASELINE="293 1291 409 1287 949 1278 1540 1274" 
-                    HPOS="288"
-                    VPOS="1191"
-                    WIDTH="1250"
-                    HEIGHT="134">
-            <Shape><Polygon POINTS="292 1289 288 1199 470 1212 637 1212 660 1199 660 1199 660 1199 662 1199 662 1199 664 1199 664 1199 744 1208 758 1197 758 1197 760 1197 760 1197 760 1197 762 1197 762 1197 762 1197 765 1197 765 1197 771 1197 834 1208 871 1197 888 1193 890 1193 890 1193 890 1193 892 1193 892 1193 923 1197 967 1203 1011 1197 1053 1191 1053 1191 1055 1191 1534 1197 1538 1272 1536 1304 1408 1295 1387 1308 1377 1314 1375 1314 1375 1314 1375 1314 1373 1314 1373 1314 1373 1316 1327 1316 1325 1314 1325 1314 1323 1314 1306 1308 1264 1295 1218 1310 1197 1316 1195 1316 1195 1316 1195 1318 1114 1318 1112 1316 1112 1316 1109 1316 1109 1316 1109 1316 1101 1312 1072 1297 894 1297 859 1316 854 1318 854 1318 854 1318 852 1318 852 1318 850 1318 850 1318 850 1318 848 1318 840 1316 792 1302 731 1318 723 1320 721 1320 721 1320 719 1320 719 1320 719 1320 716 1320 710 1318 687 1312 666 1318 658 1322 658 1322 656 1322 656 1322 654 1322 654 1322 654 1322 652 1322 652 1322 652 1322 650 1322 650 1322 650 1320 647 1320 639 1310 618 1320 616 1320 616 1320 614 1320 614 1320 614 1320 292 1325"/></Shape>
-	    <String CONTENT="DE CANCIONES ANDALUZAS, "
-                    HPOS="288"
-                    VPOS="1191"
-                    WIDTH="1250"
-                    HEIGHT="134"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1601898876550_6600"
-                    
-                    BASELINE="526 1406 1320 1401" 
-                    HPOS="520"
-                    VPOS="1335"
-                    WIDTH="798"
-                    HEIGHT="105">
-            <Shape><Polygon POINTS="524 1404 520 1348 568 1337 568 1337 568 1337 570 1337 760 1343 915 1348 976 1339 1011 1335 1011 1335 1013 1335 1066 1337 1172 1345 1243 1335 1252 1335 1252 1335 1254 1335 1254 1335 1254 1335 1256 1335 1256 1335 1256 1335 1258 1335 1258 1335 1272 1345 1310 1335 1318 1400 1318 1410 1180 1425 1180 1425 1178 1425 1178 1425 1176 1425 1145 1417 1116 1410 848 1410 794 1414 769 1429 758 1437 756 1437 756 1437 756 1437 754 1437 754 1437 754 1440 524 1440"/></Shape>
-	    <String CONTENT="PARA CANTAR AL GUSTO DEL DIA."
-                    HPOS="520"
-                    VPOS="1335"
-                    WIDTH="798"
-                    HEIGHT="105"></String>
           </TextLine>
 
           
@@ -579,27 +596,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_1601898885054_6607"
-                    
-                    BASELINE="427 1621 530 1621 839 1613 1411 1615" 
-                    HPOS="424"
-                    VPOS="1542"
-                    WIDTH="986"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="426 1619 424 1542 510 1559 558 1559 576 1544 576 1542 576 1542 579 1542 579 1542 579 1542 581 1542 581 1542 583 1542 583 1542 583 1542 585 1542 585 1542 589 1544 614 1554 693 1546 727 1542 727 1542 729 1542 729 1542 760 1546 831 1559 898 1559 907 1548 913 1544 913 1542 913 1542 915 1542 915 1542 915 1542 917 1542 917 1542 919 1542 919 1542 919 1542 921 1542 921 1542 921 1542 934 1548 942 1552 959 1548 997 1542 997 1542 999 1542 1360 1542 1360 1542 1360 1542 1362 1542 1410 1557 1410 1613 1408 1621 1112 1634 1109 1634 1109 1634 1109 1634 1107 1634 1086 1628 1082 1626 1080 1628 1076 1634 1074 1634 1074 1636 1074 1636 1072 1636 1072 1636 1072 1636 1070 1636 1070 1636 1068 1636 925 1630 827 1626 629 1634 566 1636 564 1636 564 1636 564 1636 562 1636 562 1636 558 1636 537 1626 524 1636 524 1636 524 1636 522 1636 522 1636 522 1636 520 1636 520 1636 520 1638 426 1638"/></Shape>
-	    <String CONTENT="EL TANGO AMERICANO."
-                    HPOS="424"
-                    VPOS="1542"
-                    WIDTH="986"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

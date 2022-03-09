@@ -54,7 +54,7 @@ We chose to manually divide our Groundtruth into three sets (80% train, 10% eval
 ### [Groundtruth test](https://github.com/DesenrollandoElCordel/FoNDUE-Spanish-chapbooks-Dataset/tree/main/Varios-GroundTruth-TEST) ####
 
 A series of tests was done to evaluate the interest of image processing (binarisation, deblurring, luminosity) for character recognition. 
-One can find more information here : [__Readme__ Groundtruth test](https://github.com/DesenrollandoElCordel/Varios-OCR-files/blob/main/Grountruths/Varios-GroundTruth-Test-Alto/README.md). 
+One can find more information here : [__Readme__ Groundtruth test](https://github.com/DesenrollandoElCordel/FoNDUE-Spanish-chapbooks-Dataset/blob/main/Varios-GroundTruth-TEST/README.md). 
 
 The results obtained imply that post-processing with Niblack binarisation gives the best results on the OCRisation of our corpus ( **96.80** %). Regarding segmentation, the Niblack binarisation does not bring better results. 
 _____________

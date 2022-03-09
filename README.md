@@ -2,7 +2,7 @@
 
 This folder contains the documents we used to create our training models, as well as the training models themselves. The directory is divided into two sub-directories : first, the groundtruths, second, the models developed.
 ******
-## [Groundtruths](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths) ##
+## [Groundtruths](https://github.com/DesenrollandoElCordel/FoNDUE-Spanish-chapbooks-Dataset/tree/main/Grountruth) ##
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 The ground truth of the _Varios_ corpus was composed with [the ground truth of the _Moreno_ corpus](https://github.com/DesenrollandoElCordel/Moreno-OCR-files/tree/main/Moreno-GroundTruth) to which we added 5 _pliegos_ from the _Varios_ corpus (32 pages), in order to train our model on data in Catalan and with long s. Therefore, the entire GroundTruth data was OCRed once with ABBYY FineReader and then manually corrected. Finally, all the data was exported in PAGE-XML from [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) for migration to [eScriptorium](https://gitlab.inria.fr/scripta/escriptorium). 
@@ -19,6 +19,7 @@ We have kept both formats in our repository.
 The _SegmOnto_ zones used are : 
 
 - [`MainZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MainZone/MainZone.md), in pink.
+- [`MainZone:columns`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MainZone/MainZone.md), in orange.
 - [`RunningTitleZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/RunningTitleZone/RunningTitleZone.md).
 - [`GraphicZone:illustration`](https://github.com/SegmOnto/Guidelines/blob/main/zones/GraphicZone/DecorationZone.md), in dark green.
 - [`GraphicZone:ornamentation`](https://github.com/SegmOnto/Guidelines/blob/main/zones/GraphicZone/DecorationZone.md), in dark blue. 
@@ -30,13 +31,15 @@ The _SegmOnto_ zones used are :
 - [`MarginTextZone:note`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MarginTextZone/MarginTextZone.md).
 
 To match with the specificities of our corpus, we have used [`CustomZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/CustomZone/CustomZone.md) with our own subtypes, corresponding to our choices of XML-TEI encoding scheme: 
-- `CustomZone:primer_titulo`, blank
-- `CustomZone:subtitle`, in purple
-- `CustomZone:titulo_parte`, yellow 
-- `CustomZone:impresorNum`, brown
+
+- `CustomZone:title`, in purple. 
+- `CustomZone:impresorNum`, in brown, for printer's numbers.
 - `CustomZone:numer_pliego`, when there is mention of the number of _pliegos_ assembled.
  
-A [`CustomLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/CustomLine/CustomLine.md) with the subtype `:trailer` has also been used to indicate _explicit_. 
+For the lines we use : 
+-  [`CustomLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/CustomLine/CustomLine.md) with the subtype `:trailer` to indicate _explicit_. 
+-  [`HeadingLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/HeadingLine/HeadingLine.md). 
+-  [`DefaultLine`](https://github.com/SegmOnto/Guidelines/blob/main/lines/DefaultLine/DefaultLine.md).
 <p class="float" align="center">
     <img src="Readme-picture/Moreno_172.png" width="325"/>
   <img src="Readme-picture/Varios_435.png" width="355"/>

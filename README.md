@@ -47,7 +47,7 @@ For the lines we use :
  
 
 
-### [Split](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Grountruths/Split) ####
+### [Split](https://github.com/DesenrollandoElCordel/FoNDUE-Spanish-chapbooks-Dataset/tree/main/Grountruth/Split) ####
 
 We chose to manually divide our Groundtruth into three sets (80% train, 10% eval and 10% test) in order to ensure that the title pages (where the error rate is often higher due to typography) and the new elements of the _Varios_ corpus are distributed equally. Each set was made up of about 20% of title pages and chapbooks belonging to the _Varios_ corpus. Predefining these three sets also ensures that the results of our different models can be compared.
 
@@ -60,7 +60,7 @@ The results obtained imply that post-processing with Niblack binarisation gives 
 _____________
 _____________
 
-## [Models](https://github.com/DesenrollandoElCordel/Varios-OCR-files/tree/main/Models/Models-htr-Varios) ###
+## [Models](https://github.com/DesenrollandoElCordel/FoNDUE-Spanish-chapbooks-Dataset/tree/main/Models) ###
 
 
 ### Corpus Out of domain ####

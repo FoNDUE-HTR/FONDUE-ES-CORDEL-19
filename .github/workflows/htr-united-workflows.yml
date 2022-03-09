@@ -86,4 +86,4 @@ jobs:
           pip install htrvx
       - name: Run HTRVX
         run: |
-          htrvx --verbose --group --format alto --check-empty --segmonto --xsd --raise-empty ./Grountruth/Data/*.xml
+          htrvx --verbose --group --format alto --check-empty --segmonto --xsd  ./Grountruth/Data/*.xml

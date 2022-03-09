@@ -22,7 +22,7 @@ The _SegmOnto_ zones used are :
 - [`MainZone:columns`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MainZone/MainZone.md), in orange.
 - [`RunningTitleZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/RunningTitleZone/RunningTitleZone.md).
 - [`GraphicZone:illustration`](https://github.com/SegmOnto/Guidelines/blob/main/zones/GraphicZone/DecorationZone.md), in dark green.
-- [`GraphicZone:ornamentation`](https://github.com/SegmOnto/Guidelines/blob/main/zones/GraphicZone/DecorationZone.md), in dark blue. 
+- [`GraphicZone:ornamentation`](https://github.com/SegmOnto/Guidelines/blob/main/zones/GraphicZone/DecorationZone.md). 
 - [`MusicZone`](https://github.com/SegmOnto/Guidelines/blob/main/zones/MusicZone/MusicZone.md) (some of our chapbooks contain sheet music). 
 - [`QuireMarksZone:signature`](https://github.com/SegmOnto/Guidelines/blob/main/zones/QuireMarksZone/QuireMarksZone.md).
 - [`QuireMarksZone:catchwords`](https://github.com/SegmOnto/Guidelines/blob/main/zones/QuireMarksZone/QuireMarksZone.md).

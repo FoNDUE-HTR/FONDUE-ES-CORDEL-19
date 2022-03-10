@@ -625,6 +625,23 @@
 
           
           
+          <TextLine ID="r_1_1l34"
+                    TAGREFS="LT75"
+                    BASELINE="186 1685 212 1687 238 1689 265 1690 291 1691 318 1691 344 1691 371 1691 397 1691 424 1691 450 1691 477 1690 503 1691 530 1691 556 1692 583 1693" 
+                    HPOS="183"
+                    VPOS="1648"
+                    WIDTH="398"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="185 1684 183 1652 479 1648 481 1648 579 1660 581 1691 579 1705 183 1707"/></Shape>
+	    <String CONTENT="y su panadero el otro."
+                    HPOS="183"
+                    VPOS="1648"
+                    WIDTH="398"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="r_1_1l35"
                     TAGREFS="LT75"
                     BASELINE="249 1737 307 1736 365 1736 424 1736 482 1736 541 1736 599 1736 658 1736 716 1737 775 1737 833 1737 891 1737 950 1737 1008 1737 1067 1737 1125 1737 1184 1737 1242 1736 1301 1736 1359 1736 1418 1735" 
@@ -780,27 +797,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="r_1_1l34"
-                    TAGREFS="LT75"
-                    BASELINE="186 1685 212 1687 238 1689 265 1690 291 1691 318 1691 344 1691 371 1691 397 1691 424 1691 450 1691 477 1690 503 1691 530 1691 556 1692 583 1693" 
-                    HPOS="183"
-                    VPOS="1648"
-                    WIDTH="398"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="185 1684 183 1652 479 1648 481 1648 579 1660 581 1691 579 1705 183 1707"/></Shape>
-	    <String CONTENT="y su panadero el otro."
-                    HPOS="183"
-                    VPOS="1648"
-                    WIDTH="398"
-                    HEIGHT="59"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

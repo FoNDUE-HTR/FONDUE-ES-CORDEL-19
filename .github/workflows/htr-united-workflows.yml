@@ -71,6 +71,7 @@ jobs:
       - name: Run ChocoMufin
         run: |
           chocomufin generate table.csv ./Grountruth/Data/*.xml
+          cat table.csv
         
   HTRVX:
     runs-on: ubuntu-latest

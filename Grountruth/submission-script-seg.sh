@@ -15,6 +15,6 @@ cd ${work_directory}
 
 OUTPUT_NAME="output_name"
 
-XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Grountruth/Data/"
+XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Grountruth/Data+varios/"
 echo "KETOS training"
-srun ketos segtrain -f alto -t /home/users/j/jacsont/Varios-OCR-files/Grountruth/Split/train.txt -e /home/users/j/jacsont/Varios-OCR-files/Grountruth/Split/eval.txt -d cuda "${XML_FOLDER}/*.xml"
+srun ketos segtrain -f alto -d cuda "${XML_FOLDER}/*.xml"

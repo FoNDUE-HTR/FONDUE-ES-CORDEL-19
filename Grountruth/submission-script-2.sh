@@ -9,7 +9,11 @@ module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 pip install albumentations
 
+<<<<<<< HEAD
 work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-htr-Varios/Alto/Model_data+varios_2"
+=======
+work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-htr-Varios/Alto/Model_data+varios_3"
+>>>>>>> a3fb5344bad49d9906e927d22f93ab94f6ab79a2
 mkdir -p ${work_directory}
 cd ${work_directory}
 

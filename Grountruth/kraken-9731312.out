@@ -1,0 +1,135 @@
+Requirement already satisfied: albumentations in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (1.1.0)
+Requirement already satisfied: scikit-image>=0.16.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (0.19.0)
+Requirement already satisfied: opencv-python-headless>=4.1.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (4.5.5.62)
+Requirement already satisfied: PyYAML in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (6.0)
+Requirement already satisfied: numpy>=1.11.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (1.21.4)
+Requirement already satisfied: qudida>=0.0.4 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (0.0.4)
+Requirement already satisfied: scipy in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (1.7.3)
+Requirement already satisfied: imageio>=2.4.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.13.3)
+Requirement already satisfied: packaging>=20.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (21.3)
+Requirement already satisfied: pillow!=7.1.0,!=7.1.1,!=8.3.0,>=6.1.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (8.4.0)
+Requirement already satisfied: networkx>=2.2 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.6.3)
+Requirement already satisfied: PyWavelets>=1.1.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (1.2.0)
+Requirement already satisfied: tifffile>=2019.7.26 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2021.11.2)
+Requirement already satisfied: scikit-learn>=0.19.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (1.0.2)
+Requirement already satisfied: typing-extensions in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (4.0.1)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from packaging>=20.0->scikit-image>=0.16.1->albumentations) (3.0.6)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (3.1.0)
+Requirement already satisfied: joblib>=0.11 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (1.1.0)
+WARNING: You are using pip version 20.2.1; however, version 22.0.4 is available.
+You should consider upgrading via the '/home/users/j/jacsont/Sandozenv/bin/python3 -m pip install --upgrade pip' command.
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[264.0047] Baseline outside of image bounds 
+[400.1441] Baseline outside of image bounds 
+[413.0694] Text line " " is empty after transformations 
+[413.0698] Text line " " is empty after transformations 
+[413.0699] Text line " " is empty after transformations 
+[413.0700] Text line " " is empty after transformations 
+[413.0700] Text line " " is empty after transformations 
+[413.6131] Text line " " is empty after transformations 
+[413.6135] Text line " " is empty after transformations 
+[413.6136] Text line " " is empty after transformations 
+[414.0406] Text line " " is empty after transformations 
+[414.0409] Text line " " is empty after transformations 
+[414.0410] Text line " " is empty after transformations 
+[414.0411] Text line " " is empty after transformations 
+[414.0411] Text line " " is empty after transformations 
+[414.4969] Text line " " is empty after transformations 
+[414.4972] Text line " " is empty after transformations 
+[414.4973] Text line " " is empty after transformations 
+[414.4974] Text line " " is empty after transformations 
+[414.4975] Text line " " is empty after transformations 
+[414.8060] Text line " " is empty after transformations 
+[414.8255] Text line " " is empty after transformations 
+[414.8256] Text line " " is empty after transformations 
+[414.8258] Text line " " is empty after transformations 
+[414.8259] Text line " " is empty after transformations 
+[414.8259] Text line " " is empty after transformations 
+[415.7781] Text line " " is empty after transformations 
+[415.7795] Text line " " is empty after transformations 
+[778.5414] Text line " " is empty after transformations 
+[1275.3390] Baseline outside of image bounds 
+[1398.5528] Line polygon outside of image bounds 
+[1687.2271] Line polygon outside of image bounds 
+[1726.2561] Line polygon outside of image bounds 
+[2512.7291] Line polygon outside of image bounds 
+[2921.6308] Line polygon outside of image bounds 
+[5286.4792] Line polygon outside of image bounds 
+Building validation set
+[6872.9785] alphabet mismatch: chars in training set only: {'^', 'ᗞ', 'ᗅ', '#', '’', '|', '̂', '&', '%', 'ᑕ', ']', '/', '[', 'ª', 'ſ', '„', '•', '̈', '=', 'W'} (not included in accuracy test during training) 
+[6872.9787] alphabet mismatch: chars in validation set only: {'¥', '_'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.9053 63176 5984
+stage 2/∞
+Accuracy report (2) 0.9467 63176 3367
+stage 3/∞
+Accuracy report (3) 0.9571 63176 2713
+stage 4/∞
+Accuracy report (4) 0.9591 63176 2585
+stage 5/∞
+Accuracy report (5) 0.9634 63176 2311
+stage 6/∞
+Accuracy report (6) 0.9643 63176 2254
+stage 7/∞
+Accuracy report (7) 0.9649 63176 2217
+stage 8/∞
+Accuracy report (8) 0.9655 63176 2180
+stage 9/∞
+Accuracy report (9) 0.9664 63176 2122
+stage 10/∞
+Accuracy report (10) 0.9660 63176 2146
+stage 11/∞
+Accuracy report (11) 0.9672 63176 2072
+stage 12/∞
+Accuracy report (12) 0.9672 63176 2075
+stage 13/∞
+Accuracy report (13) 0.9669 63176 2090
+stage 14/∞
+Accuracy report (14) 0.9671 63176 2077
+stage 15/∞
+Accuracy report (15) 0.9677 63176 2041
+stage 16/∞
+Accuracy report (16) 0.9674 63176 2062
+stage 17/∞
+Accuracy report (17) 0.9680 63176 2024
+stage 18/∞
+Accuracy report (18) 0.9678 63176 2037
+stage 19/∞
+Accuracy report (19) 0.9673 63176 2069
+stage 20/∞
+Accuracy report (20) 0.9681 63176 2018
+stage 21/∞
+Accuracy report (21) 0.9680 63176 2020
+stage 22/∞
+Accuracy report (22) 0.9688 63176 1971
+stage 23/∞
+Accuracy report (23) 0.9683 63176 2003
+stage 24/∞
+Accuracy report (24) 0.9680 63176 2021
+stage 25/∞
+Accuracy report (25) 0.9687 63176 1980
+stage 26/∞
+Accuracy report (26) 0.9691 63176 1953
+stage 27/∞
+Accuracy report (27) 0.9685 63176 1992
+stage 28/∞
+Accuracy report (28) 0.9683 63176 2000
+stage 29/∞
+Accuracy report (29) 0.9682 63176 2008
+stage 30/∞
+Accuracy report (30) 0.9687 63176 1979
+stage 31/∞
+Accuracy report (31) 0.9690 63176 1959
+stage 32/∞
+Accuracy report (32) 0.9688 63176 1969
+stage 33/∞
+Accuracy report (33) 0.9686 63176 1985
+stage 34/∞
+Accuracy report (34) 0.9684 63176 1995
+stage 35/∞
+Accuracy report (35) 0.9679 63176 2029
+Moving best model model_15.mlmodel (0.9676934480667114) to model_best.mlmodel

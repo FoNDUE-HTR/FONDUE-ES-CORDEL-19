@@ -12,13 +12,13 @@
   
   <Tags>
     <OtherTag ID="BT221" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT222" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT223" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/><OtherTag ID="BT224" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT225" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT226" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT227" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT228" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT229" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT231" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT232" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT233" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT234" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
-    <OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT84" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT90" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1860"
           HEIGHT="2629"
-          PHYSICAL_IMG_NR="220"
+          PHYSICAL_IMG_NR="4"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -62,7 +62,7 @@
           
           
           <TextLine ID="eSc_line_d5811cd4"
-                    TAGREFS="LT84"
+                    TAGREFS="LT90"
                     BASELINE="215 1522 1596 1492" 
                     HPOS="210.0"
                     VPOS="1347.0"
@@ -79,14 +79,14 @@
           
           
           <TextLine ID="eSc_line_af63c33f"
-                    TAGREFS="LT84"
+                    TAGREFS="LT90"
                     BASELINE="388 1614 1410 1588" 
                     HPOS="381.0"
                     VPOS="1507.0"
                     WIDTH="1027.0"
                     HEIGHT="136.0">
             <Shape><Polygon POINTS="386 1612 381 1537 620 1537 631 1531 640 1524 642 1524 642 1524 642 1524 644 1524 644 1524 644 1524 647 1524 647 1524 688 1531 719 1535 739 1529 767 1520 769 1520 769 1520 769 1520 772 1520 772 1520 774 1520 802 1529 813 1531 822 1529 844 1520 844 1520 846 1520 846 1520 848 1520 848 1520 848 1520 851 1520 851 1520 866 1527 877 1531 923 1527 995 1518 995 1518 997 1518 997 1518 1037 1524 1059 1527 1065 1522 1085 1513 1085 1513 1085 1513 1087 1513 1087 1513 1087 1513 1090 1513 1090 1513 1092 1513 1127 1522 1140 1524 1158 1522 1232 1507 1232 1507 1232 1507 1234 1507 1403 1518 1408 1586 1405 1619 642 1619 535 1621 526 1625 471 1643 469 1643 469 1643 469 1643 467 1643 467 1643 383 1625"/></Shape>
-	    <String CONTENT="Ó EL NUEVO CONVIDADO DE PIEDRA."
+	    <String CONTENT="Ó EL NUEVO CONVIDADO DE PIEDRA."
                     HPOS="381.0"
                     VPOS="1507.0"
                     WIDTH="1027.0"
@@ -106,7 +106,7 @@
           
           
           <TextLine ID="eSc_line_40a337ae"
-                    TAGREFS="LT84"
+                    TAGREFS="LT90"
                     BASELINE="359 1689 686 1685" 
                     HPOS="353.0"
                     VPOS="1638.0"
@@ -130,7 +130,7 @@
                     WIDTH="441.0"
                     HEIGHT="53.0">
             <Shape><Polygon POINTS="219 1730 214 1697 649 1686 655 1719 655 1728 219 1739"/></Shape>
-	    <String CONTENT="Allá en Sevilla en los años"
+	    <String CONTENT="Allá en Sevilla en los años"
                     HPOS="214.0"
                     VPOS="1686.0"
                     WIDTH="441.0"
@@ -164,7 +164,7 @@
                     WIDTH="487.0"
                     HEIGHT="55.0">
             <Shape><Polygon POINTS="190 1805 186 1770 666 1759 673 1794 673 1811 190 1814"/></Shape>
-	    <String CONTENT="vivió aquel Don Juan Tenorio"
+	    <String CONTENT="vivió aquel Don Juan Tenorio"
                     HPOS="186.0"
                     VPOS="1759.0"
                     WIDTH="487.0"
@@ -198,7 +198,7 @@
                     WIDTH="401.0"
                     HEIGHT="57.0">
             <Shape><Polygon POINTS="225 1875 221 1835 616 1831 622 1868 620 1881 225 1888"/></Shape>
-	    <String CONTENT="Entre el y D. Luis Mejla"
+	    <String CONTENT="Entre él y D. Luis Mejía"
                     HPOS="221.0"
                     VPOS="1831.0"
                     WIDTH="401.0"
@@ -215,7 +215,7 @@
                     WIDTH="518.0"
                     HEIGHT="70.0">
             <Shape><Polygon POINTS="193 1910 188 1866 699 1860 706 1903 701 1927 587 1916 486 1927 462 1930 462 1930 460 1930 460 1930 458 1930 458 1930 458 1930 454 1927 436 1919 193 1925"/></Shape>
-	    <String CONTENT="habo un tiempo gran franqueza;"
+	    <String CONTENT="hubo un tiempo gran franqueza;"
                     HPOS="188.0"
                     VPOS="1860.0"
                     WIDTH="518.0"
@@ -249,7 +249,7 @@
                     WIDTH="358.0"
                     HEIGHT="50.0">
             <Shape><Polygon POINTS="193 1987 188 1947 539 1943 546 1978 546 1989 193 1993"/></Shape>
-	    <String CONTENT="no fué cosa daradera."
+	    <String CONTENT="no fué cosa duradera."
                     HPOS="188.0"
                     VPOS="1943.0"
                     WIDTH="358.0"
@@ -283,7 +283,7 @@
                     WIDTH="373.0"
                     HEIGHT="55.0">
             <Shape><Polygon POINTS="193 2052 188 2017 554 2015 561 2048 559 2059 193 2070"/></Shape>
-	    <String CONTENT="célebres en la leyenda"
+	    <String CONTENT="célebres en la leyenda"
                     HPOS="188.0"
                     VPOS="2015.0"
                     WIDTH="373.0"
@@ -361,7 +361,7 @@
                     WIDTH="445.0"
                     HEIGHT="57.0">
             <Shape><Polygon POINTS="938 1711 934 1675 1373 1662 1379 1695 1379 1713 938 1719"/></Shape>
-	    <String CONTENT="está escribiendo una carta."
+	    <String CONTENT="está escribiendo una carta."
                     HPOS="934.0"
                     VPOS="1662.0"
                     WIDTH="445.0"
@@ -378,7 +378,7 @@
                     WIDTH="360.0"
                     HEIGHT="50.0">
             <Shape><Polygon POINTS="973 1743 969 1711 1322 1702 1329 1735 1329 1750 973 1752"/></Shape>
-	    <String CONTENT="Carta para doña Inés,"
+	    <String CONTENT="Carta para doña Inés,"
                     HPOS="969.0"
                     VPOS="1702.0"
                     WIDTH="360.0"
@@ -429,7 +429,7 @@
                     WIDTH="401.0"
                     HEIGHT="57.0">
             <Shape><Polygon POINTS="947 1853 943 1814 1337 1809 1344 1842 1344 1857 947 1866"/></Shape>
-	    <String CONTENT="tendrá buena educacion."
+	    <String CONTENT="tendrá buena educacion."
                     HPOS="943.0"
                     VPOS="1809.0"
                     WIDTH="401.0"
@@ -463,7 +463,7 @@
                     WIDTH="458.0"
                     HEIGHT="79.0">
             <Shape><Polygon POINTS="949 1927 945 1879 1008 1888 1175 1877 1346 1866 1348 1866 1348 1866 1348 1866 1399 1877 1403 1912 1401 1934 1230 1925 949 1945"/></Shape>
-	    <String CONTENT="para entregarsela á Brigida,"
+	    <String CONTENT="para entregarsela á Brigida,"
                     HPOS="945.0"
                     VPOS="1866.0"
                     WIDTH="458.0"
@@ -497,7 +497,7 @@
                     WIDTH="388.0"
                     HEIGHT="61.0">
             <Shape><Polygon POINTS="951 1991 947 1960 1329 1947 1335 1987 1333 1998 951 2008"/></Shape>
-	    <String CONTENT="del Canvento de la niña"
+	    <String CONTENT="del Convento de la niña"
                     HPOS="947.0"
                     VPOS="1947.0"
                     WIDTH="388.0"
@@ -514,7 +514,7 @@
                     WIDTH="469.0"
                     HEIGHT="62.0">
             <Shape><Polygon POINTS="949 2030 943 1995 1405 1984 1412 2019 1412 2037 949 2046"/></Shape>
-	    <String CONTENT="que á Ciulti le da una llave,"
+	    <String CONTENT="que á Ciulti le da una llave,"
                     HPOS="943.0"
                     VPOS="1984.0"
                     WIDTH="469.0"
@@ -548,7 +548,7 @@
                     WIDTH="397.0"
                     HEIGHT="59.0">
             <Shape><Polygon POINTS="949 2103 945 2070 1335 2059 1342 2092 1342 2105 949 2118"/></Shape>
-	    <String CONTENT="entrarán en el convento"
+	    <String CONTENT="entrarán en el convento"
                     HPOS="945.0"
                     VPOS="2059.0"
                     WIDTH="397.0"
@@ -565,7 +565,7 @@
                     WIDTH="399.0"
                     HEIGHT="74.0">
             <Shape><Polygon POINTS="951 2140 947 2103 1340 2094 1346 2131 1344 2160 1269 2151 1201 2160 1140 2166 1140 2166 1138 2166 1033 2157 1028 2157 1028 2157 1015 2168 1015 2168 1013 2168 1013 2168 1013 2168 1011 2168 1011 2168 1008 2168 1008 2168 1008 2168 949 2155"/></Shape>
-	    <String CONTENT="á ejecular su conquista."
+	    <String CONTENT="á ejecular su conquista."
                     HPOS="947.0"
                     VPOS="2094.0"
                     WIDTH="399.0"
@@ -619,7 +619,7 @@
                     WIDTH="336.0"
                     HEIGHT="59.0">
             <Shape><Polygon POINTS="236 2291 232 2245 561 2239 568 2276 568 2287 236 2298"/></Shape>
-	    <String CONTENT="Es Carnaval: antifáz"
+	    <String CONTENT="Es Carnaval: antifáz"
                     HPOS="232.0"
                     VPOS="2239.0"
                     WIDTH="336.0"

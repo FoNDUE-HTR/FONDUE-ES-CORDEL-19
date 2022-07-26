@@ -12,13 +12,13 @@
   
   <Tags>
     <OtherTag ID="BT221" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT222" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT223" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/><OtherTag ID="BT224" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT225" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT226" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT227" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT228" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT229" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT231" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT232" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT233" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT234" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
-    <OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT84" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT90" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1753"
           HEIGHT="2480"
-          PHYSICAL_IMG_NR="222"
+          PHYSICAL_IMG_NR="6"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -42,7 +42,7 @@
                     WIDTH="428.0"
                     HEIGHT="89.0">
             <Shape><Polygon POINTS="150 117 142 76 177 51 179 51 179 51 179 51 181 51 181 51 181 51 183 51 183 51 183 51 186 51 250 72 349 66 359 51 361 51 361 49 361 49 363 49 363 49 363 49 365 49 365 49 367 49 432 49 432 49 432 49 434 49 434 49 434 49 436 49 436 49 456 68 458 68 562 66 568 113 570 121 549 138 549 138 547 138 547 138 547 138 545 138 545 138 545 138 543 138 376 124 365 124 150 126"/></Shape>
-	    <String CONTENT="«Doña Inés del alma mias"
+	    <String CONTENT="«Doña Inés del alma mia»"
                     HPOS="142.0"
                     VPOS="49.0"
                     WIDTH="428.0"
@@ -76,7 +76,7 @@
                     WIDTH="380.0"
                     HEIGHT="58.0">
             <Shape><Polygon POINTS="113 192 109 150 483 146 489 188 487 204 113 204"/></Shape>
-	    <String CONTENT="Inés con estas palabras"
+	    <String CONTENT="Inés con estas palabras"
                     HPOS="109.0"
                     VPOS="146.0"
                     WIDTH="380.0"
@@ -110,7 +110,7 @@
                     WIDTH="373.0"
                     HEIGHT="53.0">
             <Shape><Polygon POINTS="155 258 155 219 520 231 523 264 518 272 150 268"/></Shape>
-	    <String CONTENT="Ya leyendo li inocente"
+	    <String CONTENT="Va leyendo la inocente"
                     HPOS="150.0"
                     VPOS="219.0"
                     WIDTH="373.0"
@@ -127,7 +127,7 @@
                     WIDTH="416.0"
                     HEIGHT="64.0">
             <Shape><Polygon POINTS="113 295 111 260 523 258 527 301 523 322 392 318 392 318 392 318 390 318 390 318 388 318 388 318 374 307 111 314"/></Shape>
-	    <String CONTENT="y los ojois se le enturbian,"
+	    <String CONTENT="y los ojos se le enturbian,"
                     HPOS="111.0"
                     VPOS="258.0"
                     WIDTH="416.0"
@@ -161,7 +161,7 @@
                     WIDTH="457.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="111 372 109 336 564 326 566 372 564 386 109 380"/></Shape>
-	    <String CONTENT="«Seguid, seguid la leclura.»"
+	    <String CONTENT="«Seguid, seguid la lectura.»"
                     HPOS="109.0"
                     VPOS="326.0"
                     WIDTH="457.0"
@@ -178,7 +178,7 @@
                     WIDTH="554.0"
                     HEIGHT="73.0">
             <Shape><Polygon POINTS="148 405 148 369 702 372 702 405 702 442 587 442 585 440 585 440 582 440 582 440 582 440 574 436 535 415 485 427 483 427 483 427 481 427 481 427 481 427 479 427 436 415 148 419"/></Shape>
-	    <String CONTENT="Dan lás nueve: el toque de ánimas"
+	    <String CONTENT="Dan las nueve: el toque de ánimas"
                     HPOS="148.0"
                     VPOS="369.0"
                     WIDTH="554.0"
@@ -229,7 +229,7 @@
                     WIDTH="413.0"
                     HEIGHT="51.0">
             <Shape><Polygon POINTS="111 514 105 477 512 473 518 508 516 524 109 522"/></Shape>
-	    <String CONTENT="Tués le ve y se desmaya."
+	    <String CONTENT="Inés le vé y se desmaya."
                     HPOS="105.0"
                     VPOS="473.0"
                     WIDTH="413.0"
@@ -246,7 +246,7 @@
                     WIDTH="424.0"
                     HEIGHT="54.0">
             <Shape><Polygon POINTS="148 547 148 508 572 514 572 547 572 562 148 562"/></Shape>
-	    <String CONTENT="Tenorio ta toma en brazos"
+	    <String CONTENT="Tenorio la toma en brazos"
                     HPOS="148.0"
                     VPOS="508.0"
                     WIDTH="424.0"
@@ -297,7 +297,7 @@
                     WIDTH="376.0"
                     HEIGHT="53.0">
             <Shape><Polygon POINTS="115 657 111 622 481 620 487 653 485 669 115 673"/></Shape>
-	    <String CONTENT="y Ciulti carga con ella."
+	    <String CONTENT="y Ciutti carga con ella."
                     HPOS="111.0"
                     VPOS="620.0"
                     WIDTH="376.0"
@@ -331,7 +331,7 @@
                     WIDTH="321.0"
                     HEIGHT="53.0">
             <Shape><Polygon POINTS="115 725 113 688 429 688 434 721 432 733 115 741"/></Shape>
-	    <String CONTENT="porque ruido sintió:"
+	    <String CONTENT="porque ruido sintió:"
                     HPOS="113.0"
                     VPOS="688.0"
                     WIDTH="321.0"
@@ -365,7 +365,7 @@
                     WIDTH="459.0"
                     HEIGHT="62.0">
             <Shape><Polygon POINTS="109 799 107 764 564 756 566 799 564 818 107 812"/></Shape>
-	    <String CONTENT="que allá viene por su honor."
+	    <String CONTENT="que allá viene por su honor."
                     HPOS="107.0"
                     VPOS="756.0"
                     WIDTH="459.0"
@@ -382,7 +382,7 @@
                     WIDTH="451.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="146 837 144 799 591 795 595 839 593 863 502 863 500 861 500 861 498 861 489 859 444 845 336 855 316 855 314 855 314 855 314 855 312 855 312 855 312 855 310 855 310 855 310 853 308 853 299 845 144 847"/></Shape>
-	    <String CONTENT="Pronto la carta vé en tierra;"
+	    <String CONTENT="Pronto la carta vé en tierra;"
                     HPOS="144.0"
                     VPOS="795.0"
                     WIDTH="451.0"
@@ -399,7 +399,7 @@
                     WIDTH="360.0"
                     HEIGHT="58.0">
             <Shape><Polygon POINTS="113 868 113 824 467 832 469 872 465 882 109 878"/></Shape>
-	    <String CONTENT="leyendo está con afan:"
+	    <String CONTENT="leyendo está con afan:"
                     HPOS="109.0"
                     VPOS="824.0"
                     WIDTH="360.0"
@@ -416,7 +416,7 @@
                     WIDTH="453.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="113 907 111 868 562 865 564 907 562 921 111 917"/></Shape>
-	    <String CONTENT="vé que á su hija es dirigida"
+	    <String CONTENT="vé que á su hija es dirigida"
                     HPOS="111.0"
                     VPOS="865.0"
                     WIDTH="453.0"
@@ -484,7 +484,7 @@
                     WIDTH="420.0"
                     HEIGHT="50.0">
             <Shape><Polygon POINTS="115 1049 115 1010 535 1016 535 1049 535 1060 115 1060"/></Shape>
-	    <String CONTENT="«Señora voy por mi honor"
+	    <String CONTENT="«Señora voy por mi honor"
                     HPOS="115.0"
                     VPOS="1010.0"
                     WIDTH="420.0"
@@ -501,7 +501,7 @@
                     WIDTH="467.0"
                     HEIGHT="87.0">
             <Shape><Polygon POINTS="111 1087 105 1051 566 1039 572 1080 572 1118 483 1120 481 1120 481 1120 479 1120 479 1120 473 1118 440 1103 415 1116 415 1116 415 1116 413 1116 413 1116 413 1116 411 1116 266 1105 229 1116 200 1124 198 1124 198 1124 198 1126 167 1126 165 1124 165 1124 163 1124 163 1124 163 1124 161 1124 161 1124 161 1122 152 1116 144 1107 111 1113"/></Shape>
-	    <String CONTENT="que os roban á vos de aquí.»"
+	    <String CONTENT="que os roban á vos de aquí.»"
                     HPOS="105.0"
                     VPOS="1039.0"
                     WIDTH="467.0"
@@ -528,7 +528,7 @@
                     WIDTH="393.0"
                     HEIGHT="74.0">
             <Shape><Polygon POINTS="868 121 870 62 915 76 1060 70 1215 62 1217 62 1217 62 1219 62 1219 62 1261 78 1258 121 1258 132 868 136"/></Shape>
-	    <String CONTENT="Tenorio ruega á los dos,"
+	    <String CONTENT="Tenorio ruega á los dos,"
                     HPOS="868.0"
                     VPOS="62.0"
                     WIDTH="393.0"
@@ -579,7 +579,7 @@
                     WIDTH="417.0"
                     HEIGHT="49.0">
             <Shape><Polygon POINTS="868 231 866 196 1281 194 1283 231 1283 243 868 243"/></Shape>
-	    <String CONTENT="mata al padre de su Inés;"
+	    <String CONTENT="mata al padre de su Inés;"
                     HPOS="866.0"
                     VPOS="194.0"
                     WIDTH="417.0"
@@ -613,7 +613,7 @@
                     WIDTH="452.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="868 303 866 262 1314 266 1318 299 1316 312 868 318"/></Shape>
-	    <String CONTENT="le hiere y muere á sus piés:"
+	    <String CONTENT="le hiere y muere á sus piés:"
                     HPOS="866.0"
                     VPOS="262.0"
                     WIDTH="452.0"
@@ -681,7 +681,7 @@
                     WIDTH="446.0"
                     HEIGHT="74.0">
             <Shape><Polygon POINTS="868 446 864 415 1304 409 1310 440 1308 481 1120 483 1118 483 1118 483 1116 483 1116 483 1116 483 1114 483 1099 473 1074 460 983 460 971 469 952 477 952 477 950 477 950 477 950 477 948 477 948 477 866 462"/></Shape>
-	    <String CONTENT="respunda el cielo; yo no.—"
+	    <String CONTENT="responda el cielo; yo no.—"
                     HPOS="864.0"
                     VPOS="409.0"
                     WIDTH="446.0"
@@ -725,7 +725,7 @@
                     WIDTH="444.0"
                     HEIGHT="79.0">
             <Shape><Polygon POINTS="901 622 893 584 942 555 944 555 944 555 946 555 946 555 948 555 1046 555 1046 555 1046 555 1048 555 1048 555 1048 555 1087 576 1331 574 1337 617 1337 632 901 634"/></Shape>
-	    <String CONTENT="Cinco años han trascurrido"
+	    <String CONTENT="Cinco años han trascurrido"
                     HPOS="893.0"
                     VPOS="555.0"
                     WIDTH="444.0"
@@ -742,7 +742,7 @@
                     WIDTH="403.0"
                     HEIGHT="51.0">
             <Shape><Polygon POINTS="870 690 870 657 1267 661 1269 694 1265 708 866 700"/></Shape>
-	    <String CONTENT="y al fin regresa á Sevilla"
+	    <String CONTENT="y al fin regresa á Sevilla"
                     HPOS="866.0"
                     VPOS="657.0"
                     WIDTH="403.0"
@@ -759,7 +759,7 @@
                     WIDTH="374.0"
                     HEIGHT="48.0">
             <Shape><Polygon POINTS="868 731 864 700 1232 698 1238 729 1236 746 868 746"/></Shape>
-	    <String CONTENT="á buscar dulce reposo."
+	    <String CONTENT="á buscar dulce reposo."
                     HPOS="864.0"
                     VPOS="698.0"
                     WIDTH="374.0"
@@ -793,7 +793,7 @@
                     WIDTH="444.0"
                     HEIGHT="54.0">
             <Shape><Polygon POINTS="903 768 899 729 1337 727 1343 764 1341 781 903 781"/></Shape>
-	    <String CONTENT="Al llegar vé que el palacio"
+	    <String CONTENT="Al llegar vé que el palacio"
                     HPOS="899.0"
                     VPOS="727.0"
                     WIDTH="444.0"
@@ -810,7 +810,7 @@
                     WIDTH="459.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="868 839 868 795 1323 808 1325 843 1325 851 1302 863 1302 863 1302 863 1300 863 1300 863 1300 863 1298 863 1120 855 1043 851 866 857"/></Shape>
-	    <String CONTENT="porque esta fué de su padre"
+	    <String CONTENT="porque esta fué de su padre"
                     HPOS="866.0"
                     VPOS="795.0"
                     WIDTH="459.0"
@@ -861,7 +861,7 @@
                     WIDTH="399.0"
                     HEIGHT="47.0">
             <Shape><Polygon POINTS="903 911 903 878 1300 878 1300 911 1298 925 901 921"/></Shape>
-	    <String CONTENT="Allí están las sepulturas"
+	    <String CONTENT="Allí están las sepulturas"
                     HPOS="901.0"
                     VPOS="878.0"
                     WIDTH="399.0"
@@ -878,7 +878,7 @@
                     WIDTH="382.0"
                     HEIGHT="48.0">
             <Shape><Polygon POINTS="868 983 868 948 1248 948 1248 983 1246 996 866 992"/></Shape>
-	    <String CONTENT="de Mejia... y la de Inés"
+	    <String CONTENT="de Mejia... y la de Inés"
                     HPOS="866.0"
                     VPOS="948.0"
                     WIDTH="382.0"
@@ -895,7 +895,7 @@
                     WIDTH="428.0"
                     HEIGHT="54.0">
             <Shape><Polygon POINTS="868 1014 868 979 1292 985 1294 1018 1292 1025 866 1033"/></Shape>
-	    <String CONTENT="que murió de sentimiento."
+	    <String CONTENT="que murió de sentimiento."
                     HPOS="866.0"
                     VPOS="979.0"
                     WIDTH="428.0"
@@ -912,7 +912,7 @@
                     WIDTH="475.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="903 1051 901 1014 1374 1012 1376 1051 1374 1068 901 1066"/></Shape>
-	    <String CONTENT="En cada una hay una estátua"
+	    <String CONTENT="En cada una hay una estátua"
                     HPOS="901.0"
                     VPOS="1012.0"
                     WIDTH="475.0"
@@ -946,7 +946,7 @@
                     WIDTH="475.0"
                     HEIGHT="66.0">
             <Shape><Polygon POINTS="870 1120 870 1085 1343 1091 1345 1126 1341 1151 1157 1132 942 1142 915 1142 913 1142 913 1142 913 1142 911 1142 911 1142 909 1142 909 1140 888 1130 870 1140"/></Shape>
-	    <String CONTENT="y el escultor vá á marcharse,"
+	    <String CONTENT="y el escultor vá á marcharse,"
                     HPOS="870.0"
                     VPOS="1085.0"
                     WIDTH="475.0"
@@ -1031,7 +1031,7 @@
                     WIDTH="432.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="868 1304 866 1262 1294 1264 1298 1299 1296 1310 868 1318"/></Shape>
-	    <String CONTENT="los crimenes y conquistas."
+	    <String CONTENT="los crímenes y conquistas."
                     HPOS="866.0"
                     VPOS="1262.0"
                     WIDTH="432.0"
@@ -1048,7 +1048,7 @@
                     WIDTH="527.0"
                     HEIGHT="97.0">
             <Shape><Polygon POINTS="903 1341 901 1302 1426 1295 1428 1341 1428 1392 1339 1392 1337 1390 1337 1390 1335 1390 1308 1382 1211 1351 1062 1361 1060 1361 1060 1361 1060 1361 1058 1361 1058 1361 1058 1361 1056 1361 1056 1361 1043 1351 903 1351"/></Shape>
-	    <String CONTENT="Al saber que aquel que le habls"
+	    <String CONTENT="Al saber que aquel que le habla"
                     HPOS="901.0"
                     VPOS="1295.0"
                     WIDTH="527.0"
@@ -1116,7 +1116,7 @@
                     WIDTH="399.0"
                     HEIGHT="66.0">
             <Shape><Polygon POINTS="903 1483 903 1448 1296 1450 1296 1483 1296 1514 1215 1514 1213 1512 1213 1512 1211 1512 1211 1512 1211 1512 1203 1508 1165 1492 1081 1502 1062 1504 1062 1504 1060 1504 1060 1504 1060 1504 1058 1504 1058 1504 1050 1502 1031 1494 934 1494 932 1496 924 1502 924 1504 924 1504 921 1504 921 1504 921 1504 919 1504 919 1504 919 1504 917 1504 917 1504 915 1504 915 1504 915 1504 913 1504 897 1494"/></Shape>
-	    <String CONTENT="Tenorio altivo álo sumo"
+	    <String CONTENT="Tenorio altivo á lo sumo"
                     HPOS="897.0"
                     VPOS="1448.0"
                     WIDTH="399.0"
@@ -1150,7 +1150,7 @@
                     WIDTH="502.0"
                     HEIGHT="52.0">
             <Shape><Polygon POINTS="870 1554 870 1516 1370 1516 1370 1558 1368 1564 868 1568"/></Shape>
-	    <String CONTENT="y dice hablando á los muertos:"
+	    <String CONTENT="y dice hablando á los muertos:"
                     HPOS="868.0"
                     VPOS="1516.0"
                     WIDTH="502.0"
@@ -1167,7 +1167,7 @@
                     WIDTH="465.0"
                     HEIGHT="47.0">
             <Shape><Polygon POINTS="870 1591 870 1558 1335 1558 1335 1591 1335 1601 870 1605"/></Shape>
-	    <String CONTENT="«Nn os podeis quejar de mi.»"
+	    <String CONTENT="«No os podeis quejar de mí.»"
                     HPOS="870.0"
                     VPOS="1558.0"
                     WIDTH="465.0"
@@ -1184,7 +1184,7 @@
                     WIDTH="479.0"
                     HEIGHT="53.0">
             <Shape><Polygon POINTS="903 1624 901 1589 1378 1583 1380 1626 1378 1634 901 1636"/></Shape>
-	    <String CONTENT="Pero al contemplar la estátua"
+	    <String CONTENT="Pero al contemplar la estátua"
                     HPOS="901.0"
                     VPOS="1583.0"
                     WIDTH="479.0"
@@ -1201,7 +1201,7 @@
                     WIDTH="453.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="870 1661 870 1620 1323 1624 1323 1661 1323 1671 870 1676"/></Shape>
-	    <String CONTENT="de su Inés, en la conciencia"
+	    <String CONTENT="de su Inés, en la conciencia"
                     HPOS="870.0"
                     VPOS="1620.0"
                     WIDTH="453.0"
@@ -1252,7 +1252,7 @@
                     WIDTH="469.0"
                     HEIGHT="52.0">
             <Shape><Polygon POINTS="909 1767 909 1725 1378 1727 1378 1767 1378 1777 909 1777"/></Shape>
-	    <String CONTENT="Y arrodillado ante el mármol"
+	    <String CONTENT="Y arrodillado ante el mármol"
                     HPOS="909.0"
                     VPOS="1725.0"
                     WIDTH="469.0"
@@ -1269,7 +1269,7 @@
                     WIDTH="469.0"
                     HEIGHT="62.0">
             <Shape><Polygon POINTS="868 1804 868 1758 1335 1767 1335 1804 1333 1820 866 1814"/></Shape>
-	    <String CONTENT="que guarda su imágen pura,"
+	    <String CONTENT="que guarda su imágen pura,"
                     HPOS="866.0"
                     VPOS="1758.0"
                     WIDTH="469.0"
@@ -1337,7 +1337,7 @@
                     WIDTH="390.0"
                     HEIGHT="52.0">
             <Shape><Polygon POINTS="870 1942 870 1907 1254 1909 1256 1946 1252 1959 866 1957"/></Shape>
-	    <String CONTENT="la estátua de doña Inés;"
+	    <String CONTENT="la estátua de doña Inés;"
                     HPOS="866.0"
                     VPOS="1907.0"
                     WIDTH="390.0"
@@ -1388,7 +1388,7 @@
                     WIDTH="461.0"
                     HEIGHT="51.0">
             <Shape><Polygon POINTS="907 2054 907 2021 1362 2023 1364 2056 1360 2072 903 2064"/></Shape>
-	    <String CONTENT="—Humillate y serás salvo"
+	    <String CONTENT="—Humillate y serás salvo"
                     HPOS="903.0"
                     VPOS="2021.0"
                     WIDTH="461.0"
@@ -1422,7 +1422,7 @@
                     WIDTH="517.0"
                     HEIGHT="64.0">
             <Shape><Polygon POINTS="876 2126 874 2093 1389 2087 1391 2126 1391 2141 1248 2151 1246 2151 1246 2151 1246 2151 1244 2151 1244 2151 1242 2151 1242 2151 1229 2141 1227 2141 1008 2141 1006 2141 967 2151 965 2151 965 2151 963 2151 963 2151 874 2139"/></Shape>
-	    <String CONTENT="—muy pronto tendrás un puesto"
+	    <String CONTENT="—muy pronto tendrás un puesto"
                     HPOS="874.0"
                     VPOS="2087.0"
                     WIDTH="517.0"
@@ -1490,7 +1490,7 @@
                     WIDTH="399.0"
                     HEIGHT="82.0">
             <Shape><Polygon POINTS="870 2273 870 2238 1269 2238 1269 2273 1263 2312 1234 2294 1145 2294 1124 2312 1124 2314 1124 2314 1122 2314 1122 2314 1122 2314 1122 2314 1120 2314 1120 2314 1062 2318 1060 2318 1060 2318 1060 2318 1043 2316 934 2294 907 2316 907 2318 907 2318 905 2318 905 2318 905 2318 905 2318 903 2318 903 2318 903 2320 870 2320"/></Shape>
-	    <String CONTENT="y contempla las estátuas"
+	    <String CONTENT="y contempla las estátuas"
                     HPOS="870.0"
                     VPOS="2238.0"
                     WIDTH="399.0"
@@ -1571,7 +1571,7 @@
                     WIDTH="391.0"
                     HEIGHT="76.0">
             <Shape><Polygon POINTS="148 1223 146 1173 283 1161 285 1161 285 1161 285 1161 287 1161 287 1161 289 1161 289 1161 289 1163 303 1173 308 1180 423 1180 436 1175 465 1165 465 1165 467 1165 467 1165 469 1165 469 1165 469 1165 471 1165 471 1165 471 1165 473 1165 487 1175 491 1178 535 1178 537 1227 535 1237 146 1237"/></Shape>
-	    <String CONTENT="En las márgenes del rio"
+	    <String CONTENT="En las márgenes del rio"
                     HPOS="146.0"
                     VPOS="1161.0"
                     WIDTH="391.0"
@@ -1605,7 +1605,7 @@
                     WIDTH="428.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="111 1299 105 1258 527 1252 533 1295 529 1312 109 1308"/></Shape>
-	    <String CONTENT="la triste Inés no recuerda"
+	    <String CONTENT="la triste Inés no recuerda"
                     HPOS="105.0"
                     VPOS="1252.0"
                     WIDTH="428.0"
@@ -1622,7 +1622,7 @@
                     WIDTH="411.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="111 1337 109 1297 516 1297 520 1333 516 1345 159 1345 113 1357"/></Shape>
-	    <String CONTENT="que nunca estuviese allá."
+	    <String CONTENT="que nunca estuviese allá."
                     HPOS="109.0"
                     VPOS="1297.0"
                     WIDTH="411.0"
@@ -1673,7 +1673,7 @@
                     WIDTH="424.0"
                     HEIGHT="58.0">
             <Shape><Polygon POINTS="111 1440 111 1405 531 1409 533 1444 529 1463 442 1452 411 1463 409 1463 407 1463 407 1463 407 1463 405 1463 405 1463 403 1463 403 1463 403 1463 401 1463 380 1452 109 1459"/></Shape>
-	    <String CONTENT="pero él la calma diciendo:"
+	    <String CONTENT="pero él la calma diciendo:"
                     HPOS="109.0"
                     VPOS="1405.0"
                     WIDTH="424.0"
@@ -1690,7 +1690,7 @@
                     WIDTH="391.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="113 1479 111 1444 500 1440 502 1479 502 1490 113 1496"/></Shape>
-	    <String CONTENT="«Cálmate ya vida mia.»"
+	    <String CONTENT="«Cálmate ya vida mia.»"
                     HPOS="111.0"
                     VPOS="1440.0"
                     WIDTH="391.0"
@@ -1707,7 +1707,7 @@
                     WIDTH="486.0"
                     HEIGHT="81.0">
             <Shape><Polygon POINTS="148 1510 146 1477 628 1469 630 1516 630 1533 601 1547 601 1547 601 1547 599 1547 599 1547 599 1550 483 1550 481 1547 481 1547 479 1547 479 1547 479 1547 477 1547 477 1547 477 1545 465 1535 434 1545 432 1545 432 1545 432 1545 429 1545 429 1545 427 1545 427 1545 427 1545 394 1527 390 1525 144 1521"/></Shape>
-	    <String CONTENT="Don luan se postra á sus piés"
+	    <String CONTENT="Don luan se postra á sus piés"
                     HPOS="144.0"
                     VPOS="1469.0"
                     WIDTH="486.0"
@@ -1826,7 +1826,7 @@
                     WIDTH="356.0"
                     HEIGHT="48.0">
             <Shape><Polygon POINTS="111 1764 107 1731 456 1729 463 1760 458 1777 109 1775"/></Shape>
-	    <String CONTENT="su corazon á Tenorio."
+	    <String CONTENT="su corazon á Tenorio."
                     HPOS="107.0"
                     VPOS="1729.0"
                     WIDTH="356.0"
@@ -1843,7 +1843,7 @@
                     WIDTH="321.0"
                     HEIGHT="50.0">
             <Shape><Polygon POINTS="148 1798 148 1760 469 1764 469 1798 469 1810 148 1810"/></Shape>
-	    <String CONTENT="En esto llega Mejía"
+	    <String CONTENT="En esto llega Mejía"
                     HPOS="148.0"
                     VPOS="1760.0"
                     WIDTH="321.0"
@@ -1860,7 +1860,7 @@
                     WIDTH="405.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="109 1831 109 1791 510 1791 510 1837 506 1851 105 1845"/></Shape>
-	    <String CONTENT="para vengar á doña Ana,"
+	    <String CONTENT="para vengar á doña Ana,"
                     HPOS="105.0"
                     VPOS="1791.0"
                     WIDTH="405.0"
@@ -1877,7 +1877,7 @@
                     WIDTH="469.0"
                     HEIGHT="71.0">
             <Shape><Polygon POINTS="113 1868 111 1833 576 1826 578 1872 574 1897 423 1882 382 1893 380 1893 378 1893 378 1893 376 1893 376 1893 374 1893 372 1893 316 1878 295 1888 295 1888 295 1888 293 1888 293 1888 291 1888 109 1884"/></Shape>
-	    <String CONTENT="ya que él entró por sorpresa"
+	    <String CONTENT="ya que él entró por sorpresa"
                     HPOS="109.0"
                     VPOS="1826.0"
                     WIDTH="469.0"
@@ -1928,7 +1928,7 @@
                     WIDTH="339.0"
                     HEIGHT="58.0">
             <Shape><Polygon POINTS="109 1977 109 1936 446 1944 446 1977 444 1994 107 1988"/></Shape>
-	    <String CONTENT="á reclamarle su hija:"
+	    <String CONTENT="á reclamarle su hija:"
                     HPOS="107.0"
                     VPOS="1936.0"
                     WIDTH="339.0"
@@ -2013,7 +2013,7 @@
                     WIDTH="432.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="109 2161 109 2124 541 2128 541 2161 541 2180 109 2180"/></Shape>
-	    <String CONTENT="por lués y, si el le acepta,"
+	    <String CONTENT="por lués y, si el le acepta,"
                     HPOS="109.0"
                     VPOS="2124.0"
                     WIDTH="432.0"

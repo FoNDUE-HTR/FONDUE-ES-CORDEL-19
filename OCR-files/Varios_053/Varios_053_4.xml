@@ -12,13 +12,13 @@
   
   <Tags>
     <OtherTag ID="BT221" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT222" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT223" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/><OtherTag ID="BT224" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT225" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT226" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT227" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT228" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT229" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT231" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT232" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT233" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT234" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
-    <OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT84" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT90" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1860"
           HEIGHT="2629"
-          PHYSICAL_IMG_NR="207"
+          PHYSICAL_IMG_NR="3"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -42,7 +42,7 @@
                     WIDTH="1412.0"
                     HEIGHT="92.0">
             <Shape><Polygon POINTS="186 232 188 173 241 190 315 175 318 175 318 175 318 175 320 175 320 175 322 175 322 175 322 175 322 175 324 175 324 175 344 190 416 177 416 177 418 177 418 177 418 177 421 177 421 177 421 177 423 177 423 177 438 190 576 186 579 186 579 186 579 186 581 186 581 186 609 199 710 199 732 181 732 181 734 181 734 181 736 181 736 181 736 181 736 181 739 181 739 181 739 181 855 199 886 188 886 188 888 188 888 188 890 188 890 188 890 188 892 188 892 188 892 188 894 188 912 201 997 186 997 186 997 186 1000 186 1000 186 1002 186 1002 186 1002 186 1004 186 1035 205 1138 205 1164 188 1166 188 1166 188 1166 188 1169 188 1169 188 1169 188 1171 188 1171 188 1171 188 1173 188 1239 201 1269 190 1269 190 1272 190 1272 190 1274 190 1274 190 1274 190 1276 190 1276 190 1316 208 1364 192 1366 192 1366 192 1366 192 1368 192 1368 192 1370 192 1370 192 1370 192 1373 192 1373 192 1388 203 1484 194 1484 194 1487 194 1487 194 1489 194 1489 194 1522 208 1592 194 1596 254 1592 265 184 243"/></Shape>
-	    <String CONTENT="Varios de éstos reconocieroa en la auerta a una ramera, muy popular"
+	    <String CONTENT="Varios de éstos reconocieron en la muerta a una ramera, muy popular"
                     HPOS="184.0"
                     VPOS="173.0"
                     WIDTH="1412.0"
@@ -76,7 +76,7 @@
                     WIDTH="1417.0"
                     HEIGHT="83.0">
             <Shape><Polygon POINTS="182 326 182 278 1594 295 1596 343 1592 361 179 341"/></Shape>
-	    <String CONTENT="En seguida se dió cuenta del hecho a la policia quien a vez avisó al"
+	    <String CONTENT="En seguida se dió cuenta del hecho a la policia quien a su vez avisó al"
                     HPOS="179.0"
                     VPOS="278.0"
                     WIDTH="1417.0"
@@ -110,7 +110,7 @@
                     WIDTH="1417.0"
                     HEIGHT="110.0">
             <Shape><Polygon POINTS="182 414 182 370 603 374 614 370 651 350 651 350 651 350 653 350 653 350 655 350 807 350 807 350 807 350 809 350 809 350 809 350 811 350 826 361 875 352 875 352 875 352 877 352 877 352 879 352 879 352 879 352 881 352 881 352 881 354 899 370 910 381 967 383 1037 383 1050 370 1068 354 1068 354 1068 354 1070 354 1070 354 1072 354 1072 354 1072 354 1074 354 1074 354 1074 354 1147 370 1155 372 1166 370 1217 357 1219 357 1219 357 1221 357 1221 357 1221 357 1223 357 1267 370 1278 374 1283 370 1291 363 1291 363 1294 363 1294 363 1294 363 1296 363 1296 363 1298 363 1298 363 1298 363 1300 363 1300 363 1318 370 1348 385 1373 370 1384 363 1386 363 1386 363 1386 363 1388 363 1388 363 1390 363 1390 363 1390 363 1392 363 1392 363 1412 370 1454 389 1509 389 1528 370 1533 368 1533 365 1533 365 1535 365 1535 365 1535 365 1537 365 1537 365 1539 365 1539 365 1590 372 1592 433 1590 451 1364 460 1362 460 1362 460 1359 460 1359 460 1359 460 1357 460 1357 460 1357 457 1344 446 1342 442 1300 442 1294 444 1278 457 1278 457 1276 457 1276 457 1274 457 1274 457 1274 457 1272 457 1272 457 1169 444 1142 457 1142 457 1142 457 1140 457 1140 457 1138 457 1138 457 1138 457 1136 457 1136 457 1136 457 1133 457 1112 440 1105 438 1074 440 1000 446 1000 446 997 446 997 446 995 446 995 446 971 438 958 433 820 433 815 433 796 444 796 444 796 444 794 444 794 444 794 444 791 444 791 444 789 444 743 433 734 431 697 431 675 431 658 446 658 449 658 449 655 449 655 449 653 449 653 449 653 449 651 449 651 449 651 449 649 449 649 449 609 431 508 444 508 444 506 444 506 444 504 444 432 427 339 440 339 440 337 440 337 440 335 440 293 429 267 442 267 442 267 442 265 442 265 442 265 442 263 442 201 438 201 438 199 438 199 438 199 438 197 438 197 438 175 420"/></Shape>
-	    <String CONTENT="Praoticadas las primeras diligencias, se ordenó el levantamiento del"
+	    <String CONTENT="Practicadas las primeras diligencias, se ordenó el levantamiento del"
                     HPOS="175.0"
                     VPOS="350.0"
                     WIDTH="1417.0"
@@ -127,7 +127,7 @@
                     WIDTH="972.0"
                     HEIGHT="123.0">
             <Shape><Polygon POINTS="89 455 87 374 1055 365 1057 468 1052 488 85 471"/></Shape>
-	    <String CONTENT="cdaven tica ia, confmonzo sn misprnsi cimncr"
+	    <String CONTENT="cadáver, que fue conducido al Hospital Clínieo."
                     HPOS="85.0"
                     VPOS="365.0"
                     WIDTH="972.0"
@@ -144,7 +144,7 @@
                     WIDTH="1409.0"
                     HEIGHT="77.0">
             <Shape><Polygon POINTS="182 503 182 457 923 471 976 468 1162 460 1164 460 1164 460 1164 460 1166 460 1166 460 1195 473 1204 475 1219 473 1283 462 1283 462 1285 462 1285 462 1285 462 1348 473 1364 462 1366 462 1366 462 1366 462 1368 462 1368 462 1370 462 1370 462 1370 462 1373 462 1373 462 1373 462 1397 475 1401 477 1410 475 1454 464 1456 464 1456 464 1458 464 1458 464 1585 479 1588 519 1583 534 179 512"/></Shape>
-	    <String CONTENT="Por reterencias de elgu nasaaigas de la interfacta, se vino én sos¬"
+	    <String CONTENT="Por referencias de algunasamigas de la interfacta, se vino én sos-"
                     HPOS="179.0"
                     VPOS="457.0"
                     WIDTH="1409.0"
@@ -161,7 +161,7 @@
                     WIDTH="1507.0"
                     HEIGHT="87.0">
             <Shape><Polygon POINTS="87 547 83 508 114 495 114 495 116 495 116 495 118 495 177 495 177 495 177 495 179 495 179 495 212 510 221 512 293 510 519 501 522 501 522 501 625 514 647 517 653 514 690 501 690 501 693 501 693 501 695 501 695 501 875 517 897 519 901 519 929 506 929 506 932 506 932 506 934 506 1076 508 1076 508 1210 521 1269 527 1305 523 1392 510 1392 510 1394 510 1394 510 1394 510 1397 510 1443 525 1460 530 1482 525 1526 517 1526 517 1526 517 1528 517 1528 517 1588 527 1590 567 1585 582 85 560"/></Shape>
-	    <String CONTENT="pecha de que en el crimen pudiera hallarse complicado un sujeto do malos"
+	    <String CONTENT="pecha de que en el crimen pudiera hallarse complicado un sujeto de malos"
                     HPOS="83.0"
                     VPOS="495.0"
                     WIDTH="1507.0"
@@ -178,7 +178,7 @@
                     WIDTH="925.0"
                     HEIGHT="112.0">
             <Shape><Polygon POINTS="87 593 87 549 1006 552 1008 602 1004 648 866 628 813 635 804 641 785 659 785 659 783 659 783 659 783 659 780 659 780 659 780 661 550 661 548 659 517 657 517 657 515 657 515 657 515 657 513 657 513 657 482 633 473 624 445 630 421 635 421 635 421 635 418 635 418 635 418 635 383 628 361 624 357 628 335 648 335 650 335 650 333 650 333 650 333 650 331 650 331 650 329 650 329 650 329 650 326 650 278 635 261 650 261 652 261 652 258 652 258 652 256 652 256 652 256 652 254 652 254 652 254 652 252 652 252 652 184 622 182 620 83 617"/></Shape>
-	    <String CONTENT="antecadencer, conocido por Luis : El Prancés."
+	    <String CONTENT="antecedentes, conocido por Luis «El Francés."
                     HPOS="83.0"
                     VPOS="549.0"
                     WIDTH="925.0"
@@ -188,14 +188,14 @@
           
           
           <TextLine ID="eSc_line_9a1d9312"
-                    TAGREFS="LT84"
+                    TAGREFS="LT90"
                     BASELINE="372 747 1285 747" 
                     HPOS="366.0"
                     VPOS="648.0"
                     WIDTH="919.0"
                     HEIGHT="145.0">
             <Shape><Polygon POINTS="372 747 366 672 397 648 399 648 401 648 403 648 532 652 535 652 537 652 537 655 554 668 557 672 673 672 690 666 747 648 750 648 752 648 868 648 870 648 872 648 872 650 883 661 892 668 903 661 910 655 912 655 914 655 916 655 919 655 929 659 954 672 1065 672 1081 657 1081 655 1083 655 1085 655 1087 655 1105 655 1223 670 1241 652 1245 650 1245 648 1248 648 1250 648 1252 648 1285 652 1285 747 1285 793 1199 793 1197 790 1195 790 1193 790 1166 768 1133 790 1131 790 1129 790 1127 790 1103 788 1002 779 949 786 921 790 919 790 916 790 901 786 842 766 809 779 807 779 804 779 710 766 686 784 677 790 675 790 673 790 673 793 633 793 631 790 629 790 627 790 618 782 598 766 372 777"/></Shape>
-	    <String CONTENT="¿el verdadero autor?"
+	    <String CONTENT="¿El verdadero autor?"
                     HPOS="366.0"
                     VPOS="648.0"
                     WIDTH="919.0"
@@ -222,7 +222,7 @@
                     WIDTH="1419.0"
                     HEIGHT="110.0">
             <Shape><Polygon POINTS="177 847 177 799 348 801 357 799 414 784 416 784 416 784 418 784 418 784 418 784 421 784 421 784 456 799 486 777 489 777 489 777 489 777 491 777 491 777 491 777 493 777 541 779 541 779 541 779 543 779 543 779 546 779 546 779 572 801 662 784 662 784 662 784 664 784 664 784 666 784 734 804 743 806 750 804 804 782 804 782 807 782 807 782 807 782 809 782 809 782 903 795 916 784 916 784 919 784 919 784 919 784 921 784 921 784 923 784 1011 786 1011 786 1011 786 1013 786 1013 786 1013 786 1015 786 1015 786 1015 788 1026 797 1112 786 1112 786 1114 786 1114 786 1114 786 1116 786 1116 786 1116 786 1118 786 1118 786 1142 808 1149 814 1241 814 1250 808 1276 795 1276 795 1276 795 1278 795 1278 795 1280 795 1280 795 1280 795 1344 808 1399 797 1399 797 1399 797 1401 797 1401 797 1401 797 1403 797 1403 797 1403 797 1427 810 1443 819 1524 819 1530 810 1544 801 1544 799 1544 799 1546 799 1546 799 1546 799 1548 799 1548 799 1550 799 1550 799 1550 799 1552 799 1594 812 1594 867 1592 876 1438 887 1436 887 1436 887 1280 874 1269 874 1261 874 1125 882 1123 882 1123 882 1123 882 1072 871 1068 871 1061 871 967 880 967 880 965 880 965 880 965 880 919 869 912 869 901 869 809 878 807 878 807 878 807 878 761 867 752 867 736 867 651 876 649 876 175 860"/></Shape>
-	    <String CONTENT="Ayer mañaoa el Juegado de guardia entrego las diligencias del"
+	    <String CONTENT="Ayer mañana el Juzgado de guardia entrego las diligencias del"
                     HPOS="175.0"
                     VPOS="777.0"
                     WIDTH="1419.0"
@@ -239,7 +239,7 @@
                     WIDTH="1505.0"
                     HEIGHT="77.0">
             <Shape><Polygon POINTS="85 891 85 845 1416 869 1421 869 1550 860 1552 860 1552 860 1552 860 1555 860 1555 860 1588 874 1585 911 1581 922 83 902"/></Shape>
-	    <String CONTENT="orimen al Juzgudo del Sur, contin nando las indagacioues con gran aeti¬"
+	    <String CONTENT="crimen al Juzgado del Sur, continuando las indagaciones con gran acti-"
                     HPOS="83.0"
                     VPOS="845.0"
                     WIDTH="1505.0"
@@ -256,7 +256,7 @@
                     WIDTH="1231.0"
                     HEIGHT="72.0">
             <Shape><Polygon POINTS="89 939 89 896 1313 911 1316 950 1311 968 85 950"/></Shape>
-	    <String CONTENT="vidad para der con el verdadero cul pable del heoho de antos."
+	    <String CONTENT="vidad para der con el verdadero culpable del heoho de autos."
                     HPOS="85.0"
                     VPOS="896.0"
                     WIDTH="1231.0"
@@ -273,7 +273,7 @@
                     WIDTH="1408.0"
                     HEIGHT="79.0">
             <Shape><Polygon POINTS="175 983 175 937 1579 959 1581 999 1577 1016 173 994"/></Shape>
-	    <String CONTENT="El crimen podia clasificarse entre las hazañas de la gente del hampa,"
+	    <String CONTENT="El crimen podia clasificarse entre las hazañas de la gente del hampa,"
                     HPOS="173.0"
                     VPOS="937.0"
                     WIDTH="1408.0"
@@ -290,7 +290,7 @@
                     WIDTH="1410.0"
                     HEIGHT="83.0">
             <Shape><Polygon POINTS="175 1029 175 981 1583 1005 1583 1045 1579 1064 173 1045"/></Shape>
-	    <String CONTENT="Luis, «El Francéa» era el amante de «La Chata», a Juien explotaba"
+	    <String CONTENT="Luis, «El Francés» era el amante de «La Chata», a quien explotaba"
                     HPOS="173.0"
                     VPOS="981.0"
                     WIDTH="1410.0"
@@ -307,7 +307,7 @@
                     WIDTH="683.0"
                     HEIGHT="59.0">
             <Shape><Polygon POINTS="83 1073 83 1034 761 1036 761 1080 756 1093 78 1082"/></Shape>
-	    <String CONTENT="a cambio de rebaciones amorosas."
+	    <String CONTENT="a cambio de relaciones amorosas."
                     HPOS="78.0"
                     VPOS="1034.0"
                     WIDTH="683.0"
@@ -324,7 +324,7 @@
                     WIDTH="1406.0"
                     HEIGHT="76.0">
             <Shape><Polygon POINTS="175 1119 175 1077 739 1082 745 1082 809 1069 809 1069 809 1069 811 1069 811 1069 811 1069 813 1069 813 1069 844 1082 872 1069 872 1069 875 1069 875 1069 875 1069 877 1069 877 1069 973 1084 978 1084 980 1084 993 1071 993 1071 995 1071 995 1071 995 1071 997 1071 997 1071 1000 1071 1112 1071 1112 1071 1267 1086 1269 1086 1269 1086 1285 1073 1285 1073 1287 1073 1287 1073 1287 1073 1289 1073 1289 1073 1291 1073 1346 1073 1346 1073 1346 1073 1348 1073 1348 1073 1388 1088 1390 1088 1392 1088 1423 1075 1423 1075 1425 1075 1425 1075 1425 1075 1427 1075 1577 1091 1579 1132 1574 1145 173 1130"/></Shape>
-	    <String CONTENT="Por lo visto, autencche Luis arreció en sus peticiones de dinero, sien¬"
+	    <String CONTENT="Por lo visto, antenoche Luis arreció en sus peticiones de dinero, sien-"
                     HPOS="173.0"
                     VPOS="1069.0"
                     WIDTH="1406.0"
@@ -341,7 +341,7 @@
                     WIDTH="1501.0"
                     HEIGHT="79.0">
             <Shape><Polygon POINTS="81 1161 81 1110 291 1126 372 1117 372 1117 375 1117 375 1117 456 1130 1577 1134 1579 1178 1574 1189 78 1178"/></Shape>
-	    <String CONTENT="do desoido, por an amante quien so uegó terminantemente a seguir satis."
+	    <String CONTENT="do desoido, por su amante quien se negó terminantemente a seguir satis-"
                     HPOS="78.0"
                     VPOS="1110.0"
                     WIDTH="1501.0"
@@ -375,7 +375,7 @@
                     WIDTH="1411.0"
                     HEIGHT="77.0">
             <Shape><Polygon POINTS="171 1253 168 1213 524 1209 526 1209 526 1209 583 1218 603 1220 625 1218 708 1209 708 1209 710 1209 710 1209 712 1209 712 1209 712 1209 715 1209 730 1220 745 1209 747 1209 747 1209 747 1209 750 1209 750 1209 752 1209 752 1209 752 1209 754 1209 789 1220 798 1222 804 1220 835 1211 837 1211 837 1211 840 1211 840 1211 960 1222 987 1224 1008 1222 1112 1213 1112 1213 1114 1213 1114 1213 1177 1224 1188 1229 1305 1229 1305 1226 1318 1215 1318 1215 1320 1215 1320 1215 1320 1215 1322 1215 1322 1215 1322 1215 1324 1215 1324 1215 1327 1215 1373 1229 1379 1229 1397 1229 1546 1218 1548 1218 1548 1218 1548 1218 1550 1218 1550 1218 1579 1231 1579 1268 1574 1286 168 1264"/></Shape>
-	    <String CONTENT="Los dos protogonistas debieron dis putar con alguna violencia, hasta"
+	    <String CONTENT="Los dos protogonistas debieron disputar con alguna violencia, hasta"
                     HPOS="168.0"
                     VPOS="1209.0"
                     WIDTH="1411.0"
@@ -392,7 +392,7 @@
                     WIDTH="1501.0"
                     HEIGHT="86.0">
             <Shape><Polygon POINTS="81 1299 81 1248 157 1259 271 1250 285 1250 287 1250 287 1250 287 1250 289 1250 289 1250 289 1250 291 1250 291 1250 291 1250 291 1253 293 1253 300 1261 388 1253 397 1253 399 1253 1577 1275 1579 1314 1577 1323 1394 1334 1392 1334 78 1312"/></Shape>
-	    <String CONTENT="que «El Francés» exacerbado por la actitud de «La Chata», intirió a ésta"
+	    <String CONTENT="que «El Francés» exacerbado por la actitud de «La Chata», infirió a ésta"
                     HPOS="78.0"
                     VPOS="1248.0"
                     WIDTH="1501.0"
@@ -409,7 +409,7 @@
                     WIDTH="1031.0"
                     HEIGHT="75.0">
             <Shape><Polygon POINTS="78 1342 78 1296 1103 1312 1105 1353 1101 1371 74 1353"/></Shape>
-	    <String CONTENT="las distintav heridas que le oossionaron su muerte."
+	    <String CONTENT="las distintas heridas que le ocasionaron su muerte."
                     HPOS="74.0"
                     VPOS="1296.0"
                     WIDTH="1031.0"
@@ -426,7 +426,7 @@
                     WIDTH="1403.0"
                     HEIGHT="85.0">
             <Shape><Polygon POINTS="173 1388 173 1345 1572 1360 1574 1404 1572 1413 1377 1430 1375 1430 1375 1430 1375 1430 1373 1430 1337 1419 1199 1428 1197 1428 1197 1428 1197 1428 1195 1428 1195 1428 1193 1428 1164 1410 1125 1421 1123 1421 1123 1421 1120 1421 1120 1421 1120 1421 1118 1421 1118 1421 1118 1421 1098 1410 1081 1426 1081 1426 1079 1426 1079 1426 1079 1426 1076 1426 1076 1426 1076 1428 976 1428 973 1426 973 1426 899 1410 787 1419 787 1419 785 1419 548 1406 486 1417 486 1417 486 1417 484 1417 484 1417 482 1417 429 1404 414 1417 414 1417 412 1417 412 1417 412 1417 410 1417 410 1417 407 1417 407 1417 407 1417 405 1417 348 1399 171 1397"/></Shape>
-	    <String CONTENT="Pocas horas después el asesino se presentó a una compañera de la vío¬"
+	    <String CONTENT="Pocas horas después el asesino se presentó a una compañera de la víc-"
                     HPOS="171.0"
                     VPOS="1345.0"
                     WIDTH="1403.0"
@@ -477,7 +477,7 @@
                     WIDTH="1408.0"
                     HEIGHT="83.0">
             <Shape><Polygon POINTS="168 1522 166 1483 730 1481 732 1481 912 1491 971 1494 1002 1491 1114 1483 1114 1483 1116 1483 1116 1483 1118 1483 1162 1494 1171 1496 1173 1494 1186 1485 1188 1485 1188 1485 1188 1485 1191 1485 1191 1485 1193 1485 1311 1485 1311 1485 1311 1485 1366 1496 1377 1500 1574 1500 1574 1537 1572 1564 1230 1564 1228 1562 1228 1562 1226 1562 1201 1555 1166 1546 1101 1553 1057 1557 1057 1557 1055 1557 1055 1557 1052 1557 1052 1557 1037 1553 1022 1546 1004 1551 978 1559 976 1559 976 1559 973 1559 903 1557 903 1557 903 1557 901 1557 901 1557 901 1557 899 1557 899 1557 890 1548 886 1546 881 1548 870 1557 868 1557 868 1557 868 1557 866 1557 866 1557 864 1557 864 1557 758 1546 750 1546 741 1546 574 1555 572 1555 572 1555 572 1555 502 1542 491 1540 460 1540 311 1546 309 1546 166 1533"/></Shape>
-	    <String CONTENT="Enterada de este incidente la policia, procedió a la busca y captura"
+	    <String CONTENT="Enterada de este incidente la policia, procedió a la busca y captura"
                     HPOS="166.0"
                     VPOS="1481.0"
                     WIDTH="1408.0"
@@ -514,14 +514,14 @@
           
           
           <TextLine ID="eSc_line_70080e77"
-                    TAGREFS="LT84"
+                    TAGREFS="LT90"
                     BASELINE="287 1715 1324 1726" 
                     HPOS="280.0"
                     VPOS="1619.0"
                     WIDTH="1044.0"
                     HEIGHT="149.0">
             <Shape><Polygon POINTS="287 1715 285 1629 361 1619 364 1619 366 1619 368 1619 368 1621 379 1629 388 1636 423 1629 478 1619 480 1619 482 1619 508 1629 532 1638 638 1629 655 1629 658 1629 675 1629 785 1640 796 1632 802 1625 802 1623 804 1623 807 1623 809 1623 840 1623 842 1623 870 1632 912 1645 1013 1645 1030 1632 1035 1627 1037 1627 1039 1627 1041 1627 1109 1632 1223 1640 1322 1634 1324 1726 1318 1768 1259 1739 1162 1754 1160 1754 1158 1754 1155 1754 1155 1752 1138 1737 1035 1728 1004 1739 1002 1739 1000 1739 726 1726 686 1741 684 1741 682 1741 679 1741 677 1741 677 1739 662 1726 616 1726 598 1741 576 1759 576 1761 574 1761 572 1761 570 1761 401 1759 399 1759 397 1759 370 1735 350 1752 350 1754 348 1754 346 1754 344 1754 342 1754 280 1728"/></Shape>
-	    <String CONTENT="Detención del criminat"
+	    <String CONTENT="Detención del criminal"
                     HPOS="280.0"
                     VPOS="1619.0"
                     WIDTH="1044.0"
@@ -548,7 +548,7 @@
                     WIDTH="1426.0"
                     HEIGHT="103.0">
             <Shape><Polygon POINTS="146 1822 149 1759 199 1778 269 1761 285 1759 285 1759 285 1759 287 1759 359 1761 359 1761 359 1761 361 1761 361 1761 361 1761 364 1761 364 1761 364 1763 366 1763 383 1781 449 1770 449 1770 451 1770 451 1770 451 1770 454 1770 502 1785 642 1785 662 1774 664 1774 664 1774 664 1774 666 1774 666 1774 668 1774 668 1774 668 1774 671 1774 671 1774 671 1774 690 1785 708 1774 710 1774 710 1774 712 1774 712 1774 712 1774 715 1774 715 1774 717 1774 772 1787 802 1774 813 1770 813 1770 815 1770 815 1770 815 1770 818 1770 818 1770 820 1770 820 1770 820 1770 831 1774 859 1789 943 1781 943 1781 945 1781 1055 1792 1072 1781 1076 1776 1076 1776 1079 1776 1079 1776 1081 1776 1081 1776 1081 1776 1083 1776 1083 1776 1133 1783 1221 1794 1248 1785 1278 1774 1278 1774 1280 1774 1280 1774 1283 1774 1478 1778 1478 1778 1478 1778 1480 1778 1480 1778 1482 1778 1482 1778 1482 1781 1495 1792 1504 1798 1568 1794 1570 1844 1566 1862 144 1838"/></Shape>
-	    <String CONTENT="En Badalonn junto cou des bandidos más prendieron al crimial al mo"
+	    <String CONTENT="En Badalona junto con dos bandidos más prendieron al crimial al mo"
                     HPOS="144.0"
                     VPOS="1759.0"
                     WIDTH="1426.0"
@@ -582,7 +582,7 @@
                     WIDTH="1499.0"
                     HEIGHT="82.0">
             <Shape><Polygon POINTS="70 1912 70 1870 1563 1886 1566 1930 1563 1941 1392 1952 1390 1952 1390 1952 1388 1952 1344 1941 1219 1949 1217 1949 1217 1949 1217 1949 1215 1949 1171 1938 1169 1938 1166 1938 1028 1947 1026 1947 1026 1947 945 1936 943 1936 943 1936 820 1945 818 1945 67 1925"/></Shape>
-	    <String CONTENT="el Si. Juez de Badalona eon se especial avilidad supo hacerle cantar de"
+	    <String CONTENT="el Sr. Juez de Badalona con se especial avilidad supo hacerle cantar de"
                     HPOS="67.0"
                     VPOS="1870.0"
                     WIDTH="1499.0"
@@ -599,7 +599,7 @@
                     WIDTH="1499.0"
                     HEIGHT="74.0">
             <Shape><Polygon POINTS="70 1958 70 1919 1563 1932 1566 1978 1561 1993 67 1973"/></Shape>
-	    <String CONTENT="plano toda la relación del crimen y desde luego confesarse autor del"
+	    <String CONTENT="plano toda la relación del crimen y desde luego confesarse autor del"
                     HPOS="67.0"
                     VPOS="1919.0"
                     WIDTH="1499.0"
@@ -616,7 +616,7 @@
                     WIDTH="1489.0"
                     HEIGHT="77.0">
             <Shape><Polygon POINTS="72 2002 72 1960 787 1960 787 1960 1057 1973 1112 1976 1136 1976 1259 1967 1261 1967 1557 1982 1559 2024 1555 2037 70 2011"/></Shape>
-	    <String CONTENT="crimen siendo esta persoos de malos antecedentes, tiene 25 años,"
+	    <String CONTENT="crimen siendo esta persona de malos antecedentes, tiene 25 años,"
                     HPOS="70.0"
                     VPOS="1960.0"
                     WIDTH="1489.0"
@@ -633,7 +633,7 @@
                     WIDTH="1499.0"
                     HEIGHT="96.0">
             <Shape><Polygon POINTS="70 2044 70 2002 1563 2030 1566 2068 1563 2090 1322 2098 1320 2098 1320 2098 1318 2098 1318 2098 1318 2098 1291 2085 1283 2081 1219 2083 1033 2094 1030 2094 1030 2094 877 2076 851 2074 844 2076 807 2090 807 2090 804 2090 804 2090 802 2090 802 2090 800 2090 741 2074 730 2072 721 2074 655 2087 655 2087 655 2087 653 2087 653 2087 651 2087 611 2076 350 2083 348 2083 348 2083 346 2083 289 2065 67 2059"/></Shape>
-	    <String CONTENT="habiendo ingresado en ln carcel inmed atamente hesta esperar la pena que"
+	    <String CONTENT="habiendo ingresado en la carcel inmediatamente hasta esperar la pena que"
                     HPOS="67.0"
                     VPOS="2002.0"
                     WIDTH="1499.0"
@@ -650,7 +650,7 @@
                     WIDTH="283.0"
                     HEIGHT="112.0">
             <Shape><Polygon POINTS="67 2092 67 2048 339 2057 342 2096 337 2138 239 2136 239 2136 210 2160 210 2160 208 2160 208 2160 208 2160 206 2160 206 2160 206 2160 203 2160 146 2157 146 2157 146 2157 144 2157 144 2157 144 2157 142 2157 142 2157 142 2155 125 2140 100 2149 98 2149 98 2149 98 2149 96 2149 96 2149 96 2149 94 2149 94 2149 92 2149 59 2129"/></Shape>
-	    <String CONTENT="le perteneoa."
+	    <String CONTENT="le pertenece."
                     HPOS="59.0"
                     VPOS="2048.0"
                     WIDTH="283.0"
@@ -677,7 +677,7 @@
                     WIDTH="726.0"
                     HEIGHT="123.0">
             <Shape><Polygon POINTS="418 2241 418 2155 1140 2171 1140 2256 1136 2278 414 2265"/></Shape>
-	    <String CONTENT="Imp. Aldaua, fa — BARCELONA"
+	    <String CONTENT="Imp. Aldaua, 12 — BARCELONA"
                     HPOS="414.0"
                     VPOS="2155.0"
                     WIDTH="726.0"

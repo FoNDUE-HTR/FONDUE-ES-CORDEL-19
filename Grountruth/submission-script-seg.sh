@@ -9,11 +9,11 @@ module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 pip install albumentations
 
-work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-segmentation/Model_BGR_4"
+work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-segmentation/Model_BGR_5"
 mkdir -p ${work_directory}
 cd ${work_directory}
 
-OUTPUT_NAME="output_name"
+OUTPUT_NAME="Model_BGR_5"
 
 XML_FOLDER="/home/users/j/jacsont/Varios-OCR-files/Grountruth/Data+varios/"
 echo "KETOS training"

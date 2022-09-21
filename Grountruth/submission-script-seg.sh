@@ -6,7 +6,7 @@
 #SBATCH --mem=0
 
 module load fosscuda/2020b Python/3.8.6
-source ~/Sandozenv/bin/activate
+source ~/Kraken-env/bin/activate
 pip install albumentations
 
 work_directory="/home/users/j/jacsont/Varios-OCR-files/Models/Models-segmentation/Model_BGR_5"

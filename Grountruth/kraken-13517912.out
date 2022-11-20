@@ -103,3 +103,7 @@ Total estimated model params size (MB): 16
 SLURM auto-requeueing enabled. Setting signal handlers.
 stage 0/∞  ━━━━━━━━━━━ 54856/54856 0:00:00 1 day,      val_accura… early_stoppi…
                                            17:28:38    0.92561     0/20 0.92561 
+srun: Job step aborted: Waiting up to 92 seconds for job step to finish.
+slurmstepd: error: *** JOB 13517912 ON gpu004 CANCELLED AT 2022-11-02T15:20:39 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 13517912.0 ON gpu004 CANCELLED AT 2022-11-02T15:20:39 DUE TO TIME LIMIT ***
+bypassing sigterm

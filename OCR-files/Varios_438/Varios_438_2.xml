@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Varios_438_2.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT221" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT222" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT223" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/><OtherTag ID="BT224" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT225" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT226" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT227" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT228" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT229" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT231" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT232" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT233" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT234" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
+    <OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT84" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2313"
+          PHYSICAL_IMG_NR="57"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2313">
+        
+        <TextBlock HPOS="585"
+                   VPOS="952"
+                   WIDTH="627"
+                   HEIGHT="261"
+                   ID="block_3"
+                   TAGREFS="BT225">
+          <Shape><Polygon POINTS="1212 952 1212 1213 585 1213 585 952"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT81"
+                    BASELINE="740 1102 839 1099 1036 1102" 
+                    HPOS="736"
+                    VPOS="1052"
+                    WIDTH="299"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="738 1100 736 1108 1033 1104 1035 1100 1033 1052 738 1052 738 1100"/></Shape>
+	    <String CONTENT="ES PROPIEDAD"
+                    HPOS="736"
+                    VPOS="1052"
+                    WIDTH="299"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="562"
+                   VPOS="2050"
+                   WIDTH="713"
+                   HEIGHT="111"
+                   ID="block_2"
+                   TAGREFS="BT228">
+          <Shape><Polygon POINTS="1275 2050 1275 2161 562 2161 562 2050"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT83"
+                    BASELINE="589 2111 1229 2102" 
+                    HPOS="588"
+                    VPOS="2073"
+                    WIDTH="641"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="589 2143 681 2143 682 2143 683 2143 722 2130 768 2140 769 2140 771 2140 772 2140 786 2129 809 2140 810 2140 812 2140 813 2140 823 2139 916 2129 934 2138 938 2139 939 2139 940 2139 1020 2138 1021 2138 1026 2135 1047 2125 1102 2125 1119 2133 1123 2135 1124 2135 1125 2135 1127 2135 1128 2135 1128 2134 1129 2133 1139 2124 1228 2130 1229 2102 1227 2079 1137 2073 1136 2073 1134 2073 1107 2080 1101 2081 1096 2080 1062 2075 1061 2075 1060 2075 1031 2081 1028 2082 1026 2082 1019 2076 1017 2076 1016 2076 956 2076 954 2076 891 2084 882 2077 881 2077 880 2077 879 2077 877 2077 861 2085 859 2085 858 2085 834 2079 832 2079 831 2079 801 2085 794 2079 792 2079 791 2079 790 2079 674 2088 601 2081 600 2081 598 2081 597 2081 588 2086 589 2111"/></Shape>
+	    <String CONTENT="Imprenta de M. Minuesa.—Miguel Servet, 13."
+                    HPOS="588"
+                    VPOS="2073"
+                    WIDTH="641"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Varios_450_2.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT221" LABEL="CustomZone:impresorNum" DESCRIPTION="block type CustomZone:impresorNum"/><OtherTag ID="BT222" LABEL="CustomZone:numero_pliego" DESCRIPTION="block type CustomZone:numero_pliego"/><OtherTag ID="BT223" LABEL="CustomZone:title" DESCRIPTION="block type CustomZone:title"/><OtherTag ID="BT224" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT225" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT226" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT228" LABEL="MarginTextZone:colophon" DESCRIPTION="block type MarginTextZone:colophon"/><OtherTag ID="BT227" LABEL="MainZone:columns" DESCRIPTION="block type MainZone:columns"/><OtherTag ID="BT229" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT231" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT232" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT233" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT234" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
+    <OtherTag ID="LT83" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT81" LABEL="CustomLine:propriedad" DESCRIPTION="line type CustomLine:propriedad"/><OtherTag ID="LT82" LABEL="CustomLine:trailer" DESCRIPTION="line type CustomLine:trailer"/><OtherTag ID="LT84" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="993"
+          HEIGHT="1411"
+          PHYSICAL_IMG_NR="355"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="993"
+                  HEIGHT="1411">
+        
+        <TextBlock HPOS="599"
+                   VPOS="480"
+                   WIDTH="372"
+                   HEIGHT="62"
+                   ID="eSc_textblock_62ed29b7"
+                   TAGREFS="BT226">
+          <Shape><Polygon POINTS="599 481 599 542 971 542 971 480"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cc7e1741"
+                    TAGREFS="LT83"
+                    BASELINE="691 516 839 517" 
+                    HPOS="689"
+                    VPOS="486"
+                    WIDTH="149"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="689 525 837 524 838 516 837 493 704 493 691 486 690 515 689 525"/></Shape>
+	    <String CONTENT="Es propiedad."
+                    HPOS="689"
+                    VPOS="486"
+                    WIDTH="149"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="301"
+                   VPOS="1309"
+                   WIDTH="427"
+                   HEIGHT="63"
+                   ID="eSc_textblock_5c0624f9"
+                   TAGREFS="BT228">
+          <Shape><Polygon POINTS="301 1309 301 1372 728 1372 728 1309"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e559ced9"
+                    TAGREFS="LT83"
+                    BASELINE="305 1343 713 1346" 
+                    HPOS="303"
+                    VPOS="1301"
+                    WIDTH="409"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="304 1342 303 1360 429 1354 444 1363 445 1363 447 1363 448 1363 454 1363 507 1355 547 1362 548 1362 549 1362 569 1356 580 1365 581 1366 582 1366 583 1366 584 1366 711 1365 712 1345 712 1313 681 1313 680 1312 672 1305 672 1303 671 1303 670 1303 611 1303 610 1303 609 1303 592 1309 582 1312 548 1308 530 1306 529 1306 528 1306 524 1307 510 1312 387 1303 370 1302 369 1302 367 1302 340 1308 304 1301 304 1342"/></Shape>
+	    <String CONTENT="Barcelona.—lmp. de J. Jepús Petritxol, 14.—1864."
+                    HPOS="303"
+                    VPOS="1301"
+                    WIDTH="409"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

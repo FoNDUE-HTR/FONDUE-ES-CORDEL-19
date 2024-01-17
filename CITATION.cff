@@ -1,5 +1,9 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.2.0
+title: "FONDUE-ES-CORDEL-19"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
 authors:
   - family-names: Carta
     given-names: Constance
@@ -8,5 +12,12 @@ authors:
   - family-names: Leblanc
     given-names: Élina
 title: "FoNDUE Spanish chapbooks 19th c. Dataset"
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-ES-CORDEL-19'
+keywords:
+  - HTR
+  - spanish
+  - catalan
+  - 19th century
+  - literature
 version: 1.0
-date-released: 2022-03-03
+date-released: 2024-01-17
